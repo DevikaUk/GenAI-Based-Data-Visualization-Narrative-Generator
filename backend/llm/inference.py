@@ -16,9 +16,15 @@ MODEL_NAME = "Qwen/Qwen2.5-1.5B-Instruct"
 
 # For local testing, set this environment variable
 # to the location of qwen_lora_output.
+BASE_DIR = os.path.dirname(
+    os.path.dirname(
+        os.path.dirname(os.path.abspath(__file__))
+    )
+)
+
 ADAPTER_PATH = os.getenv(
     "QLORA_ADAPTER_PATH",
-    "qwen_lora_output"
+    os.path.join(BASE_DIR, "models", "qwen_lora_output")
 )
 
 
@@ -50,10 +56,24 @@ def load_model():
     return model, tokenizer
 
 
-model, tokenizer = load_model()
+model = None
+tokenizer = None
+
+
+def initialize_model():
+    global model, tokenizer
+
+    if model is None or tokenizer is None:
+        print("Loading QLoRA model...")
+        model, tokenizer = load_model()
+        print("QLoRA model loaded.")
+
+    return model, tokenizer
 
 
 def generate_narrative(insights: dict) -> str:
+
+    model, tokenizer = initialize_model()
 
     prompt = build_prompt(insights)
 
