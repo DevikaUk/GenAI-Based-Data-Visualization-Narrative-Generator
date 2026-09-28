@@ -1,0 +1,175 @@
+{
+  "dataset": {
+    "name": "sales.csv",
+    "domain": "sales",
+    "record_count": 20,
+    "columns": {
+      "numeric": [
+        "sales",
+        "profit",
+        "quantity"
+      ],
+      "categorical": [
+        "category",
+        "region",
+        "product"
+      ],
+      "temporal": [
+        "date"
+      ],
+      "identifier": [
+        "order_id"
+      ]
+    }
+  },
+  "metrics": [
+    {
+      "name": "Total Sales",
+      "value": 388100.0,
+      "unit": "INR",
+      "description": "Total sales across all records"
+    },
+    {
+      "name": "Total Profit",
+      "value": 78800.0,
+      "unit": "INR",
+      "description": "Total profit across all records"
+    },
+    {
+      "name": "Total Quantity",
+      "value": 27.0,
+      "unit": "units",
+      "description": "Total quantity across all records"
+    },
+    {
+      "name": "Average Sales",
+      "value": 19405.0,
+      "unit": "INR",
+      "description": "Average sales per record"
+    }
+  ],
+  "trends": [
+    {
+      "metric": "sales",
+      "dimension": "date",
+      "direction": "increasing",
+      "change": 156.0,
+      "unit": "percent",
+      "period": {
+        "start": "2026-01-05",
+        "end": "2026-03-30"
+      },
+      "significance": "high"
+    },
+    {
+      "metric": "profit",
+      "dimension": "date",
+      "direction": "increasing",
+      "change": 183.33,
+      "unit": "percent",
+      "period": {
+        "start": "2026-01-05",
+        "end": "2026-03-30"
+      },
+      "significance": "high"
+    }
+  ],
+  "comparisons": [
+    {
+      "dimension": "category",
+      "metric": "Sales",
+      "highest": {
+        "name": "Electronics",
+        "value": 289200.0
+      },
+      "lowest": {
+        "name": "Appliances",
+        "value": 30400.0
+      }
+    },
+    {
+      "dimension": "region",
+      "metric": "Sales",
+      "highest": {
+        "name": "North",
+        "value": 176800.0
+      },
+      "lowest": {
+        "name": "East",
+        "value": 51700.0
+      }
+    }
+  ],
+  "anomalies": [
+    {
+      "metric": "sales",
+      "dimension": "date",
+      "observation": "2026-02-15",
+      "value": 95000.0,
+      "expected_range": {
+        "lower": -12812.5,
+        "upper": 40487.5
+      },
+      "type": "high",
+      "severity": "high"
+    },
+    {
+      "metric": "sales",
+      "dimension": "date",
+      "observation": "2026-03-25",
+      "value": 55000.0,
+      "expected_range": {
+        "lower": -12812.5,
+        "upper": 40487.5
+      },
+      "type": "high",
+      "severity": "medium"
+    },
+    {
+      "metric": "sales",
+      "dimension": "date",
+      "observation": "2026-03-15",
+      "value": 42000.0,
+      "expected_range": {
+        "lower": -12812.5,
+        "upper": 40487.5
+      },
+      "type": "high",
+      "severity": "low"
+    }
+  ],
+  "distributions": [
+    {
+      "metric": "Sales",
+      "mean": 19405.0,
+      "median": 10400.0,
+      "minimum": 3500.0,
+      "maximum": 95000.0,
+      "std_dev": 22458.77
+    },
+    {
+      "metric": "Profit",
+      "mean": 3940.0,
+      "median": 2050.0,
+      "minimum": 850.0,
+      "maximum": 19500.0,
+      "std_dev": 4760.32
+    }
+  ],
+  "visualizations": [
+    {
+      "title": "Monthly Sales",
+      "type": "line",
+      "metric": "Sales",
+      "dimension": "date",
+      "summary": "Sales increasing consistently during the reporting period, moving by 156.0%."
+    },
+    {
+      "title": "Sales by Category",
+      "type": "bar",
+      "metric": "Sales",
+      "dimension": "category",
+      "summary": "Electronics generated the highest sales (289200.0). In contrast, Appliances recorded the lowest (30400.0)."
+    }
+  ]
+}
