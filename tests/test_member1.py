@@ -260,3 +260,69 @@ class TestAnalyticsJSON:
         json_str = json.dumps(payload, default=str)
         parsed = json.loads(json_str)
         assert "metrics" in parsed
+
+
+# ── Universal Dataset Ingestion & Auto-Mapping tests ──────────────────────────
+
+class TestUniversalDatasetIngestion:
+    def test_ecommerce_retail_format(self, tmp_path):
+        """Test dataset with InvoiceDate, Description, Country, UnitPrice, Quantity, InvoiceNo."""
+        csv_content = """InvoiceNo,InvoiceDate,Description,Quantity,UnitPrice,Country
+INV-001,2024-01-10 12:30,Wireless Mouse,2,25.50,United Kingdom
+INV-002,2024-01-11 14:00,Mechanical Keyboard,1,85.00,Germany
+INV-003,2024-02-05 09:15,USB-C Hub,3,30.00,France
+INV-004,2024-02-20 16:45,Gaming Headset,1,60.00,United Kingdom
+"""
+        csv_file = tmp_path / "online_retail.csv"
+        csv_file.write_text(csv_content, encoding="utf-8")
+
+        from backend.analytics.preprocessing import preprocess
+        df = preprocess(csv_file)
+
+        assert len(df) == 4
+        assert "date" in df.columns
+        assert "sales" in df.columns
+        assert "region" in df.columns
+        assert "product" in df.columns
+        # Sales = quantity * unit_price
+        assert df.loc[0, "sales"] == 51.0
+        assert df.loc[1, "sales"] == 85.0
+
+    def test_minimal_two_column_dataset(self, tmp_path):
+        """Test simple dataset with only Date and Total Revenue."""
+        csv_content = """TransactionDate,TotalAmount
+2024-01-01,1500.00
+2024-01-02,2300.50
+2024-01-03,1800.00
+"""
+        csv_file = tmp_path / "minimal.csv"
+        csv_file.write_text(csv_content, encoding="utf-8")
+
+        from backend.analytics.preprocessing import preprocess
+        df = preprocess(csv_file)
+
+        assert len(df) == 3
+        assert "date" in df.columns
+        assert "sales" in df.columns
+        assert "order_id" in df.columns
+        assert "category" in df.columns
+        assert df["sales"].sum() > 5000
+
+    def test_semicolon_delimited_and_currencies(self, tmp_path):
+        """Test European CSV with semicolon delimiters and formatted currency strings."""
+        csv_content = """Order_Number;Posting_Date;Product_Type;Location;Revenue
+ORD-901;2024-03-01;Consulting;North;"$1,250.00"
+ORD-902;2024-03-02;Software;South;"$3,500.50"
+ORD-903;2024-03-03;Hardware;West;"$800.00"
+"""
+        csv_file = tmp_path / "european.csv"
+        csv_file.write_text(csv_content, encoding="utf-8")
+
+        from backend.analytics.preprocessing import preprocess
+        df = preprocess(csv_file)
+
+        assert len(df) == 3
+        assert df.loc[0, "sales"] == 1250.0
+        assert df.loc[1, "sales"] == 3500.50
+        assert df.loc[0, "category"] == "Consulting"
+
