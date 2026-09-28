@@ -28,13 +28,15 @@ logging.basicConfig(level=logging.INFO, format="%(levelname)s | %(name)s | %(mes
 logger = logging.getLogger(__name__)
 
 
-def build_analytics_json(csv_path: str | Path) -> dict:
+def build_analytics_json(csv_path: str | Path, out_csv_path: Optional[str | Path] = None) -> dict:
     """Run the full Member-1 pipeline and return the analytics JSON dict.
 
     Parameters
     ----------
     csv_path:
         Path to the raw sales CSV file.
+    out_csv_path:
+        Optional path to save the cleaned and feature-engineered CSV to disk.
 
     Returns
     -------
@@ -46,6 +48,13 @@ def build_analytics_json(csv_path: str | Path) -> dict:
 
     # ── 1. Preprocess ─────────────────────────────────────────────────────────
     df = preprocess(csv_path)
+
+    # Save cleaned CSV if requested
+    if out_csv_path:
+        out_csv_path = Path(out_csv_path)
+        out_csv_path.parent.mkdir(parents=True, exist_ok=True)
+        df.to_csv(out_csv_path, index=False)
+        logger.info("Cleaned CSV written → %s", out_csv_path)
 
     # ── 2. Dataset metadata ───────────────────────────────────────────────────
     catalogue = get_column_catalogue()
@@ -183,11 +192,14 @@ if __name__ == "__main__":
     parser = argparse.ArgumentParser(description="Build analytics JSON from a sales CSV.")
     parser.add_argument("--csv", required=True, help="Path to sales CSV file.")
     parser.add_argument("--out", default="data/analytics_output.json", help="Output JSON path.")
+    parser.add_argument("--out-csv", default=None, help="Optional path to save the cleaned preprocessed CSV file.")
     args = parser.parse_args()
 
-    result = build_analytics_json(args.csv)
+    result = build_analytics_json(args.csv, out_csv_path=args.out_csv)
     save_analytics_json(result, args.out)
-    print(f"\n[OK] Analytics JSON saved to: {args.out}")
+    print(f"\n[OK] Analytics JSON saved to : {args.out}")
+    if args.out_csv:
+        print(f"[OK] Cleaned CSV saved to    : {args.out_csv}")
     print(f"  Records processed : {result['dataset']['record_count']:,}")
     print(f"  KPIs computed     : {len(result['metrics'])}")
     print(f"  Trends detected   : {len(result['trends'])}")
