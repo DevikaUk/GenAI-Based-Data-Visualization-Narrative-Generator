@@ -1,0 +1,818 @@
+{
+  "dataset": {
+    "name": "sales.csv",
+    "domain": "sales",
+    "record_count": 9994,
+    "date_range": {
+      "start": "2014-01-03",
+      "end": "2017-12-30"
+    },
+    "columns": {
+      "numeric": [
+        "quantity",
+        "unit_price",
+        "sales",
+        "profit",
+        "year",
+        "month",
+        "week",
+        "profit_margin",
+        "revenue"
+      ],
+      "categorical": [
+        "product",
+        "category",
+        "region",
+        "quarter",
+        "month_name",
+        "period_label"
+      ],
+      "temporal": [
+        "date"
+      ],
+      "identifier": [
+        "order_id"
+      ]
+    },
+    "column_catalogue": {
+      "order_id": {
+        "type": "identifier",
+        "meaning": "Unique order identifier",
+        "unit": null,
+        "expected_range": "ORD000001 \u2013 ORD999999"
+      },
+      "date": {
+        "type": "temporal",
+        "meaning": "Date the order was placed",
+        "unit": "YYYY-MM-DD",
+        "expected_range": "2025-01-01 \u2013 2025-12-31"
+      },
+      "product": {
+        "type": "categorical",
+        "meaning": "Product name",
+        "unit": null,
+        "expected_range": "25 distinct products"
+      },
+      "category": {
+        "type": "categorical",
+        "meaning": "High-level product category",
+        "unit": null,
+        "expected_range": "Electronics | Furniture | Clothing | Groceries | Sports"
+      },
+      "region": {
+        "type": "categorical",
+        "meaning": "Sales region",
+        "unit": null,
+        "expected_range": "North | South | East | West | Central"
+      },
+      "quantity": {
+        "type": "numeric",
+        "meaning": "Units sold per order",
+        "unit": "units",
+        "expected_range": "1 \u2013 8"
+      },
+      "unit_price": {
+        "type": "numeric",
+        "meaning": "Price per unit before discount",
+        "unit": "INR",
+        "expected_range": "100 \u2013 80 000"
+      },
+      "sales": {
+        "type": "numeric",
+        "meaning": "Total revenue for the order (unit_price \u00d7 quantity)",
+        "unit": "INR",
+        "expected_range": "> 0"
+      },
+      "profit": {
+        "type": "numeric",
+        "meaning": "Net profit for the order",
+        "unit": "INR",
+        "expected_range": "> 0"
+      },
+      "year": {
+        "type": "numeric",
+        "meaning": "Calendar year",
+        "unit": null,
+        "expected_range": "2025"
+      },
+      "quarter": {
+        "type": "categorical",
+        "meaning": "Calendar quarter",
+        "unit": null,
+        "expected_range": "Q1 \u2013 Q4"
+      },
+      "month": {
+        "type": "numeric",
+        "meaning": "Month number",
+        "unit": null,
+        "expected_range": "1 \u2013 12"
+      },
+      "month_name": {
+        "type": "categorical",
+        "meaning": "Abbreviated month name",
+        "unit": null,
+        "expected_range": "Jan \u2013 Dec"
+      },
+      "week": {
+        "type": "numeric",
+        "meaning": "ISO week number",
+        "unit": null,
+        "expected_range": "1 \u2013 53"
+      },
+      "profit_margin": {
+        "type": "numeric",
+        "meaning": "Profit as a percentage of sales",
+        "unit": "%",
+        "expected_range": "5 \u2013 45"
+      },
+      "revenue": {
+        "type": "numeric",
+        "meaning": "Alias for sales (consistent with JSON schema)",
+        "unit": "INR",
+        "expected_range": "> 0"
+      },
+      "period_label": {
+        "type": "categorical",
+        "meaning": "Year-Quarter label for period-over-period grouping",
+        "unit": null,
+        "expected_range": "e.g. 2025-Q1"
+      }
+    }
+  },
+  "metrics": [
+    {
+      "name": "Total Revenue",
+      "value": 2297200.8603,
+      "unit": "INR",
+      "description": "Total revenue (sum of sales) across all orders and periods."
+    },
+    {
+      "name": "Total Profit",
+      "value": 286397.02170000004,
+      "unit": "INR",
+      "description": "Total profit across all orders."
+    },
+    {
+      "name": "Total Orders",
+      "value": 9994,
+      "unit": "orders",
+      "description": "Count of individual order records in the dataset."
+    },
+    {
+      "name": "Total Quantity Sold",
+      "value": 37873,
+      "unit": "units",
+      "description": "Sum of quantity sold across all orders."
+    },
+    {
+      "name": "Average Order Value",
+      "value": 229.85800083049827,
+      "unit": "INR",
+      "description": "Mean revenue per order = Total Revenue / Total Orders."
+    },
+    {
+      "name": "Profit Margin",
+      "value": 12.467217240315607,
+      "unit": "percent",
+      "description": "Overall profit as a percentage of revenue = (Total Profit / Total Revenue) \u00d7 100."
+    },
+    {
+      "name": "Best Monthly Revenue Growth",
+      "value": 1132.1314093345593,
+      "unit": "percent",
+      "description": "Highest month-over-month revenue growth percentage observed."
+    },
+    {
+      "name": "Worst Monthly Revenue Growth",
+      "value": -75.2501207922829,
+      "unit": "percent",
+      "description": "Lowest (most negative) month-over-month revenue growth percentage observed."
+    }
+  ],
+  "trends": [
+    {
+      "metric": "Revenue",
+      "dimension": "date",
+      "direction": "increasing",
+      "change": 488.82,
+      "unit": "percent",
+      "period": {
+        "start": "2014-01-03",
+        "end": "2017-12-30"
+      },
+      "significance": "high"
+    }
+  ],
+  "comparisons": [
+    {
+      "dimension": "category",
+      "metric": "Revenue",
+      "highest": {
+        "name": "Technology",
+        "value": 836154.03
+      },
+      "lowest": {
+        "name": "Office Supplies",
+        "value": 719047.03
+      },
+      "all_values": [
+        {
+          "name": "Technology",
+          "value": 836154.03
+        },
+        {
+          "name": "Furniture",
+          "value": 741999.8
+        },
+        {
+          "name": "Office Supplies",
+          "value": 719047.03
+        }
+      ]
+    },
+    {
+      "dimension": "region",
+      "metric": "Revenue",
+      "highest": {
+        "name": "West",
+        "value": 725457.82
+      },
+      "lowest": {
+        "name": "South",
+        "value": 391721.91
+      },
+      "all_values": [
+        {
+          "name": "West",
+          "value": 725457.82
+        },
+        {
+          "name": "East",
+          "value": 678781.24
+        },
+        {
+          "name": "Central",
+          "value": 501239.89
+        },
+        {
+          "name": "South",
+          "value": 391721.91
+        }
+      ]
+    },
+    {
+      "dimension": "product",
+      "metric": "Revenue",
+      "top": [
+        {
+          "rank": 1,
+          "name": "Canon Imageclass 2200 Advanced Copier",
+          "value": 61599.82
+        },
+        {
+          "rank": 2,
+          "name": "Fellowes Pb500 Electric Punch Plastic Comb Binding Machine With Manual Bind",
+          "value": 27453.38
+        },
+        {
+          "rank": 3,
+          "name": "Cisco Telepresence System Ex90 Videoconferencing Unit",
+          "value": 22638.48
+        },
+        {
+          "rank": 4,
+          "name": "Hon 5400 Series Task Chairs For Big And Tall",
+          "value": 21870.58
+        },
+        {
+          "rank": 5,
+          "name": "Gbc Docubind Tl300 Electric Binding System",
+          "value": 19823.48
+        }
+      ],
+      "bottom": [
+        {
+          "rank": 1850,
+          "name": "Eureka Disposable Bags For Sanitaire Vibra Groomer I Upright Vac",
+          "value": 1.62
+        },
+        {
+          "rank": 1849,
+          "name": "Avery 5",
+          "value": 5.76
+        },
+        {
+          "rank": 1848,
+          "name": "Xerox 20",
+          "value": 6.48
+        },
+        {
+          "rank": 1847,
+          "name": "Grip Seal Envelopes",
+          "value": 7.07
+        },
+        {
+          "rank": 1846,
+          "name": "Avery Hi-Liter Pen Style Six-Color Fluorescent Set",
+          "value": 7.7
+        }
+      ]
+    },
+    {
+      "largest_positive": {
+        "period_key": "2014-03",
+        "growth_pct": 1132.13
+      },
+      "largest_negative": {
+        "period_key": "2016-01",
+        "growth_pct": -75.25
+      }
+    }
+  ],
+  "anomalies": [
+    {
+      "metric": "sales",
+      "dimension": "date",
+      "observation": "2014-03-18",
+      "value": 28106.72,
+      "expected_range": {
+        "lower": -2649.34,
+        "upper": 5422.86
+      },
+      "type": "high",
+      "severity": "high"
+    },
+    {
+      "metric": "sales",
+      "dimension": "date",
+      "observation": "2014-06-09",
+      "value": 5463.01,
+      "expected_range": {
+        "lower": -2649.34,
+        "upper": 5422.86
+      },
+      "type": "high",
+      "severity": "medium"
+    },
+    {
+      "metric": "sales",
+      "dimension": "date",
+      "observation": "2014-07-25",
+      "value": 8341.29,
+      "expected_range": {
+        "lower": -2649.34,
+        "upper": 5422.86
+      },
+      "type": "high",
+      "severity": "medium"
+    },
+    {
+      "metric": "sales",
+      "dimension": "date",
+      "observation": "2014-09-08",
+      "value": 14228.43,
+      "expected_range": {
+        "lower": -2649.34,
+        "upper": 5422.86
+      },
+      "type": "high",
+      "severity": "high"
+    },
+    {
+      "metric": "sales",
+      "dimension": "date",
+      "observation": "2014-09-19",
+      "value": 9338.64,
+      "expected_range": {
+        "lower": -2649.34,
+        "upper": 5422.86
+      },
+      "type": "high",
+      "severity": "high"
+    },
+    {
+      "metric": "sales",
+      "dimension": "date",
+      "observation": "2014-09-23",
+      "value": 10662.34,
+      "expected_range": {
+        "lower": -2649.34,
+        "upper": 5422.86
+      },
+      "type": "high",
+      "severity": "high"
+    },
+    {
+      "metric": "sales",
+      "dimension": "date",
+      "observation": "2014-09-29",
+      "value": 8109.07,
+      "expected_range": {
+        "lower": -2649.34,
+        "upper": 5422.86
+      },
+      "type": "high",
+      "severity": "medium"
+    },
+    {
+      "metric": "sales",
+      "dimension": "date",
+      "observation": "2014-11-04",
+      "value": 6693.75,
+      "expected_range": {
+        "lower": -2649.34,
+        "upper": 5422.86
+      },
+      "type": "high",
+      "severity": "medium"
+    },
+    {
+      "metric": "sales",
+      "dimension": "date",
+      "observation": "2014-11-11",
+      "value": 8114.55,
+      "expected_range": {
+        "lower": -2649.34,
+        "upper": 5422.86
+      },
+      "type": "high",
+      "severity": "medium"
+    },
+    {
+      "metric": "sales",
+      "dimension": "date",
+      "observation": "2014-11-17",
+      "value": 11544.27,
+      "expected_range": {
+        "lower": -2649.34,
+        "upper": 5422.86
+      },
+      "type": "high",
+      "severity": "high"
+    }
+  ],
+  "distributions": [
+    {
+      "metric": "sales",
+      "mean": 229.86,
+      "median": 54.49,
+      "minimum": 0.44,
+      "maximum": 22638.48,
+      "std": 623.25,
+      "q1": 17.28,
+      "q3": 209.94
+    },
+    {
+      "metric": "profit",
+      "mean": 28.66,
+      "median": 8.67,
+      "minimum": -6599.98,
+      "maximum": 8399.98,
+      "std": 234.26,
+      "q1": 1.73,
+      "q3": 29.36
+    },
+    {
+      "metric": "unit_price",
+      "mean": 60.92,
+      "median": 16.27,
+      "minimum": 0.34,
+      "maximum": 3773.08,
+      "std": 142.93,
+      "q1": 5.47,
+      "q3": 63.94
+    },
+    {
+      "metric": "quantity",
+      "mean": 3.79,
+      "median": 3.0,
+      "minimum": 1.0,
+      "maximum": 14.0,
+      "std": 2.23,
+      "q1": 2.0,
+      "q3": 5.0
+    }
+  ],
+  "visualizations": [
+    {
+      "title": "Monthly Revenue",
+      "type": "line",
+      "metric": "Revenue",
+      "dimension": "period",
+      "data": [
+        {
+          "period": "2014-01",
+          "value": 14236.895
+        },
+        {
+          "period": "2014-02",
+          "value": 4519.892
+        },
+        {
+          "period": "2014-03",
+          "value": 55691.009
+        },
+        {
+          "period": "2014-04",
+          "value": 28295.345
+        },
+        {
+          "period": "2014-05",
+          "value": 23648.287
+        },
+        {
+          "period": "2014-06",
+          "value": 34595.1276
+        },
+        {
+          "period": "2014-07",
+          "value": 33946.393
+        },
+        {
+          "period": "2014-08",
+          "value": 27909.4685
+        },
+        {
+          "period": "2014-09",
+          "value": 81777.3508
+        },
+        {
+          "period": "2014-10",
+          "value": 31453.393
+        },
+        {
+          "period": "2014-11",
+          "value": 78628.7167
+        },
+        {
+          "period": "2014-12",
+          "value": 69545.6205
+        },
+        {
+          "period": "2015-01",
+          "value": 18174.0756
+        },
+        {
+          "period": "2015-02",
+          "value": 11951.411
+        },
+        {
+          "period": "2015-03",
+          "value": 38726.252
+        },
+        {
+          "period": "2015-04",
+          "value": 34195.2085
+        },
+        {
+          "period": "2015-05",
+          "value": 30131.6865
+        },
+        {
+          "period": "2015-06",
+          "value": 24797.292
+        },
+        {
+          "period": "2015-07",
+          "value": 28765.325
+        },
+        {
+          "period": "2015-08",
+          "value": 36898.332200000004
+        },
+        {
+          "period": "2015-09",
+          "value": 64595.918
+        },
+        {
+          "period": "2015-10",
+          "value": 31404.9235
+        },
+        {
+          "period": "2015-11",
+          "value": 75972.5635
+        },
+        {
+          "period": "2015-12",
+          "value": 74919.5212
+        },
+        {
+          "period": "2016-01",
+          "value": 18542.491
+        },
+        {
+          "period": "2016-02",
+          "value": 22978.815000000002
+        },
+        {
+          "period": "2016-03",
+          "value": 51715.875
+        },
+        {
+          "period": "2016-04",
+          "value": 38750.039
+        },
+        {
+          "period": "2016-05",
+          "value": 56987.728
+        },
+        {
+          "period": "2016-06",
+          "value": 40344.534
+        },
+        {
+          "period": "2016-07",
+          "value": 39261.963
+        },
+        {
+          "period": "2016-08",
+          "value": 31115.3743
+        },
+        {
+          "period": "2016-09",
+          "value": 73410.0249
+        },
+        {
+          "period": "2016-10",
+          "value": 59687.745
+        },
+        {
+          "period": "2016-11",
+          "value": 79411.9658
+        },
+        {
+          "period": "2016-12",
+          "value": 96999.043
+        },
+        {
+          "period": "2017-01",
+          "value": 43971.374
+        },
+        {
+          "period": "2017-02",
+          "value": 20301.1334
+        },
+        {
+          "period": "2017-03",
+          "value": 58872.3528
+        },
+        {
+          "period": "2017-04",
+          "value": 36521.5361
+        },
+        {
+          "period": "2017-05",
+          "value": 44261.1102
+        },
+        {
+          "period": "2017-06",
+          "value": 52981.7257
+        },
+        {
+          "period": "2017-07",
+          "value": 45264.416
+        },
+        {
+          "period": "2017-08",
+          "value": 63120.888
+        },
+        {
+          "period": "2017-09",
+          "value": 87866.652
+        },
+        {
+          "period": "2017-10",
+          "value": 77776.9232
+        },
+        {
+          "period": "2017-11",
+          "value": 118447.825
+        },
+        {
+          "period": "2017-12",
+          "value": 83829.3188
+        }
+      ],
+      "summary": "Revenue trended increasing (+488.8%) over the reporting period."
+    },
+    {
+      "title": "Revenue by Category",
+      "type": "bar",
+      "metric": "Revenue",
+      "dimension": "category",
+      "data": [
+        {
+          "category": "Technology",
+          "value": 836154.03
+        },
+        {
+          "category": "Furniture",
+          "value": 741999.8
+        },
+        {
+          "category": "Office Supplies",
+          "value": 719047.03
+        }
+      ],
+      "summary": "Technology generated the highest revenue (INR 836,154)."
+    },
+    {
+      "title": "Revenue by Region",
+      "type": "bar",
+      "metric": "Revenue",
+      "dimension": "region",
+      "data": [
+        {
+          "region": "West",
+          "value": 725457.82
+        },
+        {
+          "region": "East",
+          "value": 678781.24
+        },
+        {
+          "region": "Central",
+          "value": 501239.89
+        },
+        {
+          "region": "South",
+          "value": 391721.91
+        }
+      ],
+      "summary": "West led all regions in revenue."
+    },
+    {
+      "title": "Quarterly Revenue",
+      "type": "bar",
+      "metric": "Revenue",
+      "dimension": "period",
+      "data": [
+        {
+          "period": "2014-Q1",
+          "value": 74447.796
+        },
+        {
+          "period": "2014-Q2",
+          "value": 86538.7596
+        },
+        {
+          "period": "2014-Q3",
+          "value": 143633.2123
+        },
+        {
+          "period": "2014-Q4",
+          "value": 179627.7302
+        },
+        {
+          "period": "2015-Q1",
+          "value": 68851.7386
+        },
+        {
+          "period": "2015-Q2",
+          "value": 89124.187
+        },
+        {
+          "period": "2015-Q3",
+          "value": 130259.5752
+        },
+        {
+          "period": "2015-Q4",
+          "value": 182297.0082
+        },
+        {
+          "period": "2016-Q1",
+          "value": 93237.181
+        },
+        {
+          "period": "2016-Q2",
+          "value": 136082.301
+        },
+        {
+          "period": "2016-Q3",
+          "value": 143787.3622
+        },
+        {
+          "period": "2016-Q4",
+          "value": 236098.7538
+        },
+        {
+          "period": "2017-Q1",
+          "value": 123144.8602
+        },
+        {
+          "period": "2017-Q2",
+          "value": 133764.372
+        },
+        {
+          "period": "2017-Q3",
+          "value": 196251.956
+        },
+        {
+          "period": "2017-Q4",
+          "value": 280054.067
+        }
+      ],
+      "summary": "Quarterly revenue breakdown for the reporting period."
+    }
+  ]
+}
