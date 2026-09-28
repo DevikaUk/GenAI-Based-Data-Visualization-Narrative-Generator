@@ -217,19 +217,27 @@ def detect_and_map_columns(df: pd.DataFrame) -> Tuple[pd.DataFrame, Dict[str, st
 
     # 3. Heuristic fallback for Sales/Revenue (if not matched by name)
     if "sales" not in col_map:
-        numeric_candidates = []
-        for col in df.columns:
-            if col in used_orig_cols:
-                continue
-            sample = pd.to_numeric(df[col].astype(str).str.replace(r"[$,€£₹,]", "", regex=True), errors="coerce").dropna()
-            if len(sample) > 0 and sample.notna().mean() > 0.8 and sample.mean() > 0:
-                numeric_candidates.append((col, sample.std(), sample.mean()))
-        if numeric_candidates:
-            # Pick numeric column with highest variance/mean as primary metric
-            best_col = max(numeric_candidates, key=lambda x: (x[1] if not np.isnan(x[1]) else 0, x[2]))[0]
-            col_map["sales"] = best_col
-            used_orig_cols.add(best_col)
-            logger.info("Auto-detected sales/revenue column: '%s'", best_col)
+        if "unit_price" in col_map and "quantity" in col_map:
+            # When unit_price and quantity exist, we compute sales = unit_price * quantity
+            col_map["sales"] = "(computed: unit_price * quantity)"
+        else:
+            numeric_candidates = []
+            for col in df.columns:
+                if col in used_orig_cols:
+                    continue
+                # Exclude obvious identifier column names from being picked as sales
+                norm_c = _normalize_name(col)
+                if any(id_kw in norm_c for id_kw in ["id", "code", "zip", "phone", "post", "number"]):
+                    continue
+                sample = pd.to_numeric(df[col].astype(str).str.replace(r"[$,€£₹,\s]", "", regex=True), errors="coerce").dropna()
+                if len(sample) > 0 and sample.notna().mean() > 0.8 and sample.mean() > 0:
+                    numeric_candidates.append((col, sample.std(), sample.mean()))
+            if numeric_candidates:
+                # Pick numeric column with highest variance/mean as primary metric
+                best_col = max(numeric_candidates, key=lambda x: (x[1] if not np.isnan(x[1]) else 0, x[2]))[0]
+                col_map["sales"] = best_col
+                used_orig_cols.add(best_col)
+                logger.info("Auto-detected sales/revenue column: '%s'", best_col)
 
     # 4. Heuristic fallback for Categoricals (category, region, product)
     available_text_cols = [

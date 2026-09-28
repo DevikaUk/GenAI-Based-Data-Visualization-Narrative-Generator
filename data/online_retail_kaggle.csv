@@ -1,0 +1,1501 @@
+InvoiceNo,StockCode,Description,Department,Quantity,InvoiceDate,UnitPrice,CustomerID,Country
+INV-536389,71053,White Metal Lantern,Home Decor,1,2023-01-01 16:59,3.53,CUST-17626,EIRE
+INV-536414,22749,Feltcraft Princess Charlotte Doll,Crafts,1,2023-01-01 18:55,4.02,CUST-15385,United Kingdom
+INV-536531,20725,Lunch Bag Red Retrospot,Kitchenware,24,2023-01-02 19:05,1.59,CUST-15755,France
+INV-536634,22749,Feltcraft Princess Charlotte Doll,Crafts,2,2023-01-03 09:52,4.1,CUST-16917,United Kingdom
+INV-536638,22630,Dolly Girl Mini Backpack,Bags,1,2023-01-03 12:11,4.07,CUST-12872,United Kingdom
+INV-536703,22616,Pack Of 12 London Tissues,Essentials,4,2023-01-03 12:59,0.29,CUST-16868,United Kingdom
+INV-536744,84029E,Red Woolly Hottie White Heart.,Seasonal,2,2023-01-03 14:02,3.67,CUST-15855,United Kingdom
+INV-536849,22384,Lunch Bag Pink Polkadot,Kitchenware,3,2023-01-03 14:12,1.63,CUST-16684,United Kingdom
+INV-536600,84029E,Red Woolly Hottie White Heart.,Seasonal,2,2023-01-03 16:47,3.7,CUST-15545,United Kingdom
+INV-536803,21730,Glass Star Frosted T-Light Holder,Home Decor,3,2023-01-03 16:49,4.32,CUST-15411,United Kingdom
+INV-536770,22629,Spaceboy Mini Back Pack,Bags,3,2023-01-03 19:06,4.36,CUST-16130,Belgium
+INV-536737,22629,Spaceboy Mini Back Pack,Bags,3,2023-01-04 08:11,4.14,CUST-17789,Belgium
+INV-536846,21212,Pack Of 72 Retrospot Cake Cases,Bakery,6,2023-01-04 11:52,0.56,CUST-12908,United Kingdom
+INV-536397,20727,Lunch Bag Black Skull.,Kitchenware,2,2023-01-04 13:19,1.61,CUST-15432,France
+INV-536547,84991,60 Teatime Fairy Cake Cases,Bakery,2,2023-01-04 14:01,0.52,CUST-14837,United Kingdom
+INV-536504,21213,Pack Of 72 Skull Cake Cases,Bakery,3,2023-01-04 14:08,0.57,CUST-13895,EIRE
+INV-536514,84029G,Knitted Union Flag Hot Water Bottle,Seasonal,2,2023-01-04 14:21,3.14,CUST-15112,EIRE
+INV-536442,84879,Assorted Colour Bird Ornament,Gifts,3,2023-01-04 15:47,1.63,CUST-13058,United Kingdom
+INV-536642,22086,Paper Chain Kit 50's Christmas,Seasonal,1,2023-01-04 16:02,2.55,CUST-15040,EIRE
+INV-536654,20728,Lunch Bag Cars Blue,Kitchenware,1,2023-01-04 16:23,1.56,CUST-16592,United Kingdom
+INV-536578,22749,Feltcraft Princess Charlotte Doll,Crafts,2,2023-01-04 16:42,3.81,CUST-15065,Switzerland
+INV-536660,22749,Feltcraft Princess Charlotte Doll,Crafts,1,2023-01-05 08:37,3.97,CUST-15893,France
+INV-536845,84991,60 Teatime Fairy Cake Cases,Bakery,12,2023-01-05 09:29,0.57,CUST-13580,United Kingdom
+INV-536577,22492,Mini Painter's Set 25 Pieces,Crafts,2,2023-01-05 11:16,0.61,CUST-14502,United Kingdom
+INV-536505,84406B,Cream Cupid Hearts Coat Hanger,Home Decor,4,2023-01-05 11:32,2.86,CUST-12495,United Kingdom
+INV-536547,22492,Mini Painter's Set 25 Pieces,Crafts,1,2023-01-05 13:00,0.69,CUST-15082,France
+INV-536791,22616,Pack Of 12 London Tissues,Essentials,1,2023-01-05 14:59,0.29,CUST-14093,Australia
+INV-536855,22745,Poppy's Playhouse Bedroom,Toys & Games,4,2023-01-05 16:37,2.01,CUST-13184,Germany
+INV-536844,20725,Lunch Bag Red Retrospot,Kitchenware,2,2023-01-05 18:11,1.49,CUST-17705,United Kingdom
+INV-536519,84991,60 Teatime Fairy Cake Cases,Bakery,4,2023-01-06 09:16,0.54,CUST-18118,United Kingdom
+INV-536404,22629,Spaceboy Mini Back Pack,Bags,1,2023-01-06 16:12,3.96,CUST-17898,United Kingdom
+INV-536616,22492,Mini Painter's Set 25 Pieces,Crafts,3,2023-01-06 16:55,0.63,CUST-13009,United Kingdom
+INV-536698,84991,60 Teatime Fairy Cake Cases,Bakery,12,2023-01-06 18:12,0.57,CUST-14084,Germany
+INV-536823,84969,Box Of 6 Assorted Colour Teaspoons,Kitchenware,6,2023-01-06 19:51,3.95,CUST-12570,United Kingdom
+INV-536505,22384,Lunch Bag Pink Polkadot,Kitchenware,4,2023-01-07 08:33,1.67,CUST-16388,Germany
+INV-536544,85123A,White Hanging Heart T-Light Holder,Home Decor,1,2023-01-07 11:02,2.32,CUST-15137,United Kingdom
+INV-536758,22748,Poppy's Playhouse Kitchen,Toys & Games,2,2023-01-07 12:22,2.05,CUST-15650,United Kingdom
+INV-536725,85123A,White Hanging Heart T-Light Holder,Home Decor,12,2023-01-07 14:06,2.72,CUST-17615,United Kingdom
+INV-536643,22745,Poppy's Playhouse Bedroom,Toys & Games,2,2023-01-07 18:13,2.18,CUST-12825,United Kingdom
+INV-536660,22492,Mini Painter's Set 25 Pieces,Crafts,4,2023-01-08 10:50,0.64,CUST-12980,United Kingdom
+INV-536685,22633,Hand Warmer Union Jack,Accessories,3,2023-01-08 12:26,1.68,CUST-17499,United Kingdom
+INV-536585,22197,Small Popcorn Holder,Party Supplies,3,2023-01-08 13:48,0.83,CUST-13561,EIRE
+INV-536420,22383,Lunch Bag Suzi Doodle,Kitchenware,1,2023-01-08 19:09,1.79,CUST-17363,United Kingdom
+INV-536407,22748,Poppy's Playhouse Kitchen,Toys & Games,2,2023-01-08 19:34,1.97,CUST-12372,United Kingdom
+INV-536433,22633,Hand Warmer Union Jack,Accessories,3,2023-01-09 10:16,1.88,CUST-18076,United Kingdom
+INV-536629,22749,Feltcraft Princess Charlotte Doll,Crafts,3,2023-01-09 11:33,3.47,CUST-16131,Spain
+INV-536620,84406B,Cream Cupid Hearts Coat Hanger,Home Decor,4,2023-01-10 16:40,2.88,CUST-16766,United Kingdom
+INV-536783,22384,Lunch Bag Pink Polkadot,Kitchenware,2,2023-01-10 18:45,1.54,CUST-13528,United Kingdom
+INV-536787,22197,Small Popcorn Holder,Party Supplies,1,2023-01-11 08:55,0.85,CUST-14571,Netherlands
+INV-536816,84969,Box Of 6 Assorted Colour Teaspoons,Kitchenware,2,2023-01-11 10:18,4.42,CUST-15844,Germany
+INV-536845,84969,Box Of 6 Assorted Colour Teaspoons,Kitchenware,1,2023-01-11 12:43,3.83,CUST-14931,Belgium
+INV-536444,84879,Assorted Colour Bird Ornament,Gifts,1,2023-01-11 13:10,1.56,CUST-17063,EIRE
+INV-536577,22492,Mini Painter's Set 25 Pieces,Crafts,2,2023-01-11 18:00,0.64,CUST-13083,United Kingdom
+INV-536814,84029E,Red Woolly Hottie White Heart.,Seasonal,2,2023-01-12 09:10,3.37,CUST-18052,Netherlands
+INV-536650,22310,Ivory Knitting Mug,Kitchenware,1,2023-01-12 10:46,1.54,CUST-14061,United Kingdom
+INV-536859,22633,Hand Warmer Union Jack,Accessories,2,2023-01-12 10:53,1.73,CUST-12828,United Kingdom
+INV-536587,84029E,Red Woolly Hottie White Heart.,Seasonal,1,2023-01-12 17:32,3.19,CUST-15003,United Kingdom
+INV-536835,22616,Pack Of 12 London Tissues,Essentials,1,2023-01-13 17:40,0.27,CUST-17795,France
+INV-536850,20725,Lunch Bag Red Retrospot,Kitchenware,3,2023-01-13 17:51,1.63,CUST-14738,United Kingdom
+INV-536398,20727,Lunch Bag Black Skull.,Kitchenware,1,2023-01-14 09:41,1.67,CUST-15782,United Kingdom
+INV-536433,84029G,Knitted Union Flag Hot Water Bottle,Seasonal,10,2023-01-14 10:00,3.5,CUST-18458,United Kingdom
+INV-536719,84991,60 Teatime Fairy Cake Cases,Bakery,2,2023-01-14 12:31,0.58,CUST-16141,United Kingdom
+INV-536479,22616,Pack Of 12 London Tissues,Essentials,1,2023-01-14 17:30,0.3,CUST-17370,United Kingdom
+INV-536684,84029G,Knitted Union Flag Hot Water Bottle,Seasonal,1,2023-01-14 17:39,3.14,CUST-16645,United Kingdom
+INV-536466,22633,Hand Warmer Union Jack,Accessories,2,2023-01-14 19:11,2.02,CUST-15170,United Kingdom
+INV-536516,22086,Paper Chain Kit 50's Christmas,Seasonal,1,2023-01-14 19:29,2.69,CUST-13717,Belgium
+INV-536804,21213,Pack Of 72 Skull Cake Cases,Bakery,1,2023-01-15 09:29,0.53,CUST-17402,EIRE
+INV-536832,84879,Assorted Colour Bird Ornament,Gifts,1,2023-01-15 10:09,1.62,CUST-15455,France
+INV-536456,84406B,Cream Cupid Hearts Coat Hanger,Home Decor,10,2023-01-15 13:59,2.68,CUST-17854,United Kingdom
+INV-536397,22632,Hand Warmer Red Retrospot,Accessories,2,2023-01-15 14:21,1.83,CUST-15312,Germany
+INV-536639,22629,Spaceboy Mini Back Pack,Bags,2,2023-01-15 15:07,4.22,CUST-15134,United Kingdom
+INV-536740,22752,Set 7 Babushka Nesting Boxes,Toys & Games,1,2023-01-15 15:32,7.13,CUST-13927,United Kingdom
+INV-536399,22492,Mini Painter's Set 25 Pieces,Crafts,2,2023-01-16 11:12,0.59,CUST-17089,EIRE
+INV-536713,84029G,Knitted Union Flag Hot Water Bottle,Seasonal,3,2023-01-16 11:27,3.63,CUST-15229,Germany
+INV-536543,22197,Small Popcorn Holder,Party Supplies,3,2023-01-16 13:51,0.92,CUST-16291,United Kingdom
+INV-536844,22492,Mini Painter's Set 25 Pieces,Crafts,1,2023-01-16 18:28,0.6,CUST-14891,Germany
+INV-536777,84969,Box Of 6 Assorted Colour Teaspoons,Kitchenware,2,2023-01-17 10:35,4.22,CUST-18384,Germany
+INV-536657,22748,Poppy's Playhouse Kitchen,Toys & Games,4,2023-01-17 13:05,2.08,CUST-13196,EIRE
+INV-536575,21213,Pack Of 72 Skull Cake Cases,Bakery,1,2023-01-17 15:03,0.5,CUST-17772,Netherlands
+INV-536831,21730,Glass Star Frosted T-Light Holder,Home Decor,4,2023-01-17 19:10,4.21,CUST-15025,Belgium
+INV-536742,21730,Glass Star Frosted T-Light Holder,Home Decor,1,2023-01-17 19:36,4.11,CUST-13118,United Kingdom
+INV-536728,21212,Pack Of 72 Retrospot Cake Cases,Bakery,12,2023-01-18 09:04,0.52,CUST-14052,United Kingdom
+INV-536745,22197,Small Popcorn Holder,Party Supplies,3,2023-01-18 14:33,0.9,CUST-17706,United Kingdom
+INV-536569,84879,Assorted Colour Bird Ornament,Gifts,4,2023-01-18 16:36,1.55,CUST-16681,Netherlands
+INV-536694,20727,Lunch Bag Black Skull.,Kitchenware,1,2023-01-19 09:49,1.6,CUST-15019,United Kingdom
+INV-536786,22310,Ivory Knitting Mug,Kitchenware,2,2023-01-19 11:10,1.7,CUST-12238,United Kingdom
+INV-536544,22630,Dolly Girl Mini Backpack,Bags,2,2023-01-19 16:51,3.86,CUST-18067,Netherlands
+INV-536572,20727,Lunch Bag Black Skull.,Kitchenware,1,2023-01-20 10:17,1.69,CUST-17064,United Kingdom
+INV-536486,20727,Lunch Bag Black Skull.,Kitchenware,2,2023-01-20 10:26,1.56,CUST-13440,Spain
+INV-536429,84029E,Red Woolly Hottie White Heart.,Seasonal,10,2023-01-20 12:31,3.08,CUST-13923,United Kingdom
+INV-536587,21212,Pack Of 72 Retrospot Cake Cases,Bakery,1,2023-01-20 14:56,0.57,CUST-18318,United Kingdom
+INV-536716,20727,Lunch Bag Black Skull.,Kitchenware,48,2023-01-20 17:30,1.61,CUST-12927,Germany
+INV-536672,20728,Lunch Bag Cars Blue,Kitchenware,6,2023-01-20 19:51,1.7,CUST-12642,United Kingdom
+INV-536385,22748,Poppy's Playhouse Kitchen,Toys & Games,1,2023-01-21 13:13,2.27,CUST-17463,Germany
+INV-536381,22633,Hand Warmer Union Jack,Accessories,2,2023-01-21 17:05,1.88,CUST-16781,United Kingdom
+INV-536760,84879,Assorted Colour Bird Ornament,Gifts,3,2023-01-22 12:53,1.71,CUST-16047,United Kingdom
+INV-536443,84406B,Cream Cupid Hearts Coat Hanger,Home Decor,1,2023-01-22 14:01,2.69,CUST-12637,United Kingdom
+INV-536686,22310,Ivory Knitting Mug,Kitchenware,1,2023-01-22 17:47,1.62,CUST-17899,EIRE
+INV-536527,22384,Lunch Bag Pink Polkadot,Kitchenware,1,2023-01-22 19:28,1.76,CUST-15482,United Kingdom
+INV-536664,22383,Lunch Bag Suzi Doodle,Kitchenware,1,2023-01-23 10:11,1.7,CUST-13655,Spain
+INV-536460,21977,Pack Of 60 Pink Paisley Cake Cases,Bakery,1,2023-01-23 13:34,0.53,CUST-17265,United Kingdom
+INV-536419,22616,Pack Of 12 London Tissues,Essentials,3,2023-01-23 13:47,0.31,CUST-15123,United Kingdom
+INV-536849,22748,Poppy's Playhouse Kitchen,Toys & Games,6,2023-01-23 19:14,2.11,CUST-15441,United Kingdom
+INV-536367,20728,Lunch Bag Cars Blue,Kitchenware,1,2023-01-23 19:29,1.57,CUST-15100,United Kingdom
+INV-536591,22197,Small Popcorn Holder,Party Supplies,6,2023-01-24 08:54,0.78,CUST-17301,United Kingdom
+INV-536810,22752,Set 7 Babushka Nesting Boxes,Toys & Games,1,2023-01-24 09:26,8.17,CUST-14438,Spain
+INV-536809,22384,Lunch Bag Pink Polkadot,Kitchenware,48,2023-01-24 16:06,1.51,CUST-15383,United Kingdom
+INV-536368,21730,Glass Star Frosted T-Light Holder,Home Decor,3,2023-01-24 18:14,4.42,CUST-12653,France
+INV-536606,84879,Assorted Colour Bird Ornament,Gifts,1,2023-01-25 14:24,1.76,CUST-18456,United Kingdom
+INV-536805,84029E,Red Woolly Hottie White Heart.,Seasonal,1,2023-01-25 18:18,3.19,CUST-12454,United Kingdom
+INV-536475,20727,Lunch Bag Black Skull.,Kitchenware,2,2023-01-26 12:31,1.6,CUST-17359,United Kingdom
+INV-536734,85123A,White Hanging Heart T-Light Holder,Home Decor,4,2023-01-26 12:52,2.38,CUST-15737,France
+INV-536674,20725,Lunch Bag Red Retrospot,Kitchenware,2,2023-01-26 16:25,1.67,CUST-15264,United Kingdom
+INV-536748,22630,Dolly Girl Mini Backpack,Bags,6,2023-01-27 09:24,4.29,CUST-17071,United Kingdom
+INV-536839,21213,Pack Of 72 Skull Cake Cases,Bakery,2,2023-01-27 11:15,0.59,CUST-16800,France
+INV-536438,22310,Ivory Knitting Mug,Kitchenware,3,2023-01-27 12:38,1.77,CUST-12848,United Kingdom
+INV-536399,85123A,White Hanging Heart T-Light Holder,Home Decor,2,2023-01-27 13:14,2.68,CUST-18399,Germany
+INV-536659,21730,Glass Star Frosted T-Light Holder,Home Decor,1,2023-01-27 18:13,4.13,CUST-13933,Australia
+INV-536583,22383,Lunch Bag Suzi Doodle,Kitchenware,4,2023-01-28 10:08,1.58,CUST-14807,Portugal
+INV-536739,22086,Paper Chain Kit 50's Christmas,Seasonal,6,2023-01-28 11:07,2.4,CUST-17613,France
+INV-536802,22492,Mini Painter's Set 25 Pieces,Crafts,1,2023-01-28 11:09,0.69,CUST-13500,United Kingdom
+INV-536598,22745,Poppy's Playhouse Bedroom,Toys & Games,1,2023-01-28 11:54,2.04,CUST-16588,United Kingdom
+INV-536566,21213,Pack Of 72 Skull Cake Cases,Bakery,1,2023-01-28 13:00,0.55,CUST-14412,United Kingdom
+INV-536456,22630,Dolly Girl Mini Backpack,Bags,6,2023-01-28 14:32,3.76,CUST-15163,United Kingdom
+INV-536836,22384,Lunch Bag Pink Polkadot,Kitchenware,1,2023-01-28 17:33,1.68,CUST-15898,United Kingdom
+INV-536722,22197,Small Popcorn Holder,Party Supplies,1,2023-01-28 18:16,0.91,CUST-12950,France
+INV-536582,22616,Pack Of 12 London Tissues,Essentials,2,2023-01-28 18:37,0.27,CUST-17084,United Kingdom
+INV-536497,22384,Lunch Bag Pink Polkadot,Kitchenware,12,2023-01-29 10:32,1.56,CUST-13918,Portugal
+INV-536369,21213,Pack Of 72 Skull Cake Cases,Bakery,1,2023-01-29 11:52,0.58,CUST-14584,United Kingdom
+INV-536422,71053,White Metal Lantern,Home Decor,3,2023-01-29 12:22,3.27,CUST-13192,United Kingdom
+INV-536852,22630,Dolly Girl Mini Backpack,Bags,3,2023-01-29 12:39,4.4,CUST-12538,United Kingdom
+INV-536693,71053,White Metal Lantern,Home Decor,4,2023-01-29 18:22,3.18,CUST-12265,United Kingdom
+INV-536379,84879,Assorted Colour Bird Ornament,Gifts,10,2023-01-30 17:47,1.59,CUST-18127,United Kingdom
+INV-536593,84029G,Knitted Union Flag Hot Water Bottle,Seasonal,3,2023-01-31 10:06,3.14,CUST-16839,United Kingdom
+INV-536548,22310,Ivory Knitting Mug,Kitchenware,2,2023-01-31 10:45,1.65,CUST-12359,United Kingdom
+INV-536727,22749,Feltcraft Princess Charlotte Doll,Crafts,1,2023-01-31 12:52,3.62,CUST-15609,United Kingdom
+INV-536554,22629,Spaceboy Mini Back Pack,Bags,10,2023-02-01 09:17,4.19,CUST-15434,United Kingdom
+INV-536549,84406B,Cream Cupid Hearts Coat Hanger,Home Decor,6,2023-02-01 14:42,2.8,CUST-13939,Switzerland
+INV-536448,20725,Lunch Bag Red Retrospot,Kitchenware,1,2023-02-01 15:06,1.65,CUST-14813,EIRE
+INV-536681,22383,Lunch Bag Suzi Doodle,Kitchenware,10,2023-02-01 18:16,1.58,CUST-12241,Spain
+INV-536375,84029G,Knitted Union Flag Hot Water Bottle,Seasonal,3,2023-02-02 13:01,3.22,CUST-13885,United Kingdom
+INV-536787,20728,Lunch Bag Cars Blue,Kitchenware,2,2023-02-02 14:57,1.58,CUST-17385,United Kingdom
+INV-536433,22310,Ivory Knitting Mug,Kitchenware,1,2023-02-02 15:28,1.66,CUST-16204,France
+INV-536686,21730,Glass Star Frosted T-Light Holder,Home Decor,1,2023-02-03 10:59,4.47,CUST-15598,Switzerland
+INV-536468,20728,Lunch Bag Cars Blue,Kitchenware,2,2023-02-03 12:25,1.78,CUST-17888,Portugal
+INV-536839,84969,Box Of 6 Assorted Colour Teaspoons,Kitchenware,1,2023-02-03 15:01,4.3,CUST-13914,United Kingdom
+INV-536467,22086,Paper Chain Kit 50's Christmas,Seasonal,2,2023-02-03 16:34,2.47,CUST-14457,United Kingdom
+INV-536539,84406B,Cream Cupid Hearts Coat Hanger,Home Decor,6,2023-02-04 08:16,2.48,CUST-12495,United Kingdom
+INV-536570,22630,Dolly Girl Mini Backpack,Bags,10,2023-02-04 09:24,4.34,CUST-16522,United Kingdom
+INV-536437,22086,Paper Chain Kit 50's Christmas,Seasonal,1,2023-02-04 09:53,2.77,CUST-15537,United Kingdom
+INV-536695,22629,Spaceboy Mini Back Pack,Bags,6,2023-02-04 14:53,4.05,CUST-14398,United Kingdom
+INV-536762,22632,Hand Warmer Red Retrospot,Accessories,1,2023-02-04 17:47,1.85,CUST-15936,United Kingdom
+INV-536655,22310,Ivory Knitting Mug,Kitchenware,1,2023-02-05 10:08,1.55,CUST-17217,United Kingdom
+INV-536440,20727,Lunch Bag Black Skull.,Kitchenware,1,2023-02-05 10:47,1.7,CUST-12251,United Kingdom
+INV-536856,22492,Mini Painter's Set 25 Pieces,Crafts,2,2023-02-05 13:12,0.7,CUST-17691,Germany
+INV-536730,21977,Pack Of 60 Pink Paisley Cake Cases,Bakery,1,2023-02-05 16:14,0.58,CUST-17646,United Kingdom
+INV-536665,22633,Hand Warmer Union Jack,Accessories,1,2023-02-06 08:59,1.89,CUST-17371,Belgium
+INV-536666,22632,Hand Warmer Red Retrospot,Accessories,2,2023-02-06 12:04,1.86,CUST-16255,Belgium
+INV-536675,22383,Lunch Bag Suzi Doodle,Kitchenware,1,2023-02-06 12:49,1.57,CUST-17609,United Kingdom
+INV-536410,21212,Pack Of 72 Retrospot Cake Cases,Bakery,2,2023-02-06 18:14,0.59,CUST-18453,Belgium
+INV-536375,20727,Lunch Bag Black Skull.,Kitchenware,1,2023-02-06 19:40,1.56,CUST-12552,United Kingdom
+INV-536617,84969,Box Of 6 Assorted Colour Teaspoons,Kitchenware,2,2023-02-07 12:42,4.37,CUST-12804,United Kingdom
+INV-536472,22749,Feltcraft Princess Charlotte Doll,Crafts,3,2023-02-07 19:03,3.6,CUST-15404,United Kingdom
+INV-536378,84969,Box Of 6 Assorted Colour Teaspoons,Kitchenware,3,2023-02-08 15:51,4.04,CUST-16508,Spain
+INV-536385,22384,Lunch Bag Pink Polkadot,Kitchenware,2,2023-02-08 19:57,1.49,CUST-12295,United Kingdom
+INV-536624,20727,Lunch Bag Black Skull.,Kitchenware,4,2023-02-09 16:16,1.7,CUST-13825,United Kingdom
+INV-536649,22616,Pack Of 12 London Tissues,Essentials,4,2023-02-10 10:21,0.31,CUST-14595,United Kingdom
+INV-536650,22197,Small Popcorn Holder,Party Supplies,1,2023-02-10 11:10,0.88,CUST-12782,United Kingdom
+INV-536483,71053,White Metal Lantern,Home Decor,3,2023-02-10 13:59,3.25,CUST-14100,United Kingdom
+INV-536767,84029E,Red Woolly Hottie White Heart.,Seasonal,3,2023-02-10 14:44,3.19,CUST-12915,France
+INV-536809,84879,Assorted Colour Bird Ornament,Gifts,4,2023-02-10 15:19,1.68,CUST-13046,United Kingdom
+INV-536666,20725,Lunch Bag Red Retrospot,Kitchenware,1,2023-02-10 15:51,1.79,CUST-14956,United Kingdom
+INV-536540,22632,Hand Warmer Red Retrospot,Accessories,2,2023-02-10 16:58,1.7,CUST-13272,United Kingdom
+INV-536471,21213,Pack Of 72 Skull Cake Cases,Bakery,1,2023-02-11 08:41,0.59,CUST-14168,France
+INV-536435,22630,Dolly Girl Mini Backpack,Bags,1,2023-02-11 13:38,4.1,CUST-13033,United Kingdom
+INV-536862,22629,Spaceboy Mini Back Pack,Bags,1,2023-02-11 15:50,4.14,CUST-12531,Germany
+INV-536566,22752,Set 7 Babushka Nesting Boxes,Toys & Games,1,2023-02-11 15:54,7.86,CUST-18429,United Kingdom
+INV-536651,22383,Lunch Bag Suzi Doodle,Kitchenware,2,2023-02-12 09:16,1.74,CUST-12690,United Kingdom
+INV-536455,22616,Pack Of 12 London Tissues,Essentials,6,2023-02-12 10:17,0.27,CUST-16205,United Kingdom
+INV-536631,20725,Lunch Bag Red Retrospot,Kitchenware,3,2023-02-12 12:38,1.74,CUST-15347,Spain
+INV-536757,22632,Hand Warmer Red Retrospot,Accessories,4,2023-02-12 16:54,1.74,CUST-17501,United Kingdom
+INV-536540,22310,Ivory Knitting Mug,Kitchenware,2,2023-02-12 18:34,1.72,CUST-13250,United Kingdom
+INV-536451,84029E,Red Woolly Hottie White Heart.,Seasonal,3,2023-02-13 12:35,3.45,CUST-18485,United Kingdom
+INV-536795,84991,60 Teatime Fairy Cake Cases,Bakery,1,2023-02-13 14:23,0.53,CUST-15091,United Kingdom
+INV-536568,21212,Pack Of 72 Retrospot Cake Cases,Bakery,2,2023-02-13 18:22,0.57,CUST-15391,EIRE
+INV-536743,22384,Lunch Bag Pink Polkadot,Kitchenware,1,2023-02-14 14:54,1.77,CUST-13773,United Kingdom
+INV-536528,84969,Box Of 6 Assorted Colour Teaspoons,Kitchenware,10,2023-02-14 15:55,4.05,CUST-18353,Portugal
+INV-536701,71053,White Metal Lantern,Home Decor,1,2023-02-14 15:56,3.24,CUST-15702,United Kingdom
+INV-536590,85123A,White Hanging Heart T-Light Holder,Home Decor,24,2023-02-15 09:53,2.3,CUST-16047,United Kingdom
+INV-536838,84029E,Red Woolly Hottie White Heart.,Seasonal,2,2023-02-15 10:19,3.17,CUST-17559,Switzerland
+INV-536584,84991,60 Teatime Fairy Cake Cases,Bakery,2,2023-02-15 10:39,0.58,CUST-15517,United Kingdom
+INV-536414,22384,Lunch Bag Pink Polkadot,Kitchenware,2,2023-02-15 13:16,1.5,CUST-18328,United Kingdom
+INV-536795,20728,Lunch Bag Cars Blue,Kitchenware,1,2023-02-15 15:12,1.69,CUST-13382,United Kingdom
+INV-536738,21212,Pack Of 72 Retrospot Cake Cases,Bakery,1,2023-02-15 18:52,0.55,CUST-14849,France
+INV-536837,22745,Poppy's Playhouse Bedroom,Toys & Games,1,2023-02-16 09:06,2.05,CUST-14337,United Kingdom
+INV-536455,84029E,Red Woolly Hottie White Heart.,Seasonal,6,2023-02-16 11:52,3.61,CUST-14863,United Kingdom
+INV-536405,84969,Box Of 6 Assorted Colour Teaspoons,Kitchenware,2,2023-02-17 12:14,4.5,CUST-13993,United Kingdom
+INV-536609,22384,Lunch Bag Pink Polkadot,Kitchenware,2,2023-02-17 13:14,1.66,CUST-17434,Spain
+INV-536367,21977,Pack Of 60 Pink Paisley Cake Cases,Bakery,1,2023-02-17 14:06,0.53,CUST-14817,United Kingdom
+INV-536530,22629,Spaceboy Mini Back Pack,Bags,2,2023-02-18 10:48,4.3,CUST-12485,France
+INV-536548,22197,Small Popcorn Holder,Party Supplies,2,2023-02-18 16:08,0.78,CUST-15230,United Kingdom
+INV-536658,84969,Box Of 6 Assorted Colour Teaspoons,Kitchenware,1,2023-02-18 16:42,4.45,CUST-15873,Australia
+INV-536764,21977,Pack Of 60 Pink Paisley Cake Cases,Bakery,24,2023-02-18 17:48,0.56,CUST-14642,United Kingdom
+INV-536775,84879,Assorted Colour Bird Ornament,Gifts,1,2023-02-19 09:42,1.73,CUST-18287,France
+INV-536377,22492,Mini Painter's Set 25 Pieces,Crafts,2,2023-02-20 08:25,0.71,CUST-12895,Germany
+INV-536665,84029G,Knitted Union Flag Hot Water Bottle,Seasonal,1,2023-02-20 08:36,3.38,CUST-15183,United Kingdom
+INV-536724,22745,Poppy's Playhouse Bedroom,Toys & Games,2,2023-02-20 12:41,2.0,CUST-15777,United Kingdom
+INV-536679,22383,Lunch Bag Suzi Doodle,Kitchenware,6,2023-02-20 13:31,1.81,CUST-16354,Spain
+INV-536533,21977,Pack Of 60 Pink Paisley Cake Cases,Bakery,6,2023-02-20 18:50,0.5,CUST-12133,EIRE
+INV-536571,20727,Lunch Bag Black Skull.,Kitchenware,6,2023-02-21 09:36,1.68,CUST-18436,France
+INV-536792,21212,Pack Of 72 Retrospot Cake Cases,Bakery,3,2023-02-21 10:44,0.54,CUST-12543,United Kingdom
+INV-536368,22616,Pack Of 12 London Tissues,Essentials,4,2023-02-21 14:17,0.27,CUST-14988,United Kingdom
+INV-536421,21977,Pack Of 60 Pink Paisley Cake Cases,Bakery,3,2023-02-21 15:10,0.56,CUST-12237,Germany
+INV-536496,22633,Hand Warmer Union Jack,Accessories,4,2023-02-21 17:02,1.74,CUST-17505,United Kingdom
+INV-536485,22745,Poppy's Playhouse Bedroom,Toys & Games,3,2023-02-21 18:49,2.19,CUST-16508,United Kingdom
+INV-536535,22749,Feltcraft Princess Charlotte Doll,Crafts,2,2023-02-22 09:20,3.44,CUST-14451,United Kingdom
+INV-536512,22748,Poppy's Playhouse Kitchen,Toys & Games,24,2023-02-22 10:05,2.21,CUST-15676,United Kingdom
+INV-536445,21213,Pack Of 72 Skull Cake Cases,Bakery,12,2023-02-22 10:16,0.51,CUST-16934,United Kingdom
+INV-536383,84879,Assorted Colour Bird Ornament,Gifts,3,2023-02-23 10:16,1.84,CUST-12876,United Kingdom
+INV-536668,22086,Paper Chain Kit 50's Christmas,Seasonal,1,2023-02-23 10:50,2.51,CUST-15289,United Kingdom
+INV-536561,22633,Hand Warmer Union Jack,Accessories,1,2023-02-23 15:09,1.9,CUST-12637,United Kingdom
+INV-536589,84029E,Red Woolly Hottie White Heart.,Seasonal,10,2023-02-23 16:46,3.33,CUST-14315,United Kingdom
+INV-536512,22749,Feltcraft Princess Charlotte Doll,Crafts,1,2023-02-24 09:00,3.61,CUST-15643,Belgium
+INV-536550,20727,Lunch Bag Black Skull.,Kitchenware,6,2023-02-24 10:28,1.52,CUST-15330,United Kingdom
+INV-536661,21212,Pack Of 72 Retrospot Cake Cases,Bakery,1,2023-02-24 10:31,0.55,CUST-16574,United Kingdom
+INV-536706,22629,Spaceboy Mini Back Pack,Bags,10,2023-02-24 14:03,4.3,CUST-15210,United Kingdom
+INV-536393,22616,Pack Of 12 London Tissues,Essentials,2,2023-02-24 14:14,0.31,CUST-17700,United Kingdom
+INV-536811,22632,Hand Warmer Red Retrospot,Accessories,1,2023-02-24 14:34,1.99,CUST-15235,United Kingdom
+INV-536820,21213,Pack Of 72 Skull Cake Cases,Bakery,4,2023-02-24 17:39,0.58,CUST-12834,France
+INV-536854,22745,Poppy's Playhouse Bedroom,Toys & Games,24,2023-02-25 09:00,2.14,CUST-12553,United Kingdom
+INV-536851,21213,Pack Of 72 Skull Cake Cases,Bakery,3,2023-02-25 15:15,0.52,CUST-12445,Switzerland
+INV-536687,84991,60 Teatime Fairy Cake Cases,Bakery,4,2023-02-25 15:29,0.5,CUST-12347,EIRE
+INV-536677,85123A,White Hanging Heart T-Light Holder,Home Decor,1,2023-02-26 12:28,2.47,CUST-14718,United Kingdom
+INV-536741,22629,Spaceboy Mini Back Pack,Bags,2,2023-02-26 13:14,4.01,CUST-18043,United Kingdom
+INV-536559,22630,Dolly Girl Mini Backpack,Bags,2,2023-02-26 16:55,3.85,CUST-12594,United Kingdom
+INV-536777,22749,Feltcraft Princess Charlotte Doll,Crafts,2,2023-02-26 17:43,3.74,CUST-16536,United Kingdom
+INV-536689,84406B,Cream Cupid Hearts Coat Hanger,Home Decor,12,2023-02-27 10:49,2.87,CUST-17702,United Kingdom
+INV-536720,22616,Pack Of 12 London Tissues,Essentials,4,2023-02-27 17:11,0.28,CUST-18053,Netherlands
+INV-536675,22630,Dolly Girl Mini Backpack,Bags,6,2023-02-27 18:26,4.21,CUST-14853,United Kingdom
+INV-536780,84406B,Cream Cupid Hearts Coat Hanger,Home Decor,4,2023-02-28 13:10,2.95,CUST-14671,United Kingdom
+INV-536611,22629,Spaceboy Mini Back Pack,Bags,6,2023-02-28 14:16,4.0,CUST-14316,United Kingdom
+INV-536810,21977,Pack Of 60 Pink Paisley Cake Cases,Bakery,3,2023-02-28 19:42,0.55,CUST-18440,United Kingdom
+INV-536524,84029G,Knitted Union Flag Hot Water Bottle,Seasonal,12,2023-03-01 10:23,3.21,CUST-16184,Germany
+INV-536388,22745,Poppy's Playhouse Bedroom,Toys & Games,24,2023-03-01 12:11,2.28,CUST-14174,United Kingdom
+INV-536701,22749,Feltcraft Princess Charlotte Doll,Crafts,6,2023-03-01 12:45,3.52,CUST-17815,Spain
+INV-536800,22310,Ivory Knitting Mug,Kitchenware,4,2023-03-01 13:02,1.53,CUST-16089,Australia
+INV-536389,20728,Lunch Bag Cars Blue,Kitchenware,1,2023-03-01 14:57,1.81,CUST-14086,United Kingdom
+INV-536816,22310,Ivory Knitting Mug,Kitchenware,4,2023-03-01 15:39,1.78,CUST-14840,Belgium
+INV-536796,22752,Set 7 Babushka Nesting Boxes,Toys & Games,3,2023-03-02 08:45,8.33,CUST-18335,United Kingdom
+INV-536776,22310,Ivory Knitting Mug,Kitchenware,3,2023-03-02 14:28,1.78,CUST-15082,United Kingdom
+INV-536614,85123A,White Hanging Heart T-Light Holder,Home Decor,2,2023-03-02 16:00,2.49,CUST-17065,United Kingdom
+INV-536490,21977,Pack Of 60 Pink Paisley Cake Cases,Bakery,1,2023-03-02 18:58,0.53,CUST-15010,Belgium
+INV-536726,22492,Mini Painter's Set 25 Pieces,Crafts,2,2023-03-03 09:54,0.6,CUST-15079,United Kingdom
+INV-536836,22383,Lunch Bag Suzi Doodle,Kitchenware,1,2023-03-03 18:59,1.78,CUST-12155,United Kingdom
+INV-536755,22752,Set 7 Babushka Nesting Boxes,Toys & Games,1,2023-03-04 08:25,7.7,CUST-18295,Belgium
+INV-536415,22629,Spaceboy Mini Back Pack,Bags,1,2023-03-04 08:40,4.31,CUST-13960,United Kingdom
+INV-536647,22748,Poppy's Playhouse Kitchen,Toys & Games,1,2023-03-04 13:55,1.9,CUST-16960,Germany
+INV-536437,22384,Lunch Bag Pink Polkadot,Kitchenware,4,2023-03-04 14:22,1.59,CUST-18146,Spain
+INV-536730,21213,Pack Of 72 Skull Cake Cases,Bakery,1,2023-03-04 17:34,0.58,CUST-14940,Belgium
+INV-536828,71053,White Metal Lantern,Home Decor,12,2023-03-05 15:19,3.56,CUST-12042,United Kingdom
+INV-536835,84879,Assorted Colour Bird Ornament,Gifts,1,2023-03-05 18:35,1.71,CUST-17068,United Kingdom
+INV-536569,21730,Glass Star Frosted T-Light Holder,Home Decor,1,2023-03-06 08:27,4.51,CUST-17596,United Kingdom
+INV-536840,21977,Pack Of 60 Pink Paisley Cake Cases,Bakery,12,2023-03-06 12:36,0.56,CUST-12687,United Kingdom
+INV-536530,22632,Hand Warmer Red Retrospot,Accessories,2,2023-03-06 19:55,1.99,CUST-13198,United Kingdom
+INV-536553,22629,Spaceboy Mini Back Pack,Bags,1,2023-03-07 09:57,4.27,CUST-14716,EIRE
+INV-536561,22197,Small Popcorn Holder,Party Supplies,1,2023-03-07 10:46,0.88,CUST-17750,United Kingdom
+INV-536847,84029E,Red Woolly Hottie White Heart.,Seasonal,6,2023-03-07 12:59,3.56,CUST-13867,United Kingdom
+INV-536626,85123A,White Hanging Heart T-Light Holder,Home Decor,1,2023-03-07 17:37,2.42,CUST-17157,United Kingdom
+INV-536767,21213,Pack Of 72 Skull Cake Cases,Bakery,4,2023-03-07 19:09,0.51,CUST-14518,Germany
+INV-536818,84406B,Cream Cupid Hearts Coat Hanger,Home Decor,3,2023-03-08 10:12,2.84,CUST-16031,United Kingdom
+INV-536860,84406B,Cream Cupid Hearts Coat Hanger,Home Decor,2,2023-03-08 11:12,2.54,CUST-17688,United Kingdom
+INV-536830,84406B,Cream Cupid Hearts Coat Hanger,Home Decor,2,2023-03-08 15:13,2.51,CUST-15025,United Kingdom
+INV-536651,84969,Box Of 6 Assorted Colour Teaspoons,Kitchenware,1,2023-03-09 16:53,4.36,CUST-12287,United Kingdom
+INV-536533,21730,Glass Star Frosted T-Light Holder,Home Decor,1,2023-03-09 18:19,4.67,CUST-14244,United Kingdom
+INV-536376,20725,Lunch Bag Red Retrospot,Kitchenware,12,2023-03-09 19:59,1.56,CUST-16720,Spain
+INV-536775,22633,Hand Warmer Union Jack,Accessories,2,2023-03-10 08:06,1.9,CUST-12558,France
+INV-536864,22632,Hand Warmer Red Retrospot,Accessories,3,2023-03-10 09:18,1.87,CUST-14880,United Kingdom
+INV-536794,20725,Lunch Bag Red Retrospot,Kitchenware,1,2023-03-10 12:11,1.77,CUST-14683,Germany
+INV-536662,22749,Feltcraft Princess Charlotte Doll,Crafts,4,2023-03-10 12:57,3.64,CUST-17788,United Kingdom
+INV-536798,84406B,Cream Cupid Hearts Coat Hanger,Home Decor,4,2023-03-10 13:44,2.48,CUST-13738,United Kingdom
+INV-536490,20728,Lunch Bag Cars Blue,Kitchenware,2,2023-03-10 15:09,1.56,CUST-16962,United Kingdom
+INV-536685,21212,Pack Of 72 Retrospot Cake Cases,Bakery,4,2023-03-10 16:54,0.58,CUST-17832,United Kingdom
+INV-536536,84029E,Red Woolly Hottie White Heart.,Seasonal,12,2023-03-10 18:43,3.31,CUST-16345,United Kingdom
+INV-536417,22383,Lunch Bag Suzi Doodle,Kitchenware,3,2023-03-11 09:17,1.73,CUST-15399,France
+INV-536653,22383,Lunch Bag Suzi Doodle,Kitchenware,3,2023-03-11 13:18,1.75,CUST-12068,United Kingdom
+INV-536699,84991,60 Teatime Fairy Cake Cases,Bakery,6,2023-03-11 15:09,0.5,CUST-16398,United Kingdom
+INV-536615,22752,Set 7 Babushka Nesting Boxes,Toys & Games,1,2023-03-11 19:25,7.7,CUST-16470,France
+INV-536748,21212,Pack Of 72 Retrospot Cake Cases,Bakery,4,2023-03-12 13:15,0.58,CUST-17316,United Kingdom
+INV-536859,85123A,White Hanging Heart T-Light Holder,Home Decor,1,2023-03-12 14:41,2.72,CUST-12909,France
+INV-536371,22749,Feltcraft Princess Charlotte Doll,Crafts,2,2023-03-12 16:31,3.65,CUST-12385,United Kingdom
+INV-536525,22749,Feltcraft Princess Charlotte Doll,Crafts,2,2023-03-12 17:24,3.69,CUST-15986,United Kingdom
+INV-536633,21212,Pack Of 72 Retrospot Cake Cases,Bakery,4,2023-03-12 18:07,0.54,CUST-15658,France
+INV-536552,84969,Box Of 6 Assorted Colour Teaspoons,Kitchenware,4,2023-03-13 09:00,3.91,CUST-18397,United Kingdom
+INV-536537,84406B,Cream Cupid Hearts Coat Hanger,Home Decor,1,2023-03-13 09:37,2.97,CUST-14879,France
+INV-536787,22629,Spaceboy Mini Back Pack,Bags,2,2023-03-13 11:07,3.81,CUST-16098,United Kingdom
+INV-536537,22310,Ivory Knitting Mug,Kitchenware,2,2023-03-13 11:17,1.59,CUST-14032,United Kingdom
+INV-536714,22086,Paper Chain Kit 50's Christmas,Seasonal,1,2023-03-13 11:35,2.38,CUST-14951,United Kingdom
+INV-536625,85123A,White Hanging Heart T-Light Holder,Home Decor,3,2023-03-13 15:10,2.55,CUST-16215,United Kingdom
+INV-536488,84029G,Knitted Union Flag Hot Water Bottle,Seasonal,1,2023-03-13 15:20,3.18,CUST-12055,Belgium
+INV-536711,71053,White Metal Lantern,Home Decor,2,2023-03-13 17:57,3.11,CUST-12001,France
+INV-536427,84969,Box Of 6 Assorted Colour Teaspoons,Kitchenware,6,2023-03-14 11:55,4.64,CUST-17524,Germany
+INV-536838,22749,Feltcraft Princess Charlotte Doll,Crafts,2,2023-03-14 14:57,3.45,CUST-15076,United Kingdom
+INV-536678,22384,Lunch Bag Pink Polkadot,Kitchenware,1,2023-03-14 19:44,1.64,CUST-15085,Germany
+INV-536702,84879,Assorted Colour Bird Ornament,Gifts,12,2023-03-15 09:52,1.78,CUST-16228,Australia
+INV-536615,84879,Assorted Colour Bird Ornament,Gifts,12,2023-03-15 12:43,1.85,CUST-17974,Spain
+INV-536456,22492,Mini Painter's Set 25 Pieces,Crafts,2,2023-03-16 10:02,0.63,CUST-15870,United Kingdom
+INV-536432,85123A,White Hanging Heart T-Light Holder,Home Decor,1,2023-03-16 10:34,2.44,CUST-13429,United Kingdom
+INV-536742,71053,White Metal Lantern,Home Decor,4,2023-03-16 11:59,3.65,CUST-13458,United Kingdom
+INV-536763,22752,Set 7 Babushka Nesting Boxes,Toys & Games,3,2023-03-16 13:29,7.77,CUST-13109,Spain
+INV-536683,22630,Dolly Girl Mini Backpack,Bags,10,2023-03-16 18:59,3.85,CUST-13294,United Kingdom
+INV-536803,22616,Pack Of 12 London Tissues,Essentials,6,2023-03-17 09:22,0.3,CUST-14327,United Kingdom
+INV-536569,22086,Paper Chain Kit 50's Christmas,Seasonal,3,2023-03-17 09:48,2.8,CUST-13369,United Kingdom
+INV-536784,21730,Glass Star Frosted T-Light Holder,Home Decor,1,2023-03-17 11:09,4.13,CUST-18271,France
+INV-536753,21977,Pack Of 60 Pink Paisley Cake Cases,Bakery,1,2023-03-17 13:18,0.59,CUST-13362,United Kingdom
+INV-536393,20725,Lunch Bag Red Retrospot,Kitchenware,2,2023-03-17 18:44,1.62,CUST-18151,United Kingdom
+INV-536829,22748,Poppy's Playhouse Kitchen,Toys & Games,2,2023-03-17 19:27,2.08,CUST-12671,EIRE
+INV-536625,22492,Mini Painter's Set 25 Pieces,Crafts,2,2023-03-18 10:10,0.62,CUST-17876,United Kingdom
+INV-536712,21977,Pack Of 60 Pink Paisley Cake Cases,Bakery,2,2023-03-18 15:34,0.51,CUST-17042,United Kingdom
+INV-536645,84991,60 Teatime Fairy Cake Cases,Bakery,3,2023-03-18 15:51,0.6,CUST-15453,United Kingdom
+INV-536457,85123A,White Hanging Heart T-Light Holder,Home Decor,4,2023-03-18 16:46,2.43,CUST-15467,United Kingdom
+INV-536595,22086,Paper Chain Kit 50's Christmas,Seasonal,2,2023-03-18 16:57,2.62,CUST-12447,Australia
+INV-536629,22086,Paper Chain Kit 50's Christmas,Seasonal,2,2023-03-18 17:06,2.51,CUST-17036,United Kingdom
+INV-536729,22086,Paper Chain Kit 50's Christmas,Seasonal,3,2023-03-19 19:21,2.49,CUST-16707,Netherlands
+INV-536832,84879,Assorted Colour Bird Ornament,Gifts,1,2023-03-20 09:23,1.53,CUST-15067,United Kingdom
+INV-536470,21213,Pack Of 72 Skull Cake Cases,Bakery,6,2023-03-20 12:10,0.51,CUST-17810,United Kingdom
+INV-536721,20728,Lunch Bag Cars Blue,Kitchenware,2,2023-03-20 15:48,1.79,CUST-18310,Portugal
+INV-536821,22197,Small Popcorn Holder,Party Supplies,1,2023-03-20 18:23,0.91,CUST-13128,United Kingdom
+INV-536608,84969,Box Of 6 Assorted Colour Teaspoons,Kitchenware,1,2023-03-21 08:09,4.43,CUST-16889,Belgium
+INV-536641,21213,Pack Of 72 Skull Cake Cases,Bakery,2,2023-03-21 09:07,0.56,CUST-17536,Belgium
+INV-536495,22633,Hand Warmer Union Jack,Accessories,2,2023-03-21 12:12,1.84,CUST-17939,Belgium
+INV-536632,22310,Ivory Knitting Mug,Kitchenware,1,2023-03-21 14:41,1.6,CUST-14140,United Kingdom
+INV-536663,22752,Set 7 Babushka Nesting Boxes,Toys & Games,2,2023-03-21 15:18,6.99,CUST-16436,EIRE
+INV-536438,20727,Lunch Bag Black Skull.,Kitchenware,6,2023-03-21 18:30,1.65,CUST-12886,United Kingdom
+INV-536676,21730,Glass Star Frosted T-Light Holder,Home Decor,1,2023-03-21 19:54,4.41,CUST-18058,United Kingdom
+INV-536636,22633,Hand Warmer Union Jack,Accessories,6,2023-03-22 09:17,1.91,CUST-14892,France
+INV-536704,84029G,Knitted Union Flag Hot Water Bottle,Seasonal,10,2023-03-22 12:07,3.24,CUST-17103,United Kingdom
+INV-536533,84029G,Knitted Union Flag Hot Water Bottle,Seasonal,3,2023-03-22 15:29,3.68,CUST-15504,United Kingdom
+INV-536668,22383,Lunch Bag Suzi Doodle,Kitchenware,2,2023-03-22 16:38,1.6,CUST-14886,United Kingdom
+INV-536595,85123A,White Hanging Heart T-Light Holder,Home Decor,2,2023-03-22 16:54,2.62,CUST-16061,United Kingdom
+INV-536743,22629,Spaceboy Mini Back Pack,Bags,3,2023-03-22 18:39,3.98,CUST-16735,Netherlands
+INV-536560,22745,Poppy's Playhouse Bedroom,Toys & Games,3,2023-03-22 19:27,1.95,CUST-15991,France
+INV-536574,21213,Pack Of 72 Skull Cake Cases,Bakery,4,2023-03-23 09:19,0.5,CUST-15304,Germany
+INV-536489,84029G,Knitted Union Flag Hot Water Bottle,Seasonal,3,2023-03-23 14:43,3.37,CUST-17763,United Kingdom
+INV-536634,84991,60 Teatime Fairy Cake Cases,Bakery,12,2023-03-24 09:13,0.57,CUST-18439,United Kingdom
+INV-536727,21977,Pack Of 60 Pink Paisley Cake Cases,Bakery,3,2023-03-24 09:17,0.53,CUST-15135,France
+INV-536454,22383,Lunch Bag Suzi Doodle,Kitchenware,2,2023-03-24 11:51,1.66,CUST-14048,United Kingdom
+INV-536604,22632,Hand Warmer Red Retrospot,Accessories,1,2023-03-24 12:43,1.94,CUST-12508,United Kingdom
+INV-536818,84991,60 Teatime Fairy Cake Cases,Bakery,1,2023-03-24 17:13,0.6,CUST-18137,United Kingdom
+INV-536608,22384,Lunch Bag Pink Polkadot,Kitchenware,1,2023-03-24 17:54,1.57,CUST-14707,United Kingdom
+INV-536384,22492,Mini Painter's Set 25 Pieces,Crafts,1,2023-03-24 19:28,0.71,CUST-15503,United Kingdom
+INV-536831,22197,Small Popcorn Holder,Party Supplies,1,2023-03-25 10:32,0.93,CUST-17825,United Kingdom
+INV-536453,20728,Lunch Bag Cars Blue,Kitchenware,2,2023-03-25 10:53,1.61,CUST-17117,Germany
+INV-536400,21212,Pack Of 72 Retrospot Cake Cases,Bakery,2,2023-03-25 12:06,0.51,CUST-14555,United Kingdom
+INV-536542,84029E,Red Woolly Hottie White Heart.,Seasonal,48,2023-03-25 15:22,3.53,CUST-18414,United Kingdom
+INV-536802,71053,White Metal Lantern,Home Decor,10,2023-03-25 19:29,3.37,CUST-16054,United Kingdom
+INV-536690,22492,Mini Painter's Set 25 Pieces,Crafts,1,2023-03-25 19:46,0.7,CUST-12935,United Kingdom
+INV-536654,22310,Ivory Knitting Mug,Kitchenware,6,2023-03-25 19:47,1.62,CUST-15099,United Kingdom
+INV-536759,84991,60 Teatime Fairy Cake Cases,Bakery,2,2023-03-25 19:57,0.54,CUST-15393,United Kingdom
+INV-536586,22748,Poppy's Playhouse Kitchen,Toys & Games,1,2023-03-26 14:01,2.21,CUST-17956,United Kingdom
+INV-536777,84879,Assorted Colour Bird Ornament,Gifts,6,2023-03-26 15:27,1.82,CUST-17863,United Kingdom
+INV-536521,84029G,Knitted Union Flag Hot Water Bottle,Seasonal,12,2023-03-26 19:15,3.51,CUST-16521,United Kingdom
+INV-536542,21213,Pack Of 72 Skull Cake Cases,Bakery,48,2023-03-27 13:08,0.57,CUST-14201,France
+INV-536773,22630,Dolly Girl Mini Backpack,Bags,2,2023-03-28 09:23,4.48,CUST-14774,Australia
+INV-536445,22745,Poppy's Playhouse Bedroom,Toys & Games,1,2023-03-28 09:32,1.98,CUST-16346,United Kingdom
+INV-536719,22492,Mini Painter's Set 25 Pieces,Crafts,4,2023-03-28 17:03,0.65,CUST-14390,Germany
+INV-536471,84406B,Cream Cupid Hearts Coat Hanger,Home Decor,1,2023-03-28 17:37,2.75,CUST-17396,United Kingdom
+INV-536708,22748,Poppy's Playhouse Kitchen,Toys & Games,1,2023-03-29 12:49,2.09,CUST-16707,United Kingdom
+INV-536581,22748,Poppy's Playhouse Kitchen,Toys & Games,3,2023-03-29 18:56,2.1,CUST-14406,United Kingdom
+INV-536557,22748,Poppy's Playhouse Kitchen,Toys & Games,1,2023-03-30 10:15,2.28,CUST-18046,United Kingdom
+INV-536789,21730,Glass Star Frosted T-Light Holder,Home Decor,6,2023-03-31 11:17,3.95,CUST-14083,United Kingdom
+INV-536643,22616,Pack Of 12 London Tissues,Essentials,2,2023-03-31 15:07,0.3,CUST-15768,Germany
+INV-536738,22310,Ivory Knitting Mug,Kitchenware,1,2023-03-31 17:44,1.56,CUST-13474,United Kingdom
+INV-536635,20728,Lunch Bag Cars Blue,Kitchenware,6,2023-03-31 18:31,1.5,CUST-13652,United Kingdom
+INV-536748,71053,White Metal Lantern,Home Decor,6,2023-03-31 18:35,3.3,CUST-16593,Germany
+INV-536620,20725,Lunch Bag Red Retrospot,Kitchenware,1,2023-03-31 18:38,1.67,CUST-14298,United Kingdom
+INV-536386,22616,Pack Of 12 London Tissues,Essentials,2,2023-04-01 14:01,0.27,CUST-14721,United Kingdom
+INV-536731,84879,Assorted Colour Bird Ornament,Gifts,4,2023-04-01 16:02,1.74,CUST-17412,Switzerland
+INV-536694,84029G,Knitted Union Flag Hot Water Bottle,Seasonal,3,2023-04-02 10:43,3.33,CUST-17414,United Kingdom
+INV-536750,84406B,Cream Cupid Hearts Coat Hanger,Home Decor,1,2023-04-02 12:04,2.52,CUST-14260,United Kingdom
+INV-536775,20725,Lunch Bag Red Retrospot,Kitchenware,10,2023-04-02 14:38,1.71,CUST-13251,Germany
+INV-536691,22752,Set 7 Babushka Nesting Boxes,Toys & Games,2,2023-04-02 19:03,8.21,CUST-14535,United Kingdom
+INV-536715,22630,Dolly Girl Mini Backpack,Bags,2,2023-04-03 15:32,4.09,CUST-15686,United Kingdom
+INV-536463,84406B,Cream Cupid Hearts Coat Hanger,Home Decor,2,2023-04-03 16:18,2.71,CUST-12655,United Kingdom
+INV-536697,20725,Lunch Bag Red Retrospot,Kitchenware,1,2023-04-03 17:14,1.65,CUST-13585,Germany
+INV-536592,22748,Poppy's Playhouse Kitchen,Toys & Games,1,2023-04-04 09:25,2.23,CUST-15739,United Kingdom
+INV-536469,22384,Lunch Bag Pink Polkadot,Kitchenware,12,2023-04-04 10:27,1.7,CUST-12453,United Kingdom
+INV-536708,22630,Dolly Girl Mini Backpack,Bags,2,2023-04-04 19:58,4.04,CUST-18461,Germany
+INV-536811,22745,Poppy's Playhouse Bedroom,Toys & Games,1,2023-04-06 11:11,2.3,CUST-16948,United Kingdom
+INV-536554,22748,Poppy's Playhouse Kitchen,Toys & Games,2,2023-04-06 12:17,1.98,CUST-13217,United Kingdom
+INV-536716,22749,Feltcraft Princess Charlotte Doll,Crafts,12,2023-04-06 14:38,3.64,CUST-16080,United Kingdom
+INV-536558,20727,Lunch Bag Black Skull.,Kitchenware,2,2023-04-07 15:34,1.53,CUST-16017,United Kingdom
+INV-536418,22630,Dolly Girl Mini Backpack,Bags,2,2023-04-07 19:15,4.0,CUST-13913,United Kingdom
+INV-536813,84029E,Red Woolly Hottie White Heart.,Seasonal,4,2023-04-08 09:52,3.14,CUST-13541,United Kingdom
+INV-536431,71053,White Metal Lantern,Home Decor,10,2023-04-08 09:54,3.32,CUST-12750,EIRE
+INV-536702,22629,Spaceboy Mini Back Pack,Bags,24,2023-04-08 13:59,4.15,CUST-16289,United Kingdom
+INV-536664,22384,Lunch Bag Pink Polkadot,Kitchenware,1,2023-04-08 16:43,1.76,CUST-16517,United Kingdom
+INV-536406,22633,Hand Warmer Union Jack,Accessories,2,2023-04-09 13:07,1.71,CUST-18243,France
+INV-536387,22633,Hand Warmer Union Jack,Accessories,6,2023-04-09 14:21,1.67,CUST-12568,United Kingdom
+INV-536582,84406B,Cream Cupid Hearts Coat Hanger,Home Decor,3,2023-04-10 16:07,2.73,CUST-15126,Spain
+INV-536854,20727,Lunch Bag Black Skull.,Kitchenware,2,2023-04-10 17:08,1.75,CUST-14099,United Kingdom
+INV-536757,71053,White Metal Lantern,Home Decor,2,2023-04-10 17:33,3.46,CUST-18284,United Kingdom
+INV-536523,22752,Set 7 Babushka Nesting Boxes,Toys & Games,2,2023-04-11 15:07,7.44,CUST-16009,United Kingdom
+INV-536468,22383,Lunch Bag Suzi Doodle,Kitchenware,4,2023-04-13 10:15,1.56,CUST-12215,France
+INV-536728,84406B,Cream Cupid Hearts Coat Hanger,Home Decor,48,2023-04-13 17:25,2.75,CUST-16030,United Kingdom
+INV-536793,84029E,Red Woolly Hottie White Heart.,Seasonal,2,2023-04-13 18:19,3.05,CUST-12673,United Kingdom
+INV-536702,84991,60 Teatime Fairy Cake Cases,Bakery,1,2023-04-14 09:28,0.5,CUST-15953,United Kingdom
+INV-536682,20727,Lunch Bag Black Skull.,Kitchenware,1,2023-04-14 10:19,1.66,CUST-16291,Germany
+INV-536776,20725,Lunch Bag Red Retrospot,Kitchenware,1,2023-04-14 12:42,1.75,CUST-16135,United Kingdom
+INV-536589,21213,Pack Of 72 Skull Cake Cases,Bakery,2,2023-04-14 13:45,0.55,CUST-13313,United Kingdom
+INV-536689,20727,Lunch Bag Black Skull.,Kitchenware,1,2023-04-14 15:05,1.78,CUST-17666,United Kingdom
+INV-536863,71053,White Metal Lantern,Home Decor,3,2023-04-14 15:55,3.19,CUST-13790,United Kingdom
+INV-536484,22197,Small Popcorn Holder,Party Supplies,1,2023-04-14 16:17,0.85,CUST-17703,Belgium
+INV-536840,22616,Pack Of 12 London Tissues,Essentials,1,2023-04-15 10:23,0.3,CUST-13377,United Kingdom
+INV-536605,21212,Pack Of 72 Retrospot Cake Cases,Bakery,4,2023-04-15 16:02,0.58,CUST-15707,United Kingdom
+INV-536737,20725,Lunch Bag Red Retrospot,Kitchenware,6,2023-04-16 10:40,1.71,CUST-15689,United Kingdom
+INV-536858,84991,60 Teatime Fairy Cake Cases,Bakery,4,2023-04-16 14:11,0.58,CUST-12055,EIRE
+INV-536705,22384,Lunch Bag Pink Polkadot,Kitchenware,1,2023-04-16 16:22,1.65,CUST-14220,United Kingdom
+INV-536712,20727,Lunch Bag Black Skull.,Kitchenware,4,2023-04-16 18:56,1.63,CUST-16671,United Kingdom
+INV-536703,22086,Paper Chain Kit 50's Christmas,Seasonal,1,2023-04-16 19:02,2.8,CUST-17846,United Kingdom
+INV-536588,20725,Lunch Bag Red Retrospot,Kitchenware,1,2023-04-16 19:43,1.72,CUST-14466,United Kingdom
+INV-536550,84029G,Knitted Union Flag Hot Water Bottle,Seasonal,2,2023-04-17 15:19,3.41,CUST-12982,United Kingdom
+INV-536409,22197,Small Popcorn Holder,Party Supplies,2,2023-04-17 18:13,0.78,CUST-12665,United Kingdom
+INV-536482,21977,Pack Of 60 Pink Paisley Cake Cases,Bakery,3,2023-04-17 19:45,0.53,CUST-15930,United Kingdom
+INV-536590,71053,White Metal Lantern,Home Decor,2,2023-04-17 19:59,3.42,CUST-13921,United Kingdom
+INV-536584,85123A,White Hanging Heart T-Light Holder,Home Decor,1,2023-04-18 10:36,2.53,CUST-16010,France
+INV-536368,22752,Set 7 Babushka Nesting Boxes,Toys & Games,1,2023-04-18 18:17,7.45,CUST-17599,Germany
+INV-536677,21730,Glass Star Frosted T-Light Holder,Home Decor,10,2023-04-19 11:34,4.45,CUST-14118,United Kingdom
+INV-536370,22749,Feltcraft Princess Charlotte Doll,Crafts,1,2023-04-19 17:56,3.58,CUST-13741,Germany
+INV-536508,22630,Dolly Girl Mini Backpack,Bags,1,2023-04-19 19:56,3.77,CUST-14220,United Kingdom
+INV-536452,22748,Poppy's Playhouse Kitchen,Toys & Games,3,2023-04-20 13:49,2.02,CUST-13855,United Kingdom
+INV-536612,22086,Paper Chain Kit 50's Christmas,Seasonal,2,2023-04-20 18:27,2.62,CUST-13684,EIRE
+INV-536440,84406B,Cream Cupid Hearts Coat Hanger,Home Decor,1,2023-04-21 14:26,2.89,CUST-13289,United Kingdom
+INV-536701,21213,Pack Of 72 Skull Cake Cases,Bakery,2,2023-04-21 16:19,0.6,CUST-15065,United Kingdom
+INV-536406,21212,Pack Of 72 Retrospot Cake Cases,Bakery,1,2023-04-21 19:30,0.52,CUST-16829,United Kingdom
+INV-536758,22616,Pack Of 12 London Tissues,Essentials,12,2023-04-21 19:56,0.29,CUST-15404,United Kingdom
+INV-536745,21212,Pack Of 72 Retrospot Cake Cases,Bakery,2,2023-04-22 10:22,0.58,CUST-17305,United Kingdom
+INV-536430,71053,White Metal Lantern,Home Decor,4,2023-04-22 15:28,3.52,CUST-14971,Switzerland
+INV-536671,22749,Feltcraft Princess Charlotte Doll,Crafts,4,2023-04-22 19:04,3.8,CUST-18495,Germany
+INV-536769,21977,Pack Of 60 Pink Paisley Cake Cases,Bakery,4,2023-04-22 19:12,0.5,CUST-13407,Switzerland
+INV-536857,22630,Dolly Girl Mini Backpack,Bags,6,2023-04-23 08:40,3.77,CUST-13886,United Kingdom
+INV-536556,85123A,White Hanging Heart T-Light Holder,Home Decor,2,2023-04-23 08:57,2.46,CUST-14301,EIRE
+INV-536526,85123A,White Hanging Heart T-Light Holder,Home Decor,3,2023-04-23 12:02,2.7,CUST-16404,United Kingdom
+INV-536859,21730,Glass Star Frosted T-Light Holder,Home Decor,1,2023-04-23 12:46,4.07,CUST-16542,United Kingdom
+INV-536628,22616,Pack Of 12 London Tissues,Essentials,2,2023-04-23 14:38,0.29,CUST-16773,United Kingdom
+INV-536557,22630,Dolly Girl Mini Backpack,Bags,12,2023-04-23 17:54,4.35,CUST-15181,Australia
+INV-536639,22492,Mini Painter's Set 25 Pieces,Crafts,2,2023-04-23 18:44,0.69,CUST-14586,United Kingdom
+INV-536670,85123A,White Hanging Heart T-Light Holder,Home Decor,3,2023-04-24 11:54,2.45,CUST-18320,United Kingdom
+INV-536617,84029E,Red Woolly Hottie White Heart.,Seasonal,4,2023-04-24 17:53,3.16,CUST-12938,United Kingdom
+INV-536576,21977,Pack Of 60 Pink Paisley Cake Cases,Bakery,1,2023-04-24 18:14,0.6,CUST-14204,Germany
+INV-536502,22310,Ivory Knitting Mug,Kitchenware,12,2023-04-24 19:09,1.5,CUST-16532,United Kingdom
+INV-536795,21213,Pack Of 72 Skull Cake Cases,Bakery,2,2023-04-25 08:01,0.59,CUST-17301,Belgium
+INV-536495,22749,Feltcraft Princess Charlotte Doll,Crafts,6,2023-04-25 08:48,3.77,CUST-14444,United Kingdom
+INV-536761,22384,Lunch Bag Pink Polkadot,Kitchenware,1,2023-04-25 08:50,1.73,CUST-14151,United Kingdom
+INV-536707,20725,Lunch Bag Red Retrospot,Kitchenware,6,2023-04-25 10:55,1.56,CUST-14113,Netherlands
+INV-536681,22384,Lunch Bag Pink Polkadot,Kitchenware,6,2023-04-26 10:21,1.8,CUST-17381,Netherlands
+INV-536567,84969,Box Of 6 Assorted Colour Teaspoons,Kitchenware,2,2023-04-26 12:36,4.22,CUST-18162,United Kingdom
+INV-536409,20728,Lunch Bag Cars Blue,Kitchenware,1,2023-04-26 16:24,1.75,CUST-15626,United Kingdom
+INV-536484,22086,Paper Chain Kit 50's Christmas,Seasonal,12,2023-04-26 18:14,2.76,CUST-15385,United Kingdom
+INV-536850,84991,60 Teatime Fairy Cake Cases,Bakery,1,2023-04-26 19:27,0.5,CUST-14047,Switzerland
+INV-536573,22086,Paper Chain Kit 50's Christmas,Seasonal,3,2023-04-27 10:19,2.35,CUST-15629,Australia
+INV-536672,22630,Dolly Girl Mini Backpack,Bags,10,2023-04-27 19:41,4.46,CUST-12093,EIRE
+INV-536626,21213,Pack Of 72 Skull Cake Cases,Bakery,1,2023-04-28 14:51,0.51,CUST-12928,United Kingdom
+INV-536443,22749,Feltcraft Princess Charlotte Doll,Crafts,2,2023-04-28 16:35,3.77,CUST-14901,EIRE
+INV-536510,71053,White Metal Lantern,Home Decor,4,2023-04-29 09:21,3.12,CUST-17028,United Kingdom
+INV-536684,20728,Lunch Bag Cars Blue,Kitchenware,1,2023-04-29 11:43,1.56,CUST-12651,United Kingdom
+INV-536396,84406B,Cream Cupid Hearts Coat Hanger,Home Decor,4,2023-04-29 14:44,2.55,CUST-13752,United Kingdom
+INV-536667,84029G,Knitted Union Flag Hot Water Bottle,Seasonal,10,2023-04-29 16:24,3.12,CUST-16310,United Kingdom
+INV-536636,22383,Lunch Bag Suzi Doodle,Kitchenware,10,2023-04-29 17:10,1.66,CUST-14946,Germany
+INV-536623,84406B,Cream Cupid Hearts Coat Hanger,Home Decor,4,2023-04-30 08:42,2.62,CUST-18483,United Kingdom
+INV-536733,84029E,Red Woolly Hottie White Heart.,Seasonal,1,2023-04-30 09:02,3.55,CUST-16005,France
+INV-536549,22745,Poppy's Playhouse Bedroom,Toys & Games,3,2023-04-30 09:12,2.08,CUST-18309,United Kingdom
+INV-536671,22629,Spaceboy Mini Back Pack,Bags,12,2023-04-30 12:51,4.22,CUST-16673,United Kingdom
+INV-536432,21730,Glass Star Frosted T-Light Holder,Home Decor,1,2023-04-30 13:49,4.32,CUST-16882,United Kingdom
+INV-536558,71053,White Metal Lantern,Home Decor,1,2023-04-30 17:14,3.11,CUST-15915,United Kingdom
+INV-536738,22310,Ivory Knitting Mug,Kitchenware,10,2023-05-01 11:07,1.49,CUST-12783,Australia
+INV-536791,84879,Assorted Colour Bird Ornament,Gifts,2,2023-05-01 12:13,1.55,CUST-13312,Spain
+INV-536395,84406B,Cream Cupid Hearts Coat Hanger,Home Decor,4,2023-05-01 12:21,2.87,CUST-16424,United Kingdom
+INV-536380,84406B,Cream Cupid Hearts Coat Hanger,Home Decor,2,2023-05-01 14:07,2.85,CUST-16666,Belgium
+INV-536785,22632,Hand Warmer Red Retrospot,Accessories,4,2023-05-01 14:15,1.92,CUST-13572,United Kingdom
+INV-536392,84406B,Cream Cupid Hearts Coat Hanger,Home Decor,3,2023-05-01 18:19,2.93,CUST-13631,United Kingdom
+INV-536828,84969,Box Of 6 Assorted Colour Teaspoons,Kitchenware,2,2023-05-01 19:37,4.11,CUST-17142,United Kingdom
+INV-536565,22086,Paper Chain Kit 50's Christmas,Seasonal,1,2023-05-02 09:03,2.44,CUST-16502,United Kingdom
+INV-536851,21213,Pack Of 72 Skull Cake Cases,Bakery,1,2023-05-02 09:49,0.53,CUST-15592,United Kingdom
+INV-536457,84029G,Knitted Union Flag Hot Water Bottle,Seasonal,3,2023-05-02 12:07,3.58,CUST-15439,United Kingdom
+INV-536605,22492,Mini Painter's Set 25 Pieces,Crafts,1,2023-05-02 16:50,0.66,CUST-17702,France
+INV-536788,20725,Lunch Bag Red Retrospot,Kitchenware,1,2023-05-02 17:07,1.78,CUST-14567,France
+INV-536857,84969,Box Of 6 Assorted Colour Teaspoons,Kitchenware,4,2023-05-03 15:47,4.36,CUST-14715,France
+INV-536473,22384,Lunch Bag Pink Polkadot,Kitchenware,4,2023-05-04 15:07,1.52,CUST-14030,United Kingdom
+INV-536538,20725,Lunch Bag Red Retrospot,Kitchenware,3,2023-05-04 15:40,1.61,CUST-16327,United Kingdom
+INV-536769,21977,Pack Of 60 Pink Paisley Cake Cases,Bakery,1,2023-05-04 16:36,0.58,CUST-16736,United Kingdom
+INV-536682,22086,Paper Chain Kit 50's Christmas,Seasonal,3,2023-05-04 17:09,2.41,CUST-14559,United Kingdom
+INV-536404,22310,Ivory Knitting Mug,Kitchenware,10,2023-05-04 19:30,1.65,CUST-16020,United Kingdom
+INV-536724,21977,Pack Of 60 Pink Paisley Cake Cases,Bakery,3,2023-05-04 19:43,0.57,CUST-13596,United Kingdom
+INV-536480,84029E,Red Woolly Hottie White Heart.,Seasonal,3,2023-05-05 08:36,3.61,CUST-12900,Belgium
+INV-536401,21212,Pack Of 72 Retrospot Cake Cases,Bakery,1,2023-05-05 09:44,0.59,CUST-17605,France
+INV-536639,20727,Lunch Bag Black Skull.,Kitchenware,1,2023-05-05 13:49,1.64,CUST-15774,United Kingdom
+INV-536503,22749,Feltcraft Princess Charlotte Doll,Crafts,3,2023-05-06 15:35,3.8,CUST-17610,Germany
+INV-536392,84029E,Red Woolly Hottie White Heart.,Seasonal,2,2023-05-06 15:39,3.07,CUST-12596,EIRE
+INV-536496,21212,Pack Of 72 Retrospot Cake Cases,Bakery,2,2023-05-06 19:02,0.59,CUST-13919,United Kingdom
+INV-536836,22632,Hand Warmer Red Retrospot,Accessories,2,2023-05-06 19:53,1.96,CUST-15639,Spain
+INV-536482,20725,Lunch Bag Red Retrospot,Kitchenware,6,2023-05-07 12:35,1.55,CUST-14438,United Kingdom
+INV-536530,21212,Pack Of 72 Retrospot Cake Cases,Bakery,3,2023-05-07 18:25,0.53,CUST-16730,United Kingdom
+INV-536491,21213,Pack Of 72 Skull Cake Cases,Bakery,1,2023-05-07 18:48,0.52,CUST-18450,United Kingdom
+INV-536408,84879,Assorted Colour Bird Ornament,Gifts,2,2023-05-08 09:35,1.55,CUST-16966,France
+INV-536798,22633,Hand Warmer Union Jack,Accessories,3,2023-05-08 13:37,1.89,CUST-15753,Germany
+INV-536809,22086,Paper Chain Kit 50's Christmas,Seasonal,1,2023-05-08 16:27,2.76,CUST-12390,United Kingdom
+INV-536534,84406B,Cream Cupid Hearts Coat Hanger,Home Decor,10,2023-05-09 09:23,2.84,CUST-17315,Germany
+INV-536613,71053,White Metal Lantern,Home Decor,1,2023-05-09 16:04,3.17,CUST-13864,United Kingdom
+INV-536783,21730,Glass Star Frosted T-Light Holder,Home Decor,3,2023-05-09 17:32,4.18,CUST-18254,United Kingdom
+INV-536692,21730,Glass Star Frosted T-Light Holder,Home Decor,2,2023-05-10 08:29,3.83,CUST-16084,United Kingdom
+INV-536408,22752,Set 7 Babushka Nesting Boxes,Toys & Games,1,2023-05-10 15:07,8.36,CUST-15282,EIRE
+INV-536848,22086,Paper Chain Kit 50's Christmas,Seasonal,3,2023-05-10 18:35,2.57,CUST-12016,Spain
+INV-536493,22197,Small Popcorn Holder,Party Supplies,6,2023-05-11 08:47,0.77,CUST-12598,United Kingdom
+INV-536669,21977,Pack Of 60 Pink Paisley Cake Cases,Bakery,3,2023-05-11 13:28,0.56,CUST-15252,United Kingdom
+INV-536646,22752,Set 7 Babushka Nesting Boxes,Toys & Games,1,2023-05-11 15:53,6.98,CUST-15685,United Kingdom
+INV-536487,22197,Small Popcorn Holder,Party Supplies,10,2023-05-12 19:11,0.84,CUST-14761,United Kingdom
+INV-536552,84406B,Cream Cupid Hearts Coat Hanger,Home Decor,1,2023-05-13 09:01,2.8,CUST-13619,Portugal
+INV-536644,22745,Poppy's Playhouse Bedroom,Toys & Games,10,2023-05-13 10:35,2.04,CUST-14206,United Kingdom
+INV-536404,20725,Lunch Bag Red Retrospot,Kitchenware,6,2023-05-13 13:17,1.55,CUST-17744,Spain
+INV-536819,22384,Lunch Bag Pink Polkadot,Kitchenware,3,2023-05-13 13:50,1.56,CUST-12382,United Kingdom
+INV-536762,20727,Lunch Bag Black Skull.,Kitchenware,3,2023-05-13 18:43,1.63,CUST-17687,United Kingdom
+INV-536581,84029G,Knitted Union Flag Hot Water Bottle,Seasonal,4,2023-05-13 19:51,3.37,CUST-13499,United Kingdom
+INV-536753,84879,Assorted Colour Bird Ornament,Gifts,4,2023-05-14 11:30,1.58,CUST-14360,United Kingdom
+INV-536381,20727,Lunch Bag Black Skull.,Kitchenware,2,2023-05-14 11:42,1.66,CUST-13955,Germany
+INV-536819,85123A,White Hanging Heart T-Light Holder,Home Decor,1,2023-05-14 13:43,2.48,CUST-16124,United Kingdom
+INV-536635,22310,Ivory Knitting Mug,Kitchenware,1,2023-05-15 11:23,1.51,CUST-12309,United Kingdom
+INV-536466,22630,Dolly Girl Mini Backpack,Bags,3,2023-05-15 12:45,4.2,CUST-17012,United Kingdom
+INV-536372,84969,Box Of 6 Assorted Colour Teaspoons,Kitchenware,1,2023-05-15 16:48,3.83,CUST-12871,United Kingdom
+INV-536370,22197,Small Popcorn Holder,Party Supplies,2,2023-05-15 19:37,0.86,CUST-16780,United Kingdom
+INV-536382,22384,Lunch Bag Pink Polkadot,Kitchenware,4,2023-05-16 10:59,1.56,CUST-12563,United Kingdom
+INV-536641,22197,Small Popcorn Holder,Party Supplies,4,2023-05-16 11:14,0.81,CUST-14045,United Kingdom
+INV-536420,84029E,Red Woolly Hottie White Heart.,Seasonal,6,2023-05-16 13:39,3.1,CUST-17323,Germany
+INV-536384,21730,Glass Star Frosted T-Light Holder,Home Decor,1,2023-05-16 16:31,4.41,CUST-12416,United Kingdom
+INV-536865,22752,Set 7 Babushka Nesting Boxes,Toys & Games,6,2023-05-16 18:04,7.56,CUST-12675,United Kingdom
+INV-536411,22492,Mini Painter's Set 25 Pieces,Crafts,2,2023-05-17 10:04,0.6,CUST-18493,United Kingdom
+INV-536820,21977,Pack Of 60 Pink Paisley Cake Cases,Bakery,4,2023-05-17 10:54,0.59,CUST-16222,Germany
+INV-536797,21730,Glass Star Frosted T-Light Holder,Home Decor,1,2023-05-17 12:47,4.63,CUST-13066,United Kingdom
+INV-536506,22632,Hand Warmer Red Retrospot,Accessories,1,2023-05-17 14:05,1.97,CUST-15326,United Kingdom
+INV-536415,21977,Pack Of 60 Pink Paisley Cake Cases,Bakery,10,2023-05-17 16:08,0.5,CUST-15589,Belgium
+INV-536749,22633,Hand Warmer Union Jack,Accessories,3,2023-05-17 16:43,1.78,CUST-12446,United Kingdom
+INV-536649,22492,Mini Painter's Set 25 Pieces,Crafts,1,2023-05-17 17:41,0.62,CUST-15644,United Kingdom
+INV-536513,22749,Feltcraft Princess Charlotte Doll,Crafts,12,2023-05-18 12:17,3.5,CUST-12518,United Kingdom
+INV-536840,22630,Dolly Girl Mini Backpack,Bags,24,2023-05-18 16:37,4.47,CUST-14017,Germany
+INV-536805,20725,Lunch Bag Red Retrospot,Kitchenware,1,2023-05-18 17:42,1.63,CUST-12359,United Kingdom
+INV-536573,21977,Pack Of 60 Pink Paisley Cake Cases,Bakery,2,2023-05-18 19:26,0.59,CUST-12731,United Kingdom
+INV-536679,84406B,Cream Cupid Hearts Coat Hanger,Home Decor,3,2023-05-19 18:54,2.69,CUST-14950,Netherlands
+INV-536487,22616,Pack Of 12 London Tissues,Essentials,12,2023-05-20 11:51,0.29,CUST-13331,United Kingdom
+INV-536383,22197,Small Popcorn Holder,Party Supplies,10,2023-05-20 12:38,0.86,CUST-14808,United Kingdom
+INV-536655,84991,60 Teatime Fairy Cake Cases,Bakery,2,2023-05-20 12:41,0.57,CUST-14202,France
+INV-536763,22748,Poppy's Playhouse Kitchen,Toys & Games,1,2023-05-20 13:26,1.96,CUST-14916,United Kingdom
+INV-536412,84879,Assorted Colour Bird Ornament,Gifts,12,2023-05-20 16:34,1.76,CUST-12658,United Kingdom
+INV-536656,84969,Box Of 6 Assorted Colour Teaspoons,Kitchenware,3,2023-05-20 19:39,4.35,CUST-14626,United Kingdom
+INV-536849,22616,Pack Of 12 London Tissues,Essentials,3,2023-05-21 09:43,0.32,CUST-16059,United Kingdom
+INV-536470,22492,Mini Painter's Set 25 Pieces,Crafts,2,2023-05-21 10:40,0.71,CUST-16370,United Kingdom
+INV-536736,22745,Poppy's Playhouse Bedroom,Toys & Games,1,2023-05-21 10:48,1.92,CUST-17704,United Kingdom
+INV-536365,22492,Mini Painter's Set 25 Pieces,Crafts,2,2023-05-21 11:14,0.6,CUST-12839,United Kingdom
+INV-536848,22629,Spaceboy Mini Back Pack,Bags,12,2023-05-21 11:54,4.17,CUST-17676,Germany
+INV-536483,22748,Poppy's Playhouse Kitchen,Toys & Games,1,2023-05-21 12:07,2.13,CUST-16449,United Kingdom
+INV-536464,20728,Lunch Bag Cars Blue,Kitchenware,4,2023-05-21 18:50,1.81,CUST-12614,Belgium
+INV-536384,84406B,Cream Cupid Hearts Coat Hanger,Home Decor,1,2023-05-22 08:00,2.82,CUST-13071,United Kingdom
+INV-536637,22748,Poppy's Playhouse Kitchen,Toys & Games,2,2023-05-22 11:38,2.04,CUST-15725,Switzerland
+INV-536727,84969,Box Of 6 Assorted Colour Teaspoons,Kitchenware,2,2023-05-22 14:44,4.61,CUST-18306,Netherlands
+INV-536704,21730,Glass Star Frosted T-Light Holder,Home Decor,3,2023-05-22 16:20,3.99,CUST-17497,France
+INV-536670,21213,Pack Of 72 Skull Cake Cases,Bakery,2,2023-05-22 16:32,0.6,CUST-16682,United Kingdom
+INV-536579,84406B,Cream Cupid Hearts Coat Hanger,Home Decor,2,2023-05-22 18:20,2.66,CUST-14139,Spain
+INV-536413,22383,Lunch Bag Suzi Doodle,Kitchenware,1,2023-05-23 10:37,1.7,CUST-16028,United Kingdom
+INV-536720,84406B,Cream Cupid Hearts Coat Hanger,Home Decor,2,2023-05-23 12:08,2.94,CUST-14254,United Kingdom
+INV-536399,21977,Pack Of 60 Pink Paisley Cake Cases,Bakery,3,2023-05-23 14:16,0.59,CUST-15852,EIRE
+INV-536403,21213,Pack Of 72 Skull Cake Cases,Bakery,3,2023-05-23 15:15,0.6,CUST-16668,France
+INV-536769,84406B,Cream Cupid Hearts Coat Hanger,Home Decor,2,2023-05-23 17:22,2.56,CUST-16101,United Kingdom
+INV-536786,22632,Hand Warmer Red Retrospot,Accessories,1,2023-05-23 18:35,1.96,CUST-12345,United Kingdom
+INV-536531,84406B,Cream Cupid Hearts Coat Hanger,Home Decor,24,2023-05-23 19:59,2.7,CUST-15724,Spain
+INV-536861,71053,White Metal Lantern,Home Decor,2,2023-05-24 10:54,3.48,CUST-16784,United Kingdom
+INV-536717,22616,Pack Of 12 London Tissues,Essentials,4,2023-05-24 15:33,0.32,CUST-16997,United Kingdom
+INV-536476,84969,Box Of 6 Assorted Colour Teaspoons,Kitchenware,1,2023-05-24 17:43,4.47,CUST-13054,United Kingdom
+INV-536801,22616,Pack Of 12 London Tissues,Essentials,6,2023-05-24 19:23,0.32,CUST-14317,Belgium
+INV-536842,20727,Lunch Bag Black Skull.,Kitchenware,2,2023-05-25 08:10,1.76,CUST-16612,France
+INV-536406,21977,Pack Of 60 Pink Paisley Cake Cases,Bakery,1,2023-05-25 09:53,0.55,CUST-13863,United Kingdom
+INV-536576,21213,Pack Of 72 Skull Cake Cases,Bakery,2,2023-05-26 08:24,0.57,CUST-16687,United Kingdom
+INV-536627,22197,Small Popcorn Holder,Party Supplies,2,2023-05-26 09:13,0.88,CUST-15861,United Kingdom
+INV-536382,22629,Spaceboy Mini Back Pack,Bags,12,2023-05-26 10:28,3.94,CUST-17763,EIRE
+INV-536826,22383,Lunch Bag Suzi Doodle,Kitchenware,3,2023-05-26 11:05,1.81,CUST-14557,United Kingdom
+INV-536740,71053,White Metal Lantern,Home Decor,3,2023-05-26 11:27,3.49,CUST-17052,United Kingdom
+INV-536725,84969,Box Of 6 Assorted Colour Teaspoons,Kitchenware,4,2023-05-26 12:12,4.12,CUST-17074,United Kingdom
+INV-536737,22492,Mini Painter's Set 25 Pieces,Crafts,1,2023-05-26 14:44,0.66,CUST-18328,EIRE
+INV-536392,22752,Set 7 Babushka Nesting Boxes,Toys & Games,6,2023-05-26 16:42,7.89,CUST-14745,United Kingdom
+INV-536669,85123A,White Hanging Heart T-Light Holder,Home Decor,2,2023-05-26 17:01,2.67,CUST-14472,United Kingdom
+INV-536705,84029E,Red Woolly Hottie White Heart.,Seasonal,3,2023-05-26 17:15,3.69,CUST-14550,United Kingdom
+INV-536806,22749,Feltcraft Princess Charlotte Doll,Crafts,24,2023-05-26 18:48,3.96,CUST-13262,Switzerland
+INV-536447,71053,White Metal Lantern,Home Decor,12,2023-05-27 09:41,3.3,CUST-12739,Spain
+INV-536493,22630,Dolly Girl Mini Backpack,Bags,6,2023-05-27 14:11,4.13,CUST-18273,France
+INV-536688,22629,Spaceboy Mini Back Pack,Bags,2,2023-05-27 15:10,3.99,CUST-17022,United Kingdom
+INV-536540,84991,60 Teatime Fairy Cake Cases,Bakery,6,2023-05-27 18:45,0.54,CUST-15403,United Kingdom
+INV-536421,22492,Mini Painter's Set 25 Pieces,Crafts,1,2023-05-28 11:47,0.67,CUST-12806,United Kingdom
+INV-536714,21213,Pack Of 72 Skull Cake Cases,Bakery,6,2023-05-28 18:08,0.54,CUST-12587,United Kingdom
+INV-536423,22629,Spaceboy Mini Back Pack,Bags,3,2023-05-28 18:34,4.4,CUST-15618,United Kingdom
+INV-536815,20728,Lunch Bag Cars Blue,Kitchenware,6,2023-05-29 08:31,1.73,CUST-16205,United Kingdom
+INV-536591,22616,Pack Of 12 London Tissues,Essentials,12,2023-05-29 13:51,0.26,CUST-15489,Germany
+INV-536674,84406B,Cream Cupid Hearts Coat Hanger,Home Decor,1,2023-05-29 14:09,2.6,CUST-12676,United Kingdom
+INV-536474,84029E,Red Woolly Hottie White Heart.,Seasonal,3,2023-05-29 14:55,3.12,CUST-14033,United Kingdom
+INV-536586,21213,Pack Of 72 Skull Cake Cases,Bakery,3,2023-05-29 15:46,0.5,CUST-16293,United Kingdom
+INV-536614,22630,Dolly Girl Mini Backpack,Bags,10,2023-05-29 18:19,4.15,CUST-14306,United Kingdom
+INV-536472,22629,Spaceboy Mini Back Pack,Bags,4,2023-05-29 18:19,4.26,CUST-17611,United Kingdom
+INV-536410,21212,Pack Of 72 Retrospot Cake Cases,Bakery,2,2023-05-30 08:14,0.56,CUST-14316,United Kingdom
+INV-536529,22745,Poppy's Playhouse Bedroom,Toys & Games,1,2023-05-30 12:36,2.3,CUST-16214,United Kingdom
+INV-536679,22616,Pack Of 12 London Tissues,Essentials,3,2023-05-30 18:24,0.27,CUST-15118,United Kingdom
+INV-536821,22630,Dolly Girl Mini Backpack,Bags,1,2023-05-30 19:28,4.04,CUST-16082,France
+INV-536564,84991,60 Teatime Fairy Cake Cases,Bakery,3,2023-05-31 08:20,0.59,CUST-12857,United Kingdom
+INV-536610,22745,Poppy's Playhouse Bedroom,Toys & Games,2,2023-05-31 11:48,2.03,CUST-15890,United Kingdom
+INV-536638,22384,Lunch Bag Pink Polkadot,Kitchenware,2,2023-05-31 13:07,1.51,CUST-14111,EIRE
+INV-536607,22197,Small Popcorn Holder,Party Supplies,1,2023-05-31 15:11,0.93,CUST-12610,Australia
+INV-536726,21212,Pack Of 72 Retrospot Cake Cases,Bakery,12,2023-05-31 15:42,0.52,CUST-17232,Belgium
+INV-536452,84029E,Red Woolly Hottie White Heart.,Seasonal,48,2023-06-01 09:32,3.16,CUST-18050,France
+INV-536591,22492,Mini Painter's Set 25 Pieces,Crafts,2,2023-06-01 12:29,0.62,CUST-13431,United Kingdom
+INV-536782,84879,Assorted Colour Bird Ornament,Gifts,4,2023-06-02 17:25,1.61,CUST-17116,EIRE
+INV-536486,22629,Spaceboy Mini Back Pack,Bags,12,2023-06-02 17:38,3.77,CUST-14744,United Kingdom
+INV-536478,20725,Lunch Bag Red Retrospot,Kitchenware,2,2023-06-03 15:52,1.72,CUST-14713,United Kingdom
+INV-536698,84991,60 Teatime Fairy Cake Cases,Bakery,2,2023-06-03 16:35,0.5,CUST-12050,United Kingdom
+INV-536423,22748,Poppy's Playhouse Kitchen,Toys & Games,1,2023-06-03 18:27,2.3,CUST-15742,Germany
+INV-536497,21213,Pack Of 72 Skull Cake Cases,Bakery,2,2023-06-04 10:42,0.53,CUST-15387,United Kingdom
+INV-536538,22616,Pack Of 12 London Tissues,Essentials,24,2023-06-04 11:33,0.31,CUST-13545,United Kingdom
+INV-536442,71053,White Metal Lantern,Home Decor,2,2023-06-04 11:49,3.06,CUST-14093,United Kingdom
+INV-536709,22492,Mini Painter's Set 25 Pieces,Crafts,1,2023-06-04 16:29,0.59,CUST-15386,United Kingdom
+INV-536712,84991,60 Teatime Fairy Cake Cases,Bakery,2,2023-06-05 14:45,0.6,CUST-14820,Australia
+INV-536827,20727,Lunch Bag Black Skull.,Kitchenware,4,2023-06-05 19:27,1.57,CUST-12904,Australia
+INV-536825,21212,Pack Of 72 Retrospot Cake Cases,Bakery,3,2023-06-05 19:47,0.56,CUST-14819,United Kingdom
+INV-536719,22630,Dolly Girl Mini Backpack,Bags,24,2023-06-05 19:50,4.23,CUST-12503,United Kingdom
+INV-536833,71053,White Metal Lantern,Home Decor,4,2023-06-06 12:13,3.69,CUST-18059,United Kingdom
+INV-536860,22745,Poppy's Playhouse Bedroom,Toys & Games,2,2023-06-06 15:15,2.28,CUST-15050,United Kingdom
+INV-536463,22745,Poppy's Playhouse Bedroom,Toys & Games,1,2023-06-06 15:38,2.17,CUST-13365,Germany
+INV-536442,20725,Lunch Bag Red Retrospot,Kitchenware,4,2023-06-07 08:14,1.66,CUST-16909,United Kingdom
+INV-536547,22616,Pack Of 12 London Tissues,Essentials,3,2023-06-07 09:13,0.3,CUST-13951,United Kingdom
+INV-536373,84029G,Knitted Union Flag Hot Water Bottle,Seasonal,4,2023-06-07 11:03,3.68,CUST-16647,United Kingdom
+INV-536502,22384,Lunch Bag Pink Polkadot,Kitchenware,2,2023-06-07 12:23,1.7,CUST-16073,United Kingdom
+INV-536786,85123A,White Hanging Heart T-Light Holder,Home Decor,2,2023-06-08 15:31,2.42,CUST-15572,United Kingdom
+INV-536454,22633,Hand Warmer Union Jack,Accessories,3,2023-06-08 15:57,1.86,CUST-15013,EIRE
+INV-536707,84969,Box Of 6 Assorted Colour Teaspoons,Kitchenware,6,2023-06-08 18:41,3.91,CUST-15812,Germany
+INV-536850,21730,Glass Star Frosted T-Light Holder,Home Decor,12,2023-06-09 09:40,3.96,CUST-12228,United Kingdom
+INV-536573,21213,Pack Of 72 Skull Cake Cases,Bakery,2,2023-06-09 12:53,0.58,CUST-17703,United Kingdom
+INV-536546,22616,Pack Of 12 London Tissues,Essentials,1,2023-06-09 13:05,0.28,CUST-12065,United Kingdom
+INV-536659,22749,Feltcraft Princess Charlotte Doll,Crafts,3,2023-06-09 13:10,3.89,CUST-12345,United Kingdom
+INV-536771,22310,Ivory Knitting Mug,Kitchenware,3,2023-06-10 09:29,1.52,CUST-13113,United Kingdom
+INV-536481,20725,Lunch Bag Red Retrospot,Kitchenware,3,2023-06-10 10:29,1.66,CUST-14804,Netherlands
+INV-536480,21730,Glass Star Frosted T-Light Holder,Home Decor,3,2023-06-10 14:09,3.84,CUST-13670,United Kingdom
+INV-536523,22383,Lunch Bag Suzi Doodle,Kitchenware,48,2023-06-10 17:24,1.8,CUST-16808,United Kingdom
+INV-536390,22630,Dolly Girl Mini Backpack,Bags,4,2023-06-10 18:54,4.01,CUST-14460,United Kingdom
+INV-536852,22630,Dolly Girl Mini Backpack,Bags,2,2023-06-10 19:04,3.76,CUST-12507,France
+INV-536509,71053,White Metal Lantern,Home Decor,4,2023-06-11 08:13,3.17,CUST-18162,United Kingdom
+INV-536461,21730,Glass Star Frosted T-Light Holder,Home Decor,1,2023-06-11 12:32,4.58,CUST-16448,United Kingdom
+INV-536619,20727,Lunch Bag Black Skull.,Kitchenware,2,2023-06-11 14:10,1.61,CUST-14016,United Kingdom
+INV-536549,84879,Assorted Colour Bird Ornament,Gifts,3,2023-06-11 14:44,1.61,CUST-14672,EIRE
+INV-536816,85123A,White Hanging Heart T-Light Holder,Home Decor,2,2023-06-11 16:04,2.51,CUST-17310,United Kingdom
+INV-536700,20727,Lunch Bag Black Skull.,Kitchenware,6,2023-06-11 16:34,1.72,CUST-16730,United Kingdom
+INV-536754,21212,Pack Of 72 Retrospot Cake Cases,Bakery,1,2023-06-12 13:09,0.5,CUST-16422,United Kingdom
+INV-536792,22630,Dolly Girl Mini Backpack,Bags,3,2023-06-12 18:26,4.1,CUST-14244,France
+INV-536755,84029E,Red Woolly Hottie White Heart.,Seasonal,3,2023-06-13 10:00,3.69,CUST-16474,Australia
+INV-536562,22633,Hand Warmer Union Jack,Accessories,1,2023-06-13 10:40,1.79,CUST-12726,Spain
+INV-536515,22752,Set 7 Babushka Nesting Boxes,Toys & Games,3,2023-06-13 12:47,8.36,CUST-16022,Germany
+INV-536683,22197,Small Popcorn Holder,Party Supplies,2,2023-06-13 14:26,0.77,CUST-18108,United Kingdom
+INV-536778,21977,Pack Of 60 Pink Paisley Cake Cases,Bakery,6,2023-06-14 08:01,0.6,CUST-13050,United Kingdom
+INV-536545,22492,Mini Painter's Set 25 Pieces,Crafts,1,2023-06-14 11:26,0.64,CUST-14620,Netherlands
+INV-536735,20727,Lunch Bag Black Skull.,Kitchenware,1,2023-06-14 11:48,1.67,CUST-13420,United Kingdom
+INV-536515,20728,Lunch Bag Cars Blue,Kitchenware,4,2023-06-14 17:44,1.53,CUST-14573,United Kingdom
+INV-536559,22752,Set 7 Babushka Nesting Boxes,Toys & Games,24,2023-06-15 08:01,8.29,CUST-17772,United Kingdom
+INV-536664,84029E,Red Woolly Hottie White Heart.,Seasonal,10,2023-06-15 14:41,3.47,CUST-12788,United Kingdom
+INV-536838,22752,Set 7 Babushka Nesting Boxes,Toys & Games,12,2023-06-16 10:01,6.98,CUST-14441,Germany
+INV-536668,22629,Spaceboy Mini Back Pack,Bags,3,2023-06-16 13:26,4.0,CUST-15527,France
+INV-536513,84406B,Cream Cupid Hearts Coat Hanger,Home Decor,2,2023-06-16 14:00,2.8,CUST-15176,United Kingdom
+INV-536516,20727,Lunch Bag Black Skull.,Kitchenware,2,2023-06-16 14:17,1.74,CUST-15218,EIRE
+INV-536652,22086,Paper Chain Kit 50's Christmas,Seasonal,4,2023-06-16 15:29,2.48,CUST-16428,Australia
+INV-536440,22748,Poppy's Playhouse Kitchen,Toys & Games,24,2023-06-16 17:38,2.02,CUST-12430,United Kingdom
+INV-536510,20728,Lunch Bag Cars Blue,Kitchenware,1,2023-06-17 08:40,1.62,CUST-15690,United Kingdom
+INV-536551,71053,White Metal Lantern,Home Decor,1,2023-06-17 10:05,3.2,CUST-14914,Germany
+INV-536744,22616,Pack Of 12 London Tissues,Essentials,2,2023-06-17 14:37,0.28,CUST-16847,United Kingdom
+INV-536752,22492,Mini Painter's Set 25 Pieces,Crafts,1,2023-06-17 15:37,0.67,CUST-16343,Germany
+INV-536829,22197,Small Popcorn Holder,Party Supplies,1,2023-06-17 16:37,0.81,CUST-18377,United Kingdom
+INV-536673,22384,Lunch Bag Pink Polkadot,Kitchenware,2,2023-06-17 16:44,1.67,CUST-12413,United Kingdom
+INV-536474,22616,Pack Of 12 London Tissues,Essentials,3,2023-06-17 17:46,0.31,CUST-18251,United Kingdom
+INV-536426,84406B,Cream Cupid Hearts Coat Hanger,Home Decor,6,2023-06-17 19:26,2.98,CUST-13082,United Kingdom
+INV-536450,22492,Mini Painter's Set 25 Pieces,Crafts,1,2023-06-18 09:35,0.63,CUST-14327,Germany
+INV-536376,22629,Spaceboy Mini Back Pack,Bags,1,2023-06-19 09:32,3.76,CUST-17480,United Kingdom
+INV-536419,22383,Lunch Bag Suzi Doodle,Kitchenware,2,2023-06-19 09:55,1.8,CUST-12816,EIRE
+INV-536462,71053,White Metal Lantern,Home Decor,1,2023-06-19 12:07,3.64,CUST-15579,France
+INV-536582,22616,Pack Of 12 London Tissues,Essentials,1,2023-06-19 13:16,0.28,CUST-15799,United Kingdom
+INV-536699,21213,Pack Of 72 Skull Cake Cases,Bakery,2,2023-06-19 13:59,0.51,CUST-15887,Germany
+INV-536396,84406B,Cream Cupid Hearts Coat Hanger,Home Decor,3,2023-06-19 16:29,2.7,CUST-13694,United Kingdom
+INV-536508,22616,Pack Of 12 London Tissues,Essentials,2,2023-06-19 17:54,0.29,CUST-16326,Australia
+INV-536799,22384,Lunch Bag Pink Polkadot,Kitchenware,12,2023-06-20 11:30,1.5,CUST-16967,Netherlands
+INV-536706,20728,Lunch Bag Cars Blue,Kitchenware,12,2023-06-20 11:45,1.6,CUST-16370,France
+INV-536501,21730,Glass Star Frosted T-Light Holder,Home Decor,1,2023-06-20 12:58,4.56,CUST-13556,United Kingdom
+INV-536418,22384,Lunch Bag Pink Polkadot,Kitchenware,4,2023-06-20 16:48,1.64,CUST-15730,United Kingdom
+INV-536583,21977,Pack Of 60 Pink Paisley Cake Cases,Bakery,1,2023-06-20 18:11,0.5,CUST-12475,United Kingdom
+INV-536759,22616,Pack Of 12 London Tissues,Essentials,12,2023-06-21 09:59,0.29,CUST-18194,Switzerland
+INV-536672,21977,Pack Of 60 Pink Paisley Cake Cases,Bakery,2,2023-06-21 13:56,0.5,CUST-15412,EIRE
+INV-536826,84406B,Cream Cupid Hearts Coat Hanger,Home Decor,1,2023-06-21 14:46,2.5,CUST-13032,Germany
+INV-536691,21977,Pack Of 60 Pink Paisley Cake Cases,Bakery,1,2023-06-21 17:55,0.51,CUST-13229,Germany
+INV-536403,20728,Lunch Bag Cars Blue,Kitchenware,6,2023-06-22 08:31,1.71,CUST-13489,Spain
+INV-536819,71053,White Metal Lantern,Home Decor,3,2023-06-22 14:07,3.6,CUST-12988,United Kingdom
+INV-536648,22616,Pack Of 12 London Tissues,Essentials,1,2023-06-22 14:40,0.27,CUST-15315,United Kingdom
+INV-536733,71053,White Metal Lantern,Home Decor,10,2023-06-22 19:02,3.28,CUST-13734,United Kingdom
+INV-536439,21212,Pack Of 72 Retrospot Cake Cases,Bakery,2,2023-06-23 13:00,0.58,CUST-13173,United Kingdom
+INV-536477,84029G,Knitted Union Flag Hot Water Bottle,Seasonal,1,2023-06-23 16:23,3.32,CUST-13630,France
+INV-536449,22749,Feltcraft Princess Charlotte Doll,Crafts,2,2023-06-23 18:38,3.68,CUST-17168,United Kingdom
+INV-536731,84406B,Cream Cupid Hearts Coat Hanger,Home Decor,1,2023-06-24 09:53,2.68,CUST-18279,United Kingdom
+INV-536822,21213,Pack Of 72 Skull Cake Cases,Bakery,1,2023-06-24 12:32,0.58,CUST-14179,United Kingdom
+INV-536837,22616,Pack Of 12 London Tissues,Essentials,1,2023-06-24 14:11,0.32,CUST-16324,United Kingdom
+INV-536698,84029G,Knitted Union Flag Hot Water Bottle,Seasonal,1,2023-06-24 14:46,3.52,CUST-12238,United Kingdom
+INV-536808,84406B,Cream Cupid Hearts Coat Hanger,Home Decor,2,2023-06-24 15:43,2.5,CUST-17621,United Kingdom
+INV-536473,20725,Lunch Bag Red Retrospot,Kitchenware,1,2023-06-24 17:09,1.64,CUST-17884,United Kingdom
+INV-536766,22383,Lunch Bag Suzi Doodle,Kitchenware,2,2023-06-25 10:45,1.74,CUST-18098,United Kingdom
+INV-536602,22632,Hand Warmer Red Retrospot,Accessories,4,2023-06-25 12:28,1.81,CUST-13131,EIRE
+INV-536644,20725,Lunch Bag Red Retrospot,Kitchenware,2,2023-06-25 13:11,1.8,CUST-13724,United Kingdom
+INV-536657,85123A,White Hanging Heart T-Light Holder,Home Decor,1,2023-06-25 14:19,2.55,CUST-16082,France
+INV-536520,84029E,Red Woolly Hottie White Heart.,Seasonal,1,2023-06-25 15:50,3.29,CUST-15956,United Kingdom
+INV-536843,22629,Spaceboy Mini Back Pack,Bags,3,2023-06-25 18:16,4.3,CUST-17797,Australia
+INV-536576,20727,Lunch Bag Black Skull.,Kitchenware,2,2023-06-26 10:53,1.67,CUST-18135,Netherlands
+INV-536616,84879,Assorted Colour Bird Ornament,Gifts,1,2023-06-26 11:26,1.59,CUST-16198,Netherlands
+INV-536779,22749,Feltcraft Princess Charlotte Doll,Crafts,4,2023-06-26 13:26,3.45,CUST-17416,United Kingdom
+INV-536473,22745,Poppy's Playhouse Bedroom,Toys & Games,12,2023-06-26 14:08,2.2,CUST-16218,France
+INV-536571,84879,Assorted Colour Bird Ornament,Gifts,4,2023-06-26 14:16,1.81,CUST-15977,United Kingdom
+INV-536625,22383,Lunch Bag Suzi Doodle,Kitchenware,3,2023-06-26 15:50,1.62,CUST-16949,United Kingdom
+INV-536603,21212,Pack Of 72 Retrospot Cake Cases,Bakery,2,2023-06-26 18:08,0.53,CUST-17325,Australia
+INV-536653,22384,Lunch Bag Pink Polkadot,Kitchenware,2,2023-06-27 15:34,1.59,CUST-12733,United Kingdom
+INV-536661,84991,60 Teatime Fairy Cake Cases,Bakery,1,2023-06-27 15:46,0.57,CUST-17646,United Kingdom
+INV-536445,22383,Lunch Bag Suzi Doodle,Kitchenware,12,2023-06-28 13:46,1.55,CUST-17287,Switzerland
+INV-536450,20727,Lunch Bag Black Skull.,Kitchenware,12,2023-06-29 12:41,1.7,CUST-15210,Germany
+INV-536387,21213,Pack Of 72 Skull Cake Cases,Bakery,1,2023-06-29 12:52,0.6,CUST-13864,France
+INV-536529,84991,60 Teatime Fairy Cake Cases,Bakery,1,2023-06-29 16:17,0.5,CUST-13379,United Kingdom
+INV-536504,22752,Set 7 Babushka Nesting Boxes,Toys & Games,1,2023-06-30 10:08,8.01,CUST-16000,Germany
+INV-536718,22197,Small Popcorn Holder,Party Supplies,6,2023-06-30 12:18,0.82,CUST-17693,United Kingdom
+INV-536405,22197,Small Popcorn Holder,Party Supplies,10,2023-06-30 19:29,0.86,CUST-14059,United Kingdom
+INV-536700,22086,Paper Chain Kit 50's Christmas,Seasonal,3,2023-07-01 09:09,2.46,CUST-12255,United Kingdom
+INV-536770,84029G,Knitted Union Flag Hot Water Bottle,Seasonal,1,2023-07-01 14:27,3.17,CUST-13864,United Kingdom
+INV-536623,22197,Small Popcorn Holder,Party Supplies,2,2023-07-03 08:14,0.89,CUST-13898,France
+INV-536858,22748,Poppy's Playhouse Kitchen,Toys & Games,2,2023-07-03 08:35,1.89,CUST-14380,United Kingdom
+INV-536609,84991,60 Teatime Fairy Cake Cases,Bakery,6,2023-07-03 09:50,0.56,CUST-16304,Germany
+INV-536532,22492,Mini Painter's Set 25 Pieces,Crafts,3,2023-07-03 09:50,0.67,CUST-13784,United Kingdom
+INV-536539,22629,Spaceboy Mini Back Pack,Bags,2,2023-07-04 13:08,4.55,CUST-16656,United Kingdom
+INV-536647,22197,Small Popcorn Holder,Party Supplies,2,2023-07-04 13:35,0.82,CUST-14111,United Kingdom
+INV-536846,22633,Hand Warmer Union Jack,Accessories,2,2023-07-05 08:17,2.03,CUST-17767,United Kingdom
+INV-536444,84969,Box Of 6 Assorted Colour Teaspoons,Kitchenware,1,2023-07-05 09:27,4.53,CUST-13993,EIRE
+INV-536690,21212,Pack Of 72 Retrospot Cake Cases,Bakery,1,2023-07-05 09:33,0.54,CUST-17954,Germany
+INV-536476,20727,Lunch Bag Black Skull.,Kitchenware,1,2023-07-05 16:18,1.67,CUST-16130,United Kingdom
+INV-536415,71053,White Metal Lantern,Home Decor,1,2023-07-05 17:48,3.18,CUST-15621,United Kingdom
+INV-536791,22492,Mini Painter's Set 25 Pieces,Crafts,24,2023-07-05 18:07,0.71,CUST-13936,United Kingdom
+INV-536402,84029G,Knitted Union Flag Hot Water Bottle,Seasonal,1,2023-07-05 18:57,3.34,CUST-17794,EIRE
+INV-536649,21977,Pack Of 60 Pink Paisley Cake Cases,Bakery,10,2023-07-05 19:37,0.59,CUST-15688,United Kingdom
+INV-536464,22086,Paper Chain Kit 50's Christmas,Seasonal,1,2023-07-06 16:51,2.62,CUST-13310,France
+INV-536476,22629,Spaceboy Mini Back Pack,Bags,1,2023-07-07 14:23,3.95,CUST-12419,United Kingdom
+INV-536426,84991,60 Teatime Fairy Cake Cases,Bakery,1,2023-07-07 16:32,0.55,CUST-13347,Netherlands
+INV-536770,22616,Pack Of 12 London Tissues,Essentials,1,2023-07-07 19:37,0.3,CUST-17517,United Kingdom
+INV-536438,22748,Poppy's Playhouse Kitchen,Toys & Games,3,2023-07-08 09:48,2.25,CUST-13852,United Kingdom
+INV-536400,84969,Box Of 6 Assorted Colour Teaspoons,Kitchenware,1,2023-07-08 10:38,4.42,CUST-18127,United Kingdom
+INV-536864,84969,Box Of 6 Assorted Colour Teaspoons,Kitchenware,2,2023-07-08 15:20,4.19,CUST-12202,United Kingdom
+INV-536405,84879,Assorted Colour Bird Ornament,Gifts,6,2023-07-08 15:35,1.75,CUST-15485,United Kingdom
+INV-536468,22748,Poppy's Playhouse Kitchen,Toys & Games,1,2023-07-08 15:51,2.12,CUST-13063,Australia
+INV-536431,84029G,Knitted Union Flag Hot Water Bottle,Seasonal,10,2023-07-08 16:57,3.72,CUST-14938,Australia
+INV-536808,84406B,Cream Cupid Hearts Coat Hanger,Home Decor,3,2023-07-08 17:11,2.89,CUST-15489,United Kingdom
+INV-536500,84406B,Cream Cupid Hearts Coat Hanger,Home Decor,2,2023-07-09 09:34,2.98,CUST-13560,Germany
+INV-536720,84029E,Red Woolly Hottie White Heart.,Seasonal,1,2023-07-09 10:16,3.5,CUST-13934,France
+INV-536746,22749,Feltcraft Princess Charlotte Doll,Crafts,1,2023-07-09 18:29,3.51,CUST-12011,Germany
+INV-536660,21212,Pack Of 72 Retrospot Cake Cases,Bakery,3,2023-07-10 09:15,0.56,CUST-12748,United Kingdom
+INV-536437,84029G,Knitted Union Flag Hot Water Bottle,Seasonal,2,2023-07-10 10:35,3.56,CUST-16600,United Kingdom
+INV-536827,22197,Small Popcorn Holder,Party Supplies,1,2023-07-10 12:40,0.78,CUST-13014,United Kingdom
+INV-536644,22310,Ivory Knitting Mug,Kitchenware,3,2023-07-10 13:54,1.72,CUST-15692,United Kingdom
+INV-536575,22086,Paper Chain Kit 50's Christmas,Seasonal,10,2023-07-10 15:38,2.31,CUST-15887,United Kingdom
+INV-536455,71053,White Metal Lantern,Home Decor,1,2023-07-10 16:59,3.49,CUST-16226,United Kingdom
+INV-536459,71053,White Metal Lantern,Home Decor,1,2023-07-11 12:47,3.48,CUST-18459,United Kingdom
+INV-536862,22752,Set 7 Babushka Nesting Boxes,Toys & Games,1,2023-07-11 16:44,7.38,CUST-16053,United Kingdom
+INV-536611,85123A,White Hanging Heart T-Light Holder,Home Decor,2,2023-07-11 16:51,2.76,CUST-15987,United Kingdom
+INV-536564,84406B,Cream Cupid Hearts Coat Hanger,Home Decor,1,2023-07-12 10:46,2.66,CUST-12762,United Kingdom
+INV-536741,22310,Ivory Knitting Mug,Kitchenware,1,2023-07-12 11:04,1.77,CUST-15968,United Kingdom
+INV-536401,20727,Lunch Bag Black Skull.,Kitchenware,4,2023-07-12 14:45,1.71,CUST-16850,United Kingdom
+INV-536632,84029G,Knitted Union Flag Hot Water Bottle,Seasonal,4,2023-07-12 18:13,3.4,CUST-14587,Germany
+INV-536517,21212,Pack Of 72 Retrospot Cake Cases,Bakery,2,2023-07-13 09:28,0.54,CUST-15925,Portugal
+INV-536563,22629,Spaceboy Mini Back Pack,Bags,10,2023-07-13 13:34,4.08,CUST-15927,United Kingdom
+INV-536494,84969,Box Of 6 Assorted Colour Teaspoons,Kitchenware,1,2023-07-13 14:05,4.56,CUST-17421,Germany
+INV-536863,84879,Assorted Colour Bird Ornament,Gifts,3,2023-07-13 17:10,1.66,CUST-15064,Belgium
+INV-536398,22752,Set 7 Babushka Nesting Boxes,Toys & Games,1,2023-07-14 13:13,6.96,CUST-14764,United Kingdom
+INV-536722,22630,Dolly Girl Mini Backpack,Bags,1,2023-07-14 18:45,4.18,CUST-14151,United Kingdom
+INV-536511,84406B,Cream Cupid Hearts Coat Hanger,Home Decor,1,2023-07-14 19:50,2.62,CUST-18059,United Kingdom
+INV-536658,22629,Spaceboy Mini Back Pack,Bags,1,2023-07-15 08:07,4.43,CUST-17854,Australia
+INV-536673,22492,Mini Painter's Set 25 Pieces,Crafts,4,2023-07-15 08:19,0.69,CUST-14615,United Kingdom
+INV-536387,84991,60 Teatime Fairy Cake Cases,Bakery,2,2023-07-15 08:54,0.57,CUST-13634,United Kingdom
+INV-536604,22383,Lunch Bag Suzi Doodle,Kitchenware,12,2023-07-15 10:03,1.52,CUST-13637,Germany
+INV-536799,22632,Hand Warmer Red Retrospot,Accessories,2,2023-07-15 12:25,1.85,CUST-13083,Germany
+INV-536567,22752,Set 7 Babushka Nesting Boxes,Toys & Games,1,2023-07-15 13:11,7.45,CUST-14156,United Kingdom
+INV-536714,22492,Mini Painter's Set 25 Pieces,Crafts,1,2023-07-15 14:24,0.63,CUST-13730,United Kingdom
+INV-536615,21977,Pack Of 60 Pink Paisley Cake Cases,Bakery,3,2023-07-15 14:52,0.6,CUST-15882,Germany
+INV-536681,84029E,Red Woolly Hottie White Heart.,Seasonal,3,2023-07-15 16:43,3.11,CUST-17124,United Kingdom
+INV-536422,84406B,Cream Cupid Hearts Coat Hanger,Home Decor,2,2023-07-15 17:43,2.81,CUST-16777,United Kingdom
+INV-536555,84991,60 Teatime Fairy Cake Cases,Bakery,2,2023-07-15 19:22,0.5,CUST-18401,United Kingdom
+INV-536424,22616,Pack Of 12 London Tissues,Essentials,3,2023-07-16 15:06,0.28,CUST-16685,United Kingdom
+INV-536448,20728,Lunch Bag Cars Blue,Kitchenware,12,2023-07-16 15:37,1.68,CUST-18486,United Kingdom
+INV-536853,20728,Lunch Bag Cars Blue,Kitchenware,48,2023-07-16 15:50,1.49,CUST-17080,United Kingdom
+INV-536526,20725,Lunch Bag Red Retrospot,Kitchenware,2,2023-07-16 16:32,1.53,CUST-15351,Germany
+INV-536585,84879,Assorted Colour Bird Ornament,Gifts,24,2023-07-16 16:37,1.56,CUST-12534,United Kingdom
+INV-536771,22745,Poppy's Playhouse Bedroom,Toys & Games,1,2023-07-17 12:29,2.1,CUST-14555,United Kingdom
+INV-536563,22197,Small Popcorn Holder,Party Supplies,2,2023-07-17 15:46,0.77,CUST-13362,United Kingdom
+INV-536747,22616,Pack Of 12 London Tissues,Essentials,6,2023-07-17 19:21,0.3,CUST-14429,United Kingdom
+INV-536499,22384,Lunch Bag Pink Polkadot,Kitchenware,6,2023-07-18 11:16,1.66,CUST-17297,United Kingdom
+INV-536807,20725,Lunch Bag Red Retrospot,Kitchenware,4,2023-07-18 15:17,1.63,CUST-15465,United Kingdom
+INV-536429,22629,Spaceboy Mini Back Pack,Bags,3,2023-07-18 15:23,4.18,CUST-18087,Germany
+INV-536685,22492,Mini Painter's Set 25 Pieces,Crafts,1,2023-07-18 15:30,0.63,CUST-13583,United Kingdom
+INV-536613,22630,Dolly Girl Mini Backpack,Bags,10,2023-07-18 15:40,3.95,CUST-14591,United Kingdom
+INV-536601,21213,Pack Of 72 Skull Cake Cases,Bakery,1,2023-07-18 18:38,0.51,CUST-14636,United Kingdom
+INV-536731,21730,Glass Star Frosted T-Light Holder,Home Decor,2,2023-07-19 09:40,4.08,CUST-15985,Germany
+INV-536651,22492,Mini Painter's Set 25 Pieces,Crafts,3,2023-07-19 12:14,0.71,CUST-14327,United Kingdom
+INV-536379,22752,Set 7 Babushka Nesting Boxes,Toys & Games,2,2023-07-19 12:59,7.46,CUST-15727,France
+INV-536509,20727,Lunch Bag Black Skull.,Kitchenware,1,2023-07-19 18:57,1.76,CUST-15144,United Kingdom
+INV-536788,22745,Poppy's Playhouse Bedroom,Toys & Games,3,2023-07-19 19:47,2.24,CUST-15464,United Kingdom
+INV-536657,71053,White Metal Lantern,Home Decor,3,2023-07-20 09:34,3.23,CUST-13574,United Kingdom
+INV-536599,84029G,Knitted Union Flag Hot Water Bottle,Seasonal,1,2023-07-21 11:29,3.68,CUST-13561,EIRE
+INV-536757,84406B,Cream Cupid Hearts Coat Hanger,Home Decor,1,2023-07-21 11:31,3.01,CUST-16956,United Kingdom
+INV-536673,22086,Paper Chain Kit 50's Christmas,Seasonal,1,2023-07-21 15:48,2.67,CUST-16134,United Kingdom
+INV-536844,21212,Pack Of 72 Retrospot Cake Cases,Bakery,4,2023-07-21 16:05,0.55,CUST-17317,France
+INV-536475,85123A,White Hanging Heart T-Light Holder,Home Decor,1,2023-07-21 16:29,2.34,CUST-13762,Switzerland
+INV-536483,22749,Feltcraft Princess Charlotte Doll,Crafts,1,2023-07-22 13:49,4.05,CUST-14379,EIRE
+INV-536772,20725,Lunch Bag Red Retrospot,Kitchenware,2,2023-07-22 15:33,1.71,CUST-12696,Germany
+INV-536842,84406B,Cream Cupid Hearts Coat Hanger,Home Decor,2,2023-07-22 19:07,2.64,CUST-17939,EIRE
+INV-536509,21213,Pack Of 72 Skull Cake Cases,Bakery,3,2023-07-23 09:19,0.57,CUST-13969,United Kingdom
+INV-536642,22630,Dolly Girl Mini Backpack,Bags,1,2023-07-23 11:48,4.16,CUST-12443,United Kingdom
+INV-536622,22383,Lunch Bag Suzi Doodle,Kitchenware,1,2023-07-23 13:32,1.65,CUST-13956,United Kingdom
+INV-536486,22630,Dolly Girl Mini Backpack,Bags,2,2023-07-23 15:11,4.5,CUST-14371,Belgium
+INV-536806,22633,Hand Warmer Union Jack,Accessories,1,2023-07-24 09:01,2.02,CUST-13334,Spain
+INV-536722,71053,White Metal Lantern,Home Decor,1,2023-07-24 15:19,3.16,CUST-18163,United Kingdom
+INV-536640,22633,Hand Warmer Union Jack,Accessories,10,2023-07-24 18:47,1.77,CUST-12622,EIRE
+INV-536572,20728,Lunch Bag Cars Blue,Kitchenware,1,2023-07-25 08:25,1.71,CUST-14715,Spain
+INV-536730,22745,Poppy's Playhouse Bedroom,Toys & Games,1,2023-07-25 08:40,2.18,CUST-17300,Portugal
+INV-536824,84406B,Cream Cupid Hearts Coat Hanger,Home Decor,2,2023-07-25 10:27,2.66,CUST-18219,United Kingdom
+INV-536552,22633,Hand Warmer Union Jack,Accessories,1,2023-07-25 13:43,1.71,CUST-17281,United Kingdom
+INV-536434,71053,White Metal Lantern,Home Decor,1,2023-07-25 14:43,3.73,CUST-17835,United Kingdom
+INV-536635,22197,Small Popcorn Holder,Party Supplies,24,2023-07-25 17:41,0.83,CUST-17829,United Kingdom
+INV-536863,20725,Lunch Bag Red Retrospot,Kitchenware,1,2023-07-25 18:58,1.57,CUST-17322,France
+INV-536773,84029G,Knitted Union Flag Hot Water Bottle,Seasonal,12,2023-07-25 19:37,3.15,CUST-18073,Australia
+INV-536773,21730,Glass Star Frosted T-Light Holder,Home Decor,3,2023-07-26 09:14,4.33,CUST-17940,EIRE
+INV-536391,20728,Lunch Bag Cars Blue,Kitchenware,1,2023-07-27 16:53,1.67,CUST-14350,United Kingdom
+INV-536709,84029E,Red Woolly Hottie White Heart.,Seasonal,3,2023-07-27 19:50,3.4,CUST-16555,United Kingdom
+INV-536512,22384,Lunch Bag Pink Polkadot,Kitchenware,2,2023-07-28 09:01,1.67,CUST-16540,United Kingdom
+INV-536574,21730,Glass Star Frosted T-Light Holder,Home Decor,2,2023-07-28 19:31,4.2,CUST-15063,France
+INV-536599,20725,Lunch Bag Red Retrospot,Kitchenware,2,2023-07-29 09:16,1.53,CUST-13536,United Kingdom
+INV-536797,21730,Glass Star Frosted T-Light Holder,Home Decor,1,2023-07-29 10:01,4.18,CUST-14144,United Kingdom
+INV-536413,84406B,Cream Cupid Hearts Coat Hanger,Home Decor,1,2023-07-29 13:20,2.73,CUST-13317,Germany
+INV-536390,22383,Lunch Bag Suzi Doodle,Kitchenware,4,2023-07-29 13:25,1.59,CUST-16541,Germany
+INV-536469,20725,Lunch Bag Red Retrospot,Kitchenware,1,2023-07-29 17:04,1.66,CUST-14597,United Kingdom
+INV-536760,22749,Feltcraft Princess Charlotte Doll,Crafts,1,2023-07-29 18:58,3.44,CUST-13432,United Kingdom
+INV-536853,84029G,Knitted Union Flag Hot Water Bottle,Seasonal,3,2023-07-30 11:55,3.47,CUST-17404,United Kingdom
+INV-536785,84879,Assorted Colour Bird Ornament,Gifts,3,2023-07-30 13:55,1.81,CUST-12527,EIRE
+INV-536377,22310,Ivory Knitting Mug,Kitchenware,6,2023-07-30 15:55,1.6,CUST-17516,Germany
+INV-536536,22492,Mini Painter's Set 25 Pieces,Crafts,1,2023-07-30 17:43,0.68,CUST-13779,United Kingdom
+INV-536653,84969,Box Of 6 Assorted Colour Teaspoons,Kitchenware,2,2023-07-31 12:09,4.09,CUST-12000,United Kingdom
+INV-536785,22492,Mini Painter's Set 25 Pieces,Crafts,1,2023-07-31 12:52,0.61,CUST-13315,United Kingdom
+INV-536689,22384,Lunch Bag Pink Polkadot,Kitchenware,4,2023-07-31 13:28,1.53,CUST-15716,United Kingdom
+INV-536436,84969,Box Of 6 Assorted Colour Teaspoons,Kitchenware,1,2023-07-31 13:52,4.58,CUST-15407,United Kingdom
+INV-536633,22749,Feltcraft Princess Charlotte Doll,Crafts,3,2023-07-31 16:50,3.94,CUST-13464,United Kingdom
+INV-536699,22629,Spaceboy Mini Back Pack,Bags,4,2023-07-31 19:03,4.01,CUST-14452,EIRE
+INV-536600,21212,Pack Of 72 Retrospot Cake Cases,Bakery,1,2023-08-01 08:59,0.53,CUST-17506,United Kingdom
+INV-536520,20725,Lunch Bag Red Retrospot,Kitchenware,2,2023-08-01 09:07,1.52,CUST-17981,EIRE
+INV-536822,22748,Poppy's Playhouse Kitchen,Toys & Games,6,2023-08-01 13:40,2.19,CUST-13241,Germany
+INV-536666,22384,Lunch Bag Pink Polkadot,Kitchenware,3,2023-08-01 13:50,1.73,CUST-17053,Germany
+INV-536697,84991,60 Teatime Fairy Cake Cases,Bakery,1,2023-08-01 14:02,0.56,CUST-16590,United Kingdom
+INV-536531,22492,Mini Painter's Set 25 Pieces,Crafts,1,2023-08-01 14:28,0.62,CUST-18298,United Kingdom
+INV-536715,84406B,Cream Cupid Hearts Coat Hanger,Home Decor,6,2023-08-01 15:57,2.55,CUST-16951,France
+INV-536503,22630,Dolly Girl Mini Backpack,Bags,3,2023-08-02 12:09,4.22,CUST-13884,United Kingdom
+INV-536588,71053,White Metal Lantern,Home Decor,1,2023-08-02 15:24,3.52,CUST-14070,United Kingdom
+INV-536479,22086,Paper Chain Kit 50's Christmas,Seasonal,2,2023-08-02 17:19,2.35,CUST-17941,France
+INV-536817,21212,Pack Of 72 Retrospot Cake Cases,Bakery,2,2023-08-02 18:41,0.54,CUST-15869,France
+INV-536366,22492,Mini Painter's Set 25 Pieces,Crafts,3,2023-08-03 11:28,0.68,CUST-12053,United Kingdom
+INV-536857,22745,Poppy's Playhouse Bedroom,Toys & Games,3,2023-08-03 13:10,2.15,CUST-18465,United Kingdom
+INV-536430,21212,Pack Of 72 Retrospot Cake Cases,Bakery,2,2023-08-03 17:47,0.6,CUST-15398,Germany
+INV-536601,22383,Lunch Bag Suzi Doodle,Kitchenware,3,2023-08-03 17:58,1.78,CUST-14033,Germany
+INV-536823,21977,Pack Of 60 Pink Paisley Cake Cases,Bakery,2,2023-08-04 11:08,0.58,CUST-15386,EIRE
+INV-536514,22752,Set 7 Babushka Nesting Boxes,Toys & Games,24,2023-08-04 12:30,7.55,CUST-14958,France
+INV-536830,20727,Lunch Bag Black Skull.,Kitchenware,2,2023-08-05 15:44,1.65,CUST-16010,Belgium
+INV-536841,84991,60 Teatime Fairy Cake Cases,Bakery,12,2023-08-05 16:28,0.52,CUST-15806,United Kingdom
+INV-536780,71053,White Metal Lantern,Home Decor,3,2023-08-05 17:32,3.36,CUST-14184,Netherlands
+INV-536655,22633,Hand Warmer Union Jack,Accessories,12,2023-08-05 18:15,1.76,CUST-17023,United Kingdom
+INV-536535,22745,Poppy's Playhouse Bedroom,Toys & Games,3,2023-08-05 19:08,2.23,CUST-13875,United Kingdom
+INV-536798,21212,Pack Of 72 Retrospot Cake Cases,Bakery,1,2023-08-05 19:38,0.54,CUST-12780,United Kingdom
+INV-536436,22197,Small Popcorn Holder,Party Supplies,4,2023-08-07 13:42,0.78,CUST-13250,United Kingdom
+INV-536522,22752,Set 7 Babushka Nesting Boxes,Toys & Games,1,2023-08-07 15:14,7.39,CUST-17158,France
+INV-536488,22629,Spaceboy Mini Back Pack,Bags,1,2023-08-07 16:20,4.07,CUST-17482,United Kingdom
+INV-536409,84879,Assorted Colour Bird Ornament,Gifts,1,2023-08-08 12:36,1.81,CUST-16994,United Kingdom
+INV-536796,71053,White Metal Lantern,Home Decor,3,2023-08-08 17:16,3.32,CUST-15014,United Kingdom
+INV-536443,22616,Pack Of 12 London Tissues,Essentials,4,2023-08-08 17:25,0.28,CUST-15421,Germany
+INV-536861,22748,Poppy's Playhouse Kitchen,Toys & Games,3,2023-08-08 18:15,2.02,CUST-18251,Belgium
+INV-536441,22383,Lunch Bag Suzi Doodle,Kitchenware,3,2023-08-09 09:18,1.52,CUST-16858,Germany
+INV-536728,84029G,Knitted Union Flag Hot Water Bottle,Seasonal,1,2023-08-09 11:39,3.15,CUST-15617,United Kingdom
+INV-536842,22384,Lunch Bag Pink Polkadot,Kitchenware,2,2023-08-10 11:39,1.81,CUST-14607,United Kingdom
+INV-536815,22492,Mini Painter's Set 25 Pieces,Crafts,1,2023-08-10 14:54,0.7,CUST-16740,United Kingdom
+INV-536723,22492,Mini Painter's Set 25 Pieces,Crafts,2,2023-08-10 17:58,0.63,CUST-14233,Germany
+INV-536412,20728,Lunch Bag Cars Blue,Kitchenware,1,2023-08-10 19:20,1.5,CUST-12211,United Kingdom
+INV-536807,84029G,Knitted Union Flag Hot Water Bottle,Seasonal,2,2023-08-10 19:51,3.25,CUST-17611,Belgium
+INV-536723,84029E,Red Woolly Hottie White Heart.,Seasonal,1,2023-08-11 08:18,3.41,CUST-15676,Belgium
+INV-536541,71053,White Metal Lantern,Home Decor,6,2023-08-11 09:29,3.22,CUST-12450,United Kingdom
+INV-536565,22752,Set 7 Babushka Nesting Boxes,Toys & Games,1,2023-08-11 10:03,7.81,CUST-13683,United Kingdom
+INV-536388,71053,White Metal Lantern,Home Decor,4,2023-08-11 13:46,3.12,CUST-15574,France
+INV-536784,22384,Lunch Bag Pink Polkadot,Kitchenware,2,2023-08-11 17:46,1.75,CUST-16278,United Kingdom
+INV-536612,22384,Lunch Bag Pink Polkadot,Kitchenware,4,2023-08-11 18:52,1.76,CUST-18118,Belgium
+INV-536403,21977,Pack Of 60 Pink Paisley Cake Cases,Bakery,6,2023-08-12 19:37,0.55,CUST-14011,United Kingdom
+INV-536453,84991,60 Teatime Fairy Cake Cases,Bakery,6,2023-08-13 08:26,0.59,CUST-17894,United Kingdom
+INV-536736,22748,Poppy's Playhouse Kitchen,Toys & Games,2,2023-08-13 11:59,2.12,CUST-13092,United Kingdom
+INV-536822,84029G,Knitted Union Flag Hot Water Bottle,Seasonal,24,2023-08-13 14:49,3.63,CUST-14009,France
+INV-536592,22752,Set 7 Babushka Nesting Boxes,Toys & Games,6,2023-08-13 17:17,7.39,CUST-12761,Spain
+INV-536656,22632,Hand Warmer Red Retrospot,Accessories,1,2023-08-13 19:00,1.71,CUST-13234,United Kingdom
+INV-536732,84406B,Cream Cupid Hearts Coat Hanger,Home Decor,1,2023-08-13 19:12,2.96,CUST-13581,United Kingdom
+INV-536521,22748,Poppy's Playhouse Kitchen,Toys & Games,6,2023-08-13 19:44,2.09,CUST-12550,United Kingdom
+INV-536594,84029G,Knitted Union Flag Hot Water Bottle,Seasonal,3,2023-08-14 08:04,3.65,CUST-14574,United Kingdom
+INV-536426,22492,Mini Painter's Set 25 Pieces,Crafts,10,2023-08-14 08:37,0.59,CUST-13076,United Kingdom
+INV-536754,22745,Poppy's Playhouse Bedroom,Toys & Games,2,2023-08-14 12:23,2.13,CUST-16607,United Kingdom
+INV-536515,84991,60 Teatime Fairy Cake Cases,Bakery,1,2023-08-14 13:27,0.59,CUST-17333,EIRE
+INV-536462,22629,Spaceboy Mini Back Pack,Bags,1,2023-08-14 14:21,4.07,CUST-16064,Australia
+INV-536454,22086,Paper Chain Kit 50's Christmas,Seasonal,4,2023-08-14 15:49,2.78,CUST-15128,United Kingdom
+INV-536721,22749,Feltcraft Princess Charlotte Doll,Crafts,1,2023-08-14 19:40,3.55,CUST-16732,United Kingdom
+INV-536692,20725,Lunch Bag Red Retrospot,Kitchenware,1,2023-08-15 09:38,1.63,CUST-14004,United Kingdom
+INV-536658,22633,Hand Warmer Union Jack,Accessories,1,2023-08-15 11:47,1.81,CUST-13631,Portugal
+INV-536606,20728,Lunch Bag Cars Blue,Kitchenware,3,2023-08-15 11:58,1.77,CUST-17812,United Kingdom
+INV-536676,22748,Poppy's Playhouse Kitchen,Toys & Games,2,2023-08-15 17:09,2.15,CUST-13912,United Kingdom
+INV-536467,84969,Box Of 6 Assorted Colour Teaspoons,Kitchenware,24,2023-08-16 09:51,3.97,CUST-14618,Germany
+INV-536711,22745,Poppy's Playhouse Bedroom,Toys & Games,4,2023-08-16 10:19,2.12,CUST-12570,Switzerland
+INV-536652,22630,Dolly Girl Mini Backpack,Bags,2,2023-08-16 10:44,3.96,CUST-16840,United Kingdom
+INV-536772,22086,Paper Chain Kit 50's Christmas,Seasonal,12,2023-08-16 11:35,2.79,CUST-15505,United Kingdom
+INV-536463,21212,Pack Of 72 Retrospot Cake Cases,Bakery,2,2023-08-17 08:46,0.54,CUST-14888,Spain
+INV-536489,22632,Hand Warmer Red Retrospot,Accessories,1,2023-08-17 12:21,1.81,CUST-17921,United Kingdom
+INV-536691,22197,Small Popcorn Holder,Party Supplies,3,2023-08-17 12:40,0.9,CUST-13077,United Kingdom
+INV-536851,21977,Pack Of 60 Pink Paisley Cake Cases,Bakery,3,2023-08-17 17:07,0.51,CUST-12497,United Kingdom
+INV-536682,22630,Dolly Girl Mini Backpack,Bags,3,2023-08-18 16:08,4.24,CUST-13135,United Kingdom
+INV-536600,20727,Lunch Bag Black Skull.,Kitchenware,24,2023-08-19 15:42,1.53,CUST-16130,United Kingdom
+INV-536525,84029E,Red Woolly Hottie White Heart.,Seasonal,3,2023-08-19 17:03,3.18,CUST-12078,Spain
+INV-536448,22197,Small Popcorn Holder,Party Supplies,6,2023-08-19 17:41,0.92,CUST-16956,United Kingdom
+INV-536805,22492,Mini Painter's Set 25 Pieces,Crafts,1,2023-08-20 13:46,0.67,CUST-16662,Portugal
+INV-536749,84406B,Cream Cupid Hearts Coat Hanger,Home Decor,3,2023-08-20 15:32,2.68,CUST-13005,United Kingdom
+INV-536551,85123A,White Hanging Heart T-Light Holder,Home Decor,3,2023-08-20 16:47,2.78,CUST-12775,United Kingdom
+INV-536623,22748,Poppy's Playhouse Kitchen,Toys & Games,1,2023-08-21 08:02,2.05,CUST-14654,Australia
+INV-536740,84991,60 Teatime Fairy Cake Cases,Bakery,3,2023-08-21 08:06,0.59,CUST-16402,France
+INV-536774,22632,Hand Warmer Red Retrospot,Accessories,24,2023-08-21 09:07,1.72,CUST-16073,United Kingdom
+INV-536428,22632,Hand Warmer Red Retrospot,Accessories,2,2023-08-21 13:43,1.86,CUST-14147,France
+INV-536708,22616,Pack Of 12 London Tissues,Essentials,6,2023-08-21 15:01,0.31,CUST-12924,United Kingdom
+INV-536746,22197,Small Popcorn Holder,Party Supplies,3,2023-08-21 15:49,0.86,CUST-17760,United Kingdom
+INV-536628,22086,Paper Chain Kit 50's Christmas,Seasonal,1,2023-08-21 17:37,2.47,CUST-15098,United Kingdom
+INV-536811,22745,Poppy's Playhouse Bedroom,Toys & Games,3,2023-08-21 18:28,2.14,CUST-14171,United Kingdom
+INV-536461,84991,60 Teatime Fairy Cake Cases,Bakery,2,2023-08-23 08:18,0.51,CUST-18480,United Kingdom
+INV-536458,22492,Mini Painter's Set 25 Pieces,Crafts,4,2023-08-23 09:07,0.69,CUST-16094,EIRE
+INV-536583,22310,Ivory Knitting Mug,Kitchenware,2,2023-08-23 10:20,1.81,CUST-13477,Spain
+INV-536752,21213,Pack Of 72 Skull Cake Cases,Bakery,2,2023-08-23 12:36,0.56,CUST-18466,United Kingdom
+INV-536743,84029G,Knitted Union Flag Hot Water Bottle,Seasonal,1,2023-08-23 14:10,3.63,CUST-13801,France
+INV-536823,22630,Dolly Girl Mini Backpack,Bags,1,2023-08-23 16:50,4.07,CUST-12243,Germany
+INV-536524,84029G,Knitted Union Flag Hot Water Bottle,Seasonal,1,2023-08-23 17:11,3.29,CUST-17783,EIRE
+INV-536382,22630,Dolly Girl Mini Backpack,Bags,12,2023-08-23 17:36,3.8,CUST-12600,Portugal
+INV-536527,84879,Assorted Colour Bird Ornament,Gifts,10,2023-08-23 17:47,1.58,CUST-16057,France
+INV-536742,22749,Feltcraft Princess Charlotte Doll,Crafts,2,2023-08-23 19:12,3.66,CUST-14209,United Kingdom
+INV-536766,84991,60 Teatime Fairy Cake Cases,Bakery,1,2023-08-24 09:07,0.51,CUST-12142,EIRE
+INV-536670,84029E,Red Woolly Hottie White Heart.,Seasonal,1,2023-08-24 13:09,3.11,CUST-15007,United Kingdom
+INV-536613,22086,Paper Chain Kit 50's Christmas,Seasonal,2,2023-08-24 19:21,2.37,CUST-12600,United Kingdom
+INV-536553,84029G,Knitted Union Flag Hot Water Bottle,Seasonal,2,2023-08-25 08:10,3.08,CUST-15548,Belgium
+INV-536416,21213,Pack Of 72 Skull Cake Cases,Bakery,2,2023-08-25 09:41,0.6,CUST-16082,EIRE
+INV-536744,20727,Lunch Bag Black Skull.,Kitchenware,6,2023-08-25 12:00,1.64,CUST-18030,France
+INV-536499,22616,Pack Of 12 London Tissues,Essentials,2,2023-08-26 08:35,0.3,CUST-15412,United Kingdom
+INV-536575,21730,Glass Star Frosted T-Light Holder,Home Decor,4,2023-08-26 16:25,4.06,CUST-13014,United Kingdom
+INV-536429,84406B,Cream Cupid Hearts Coat Hanger,Home Decor,10,2023-08-26 19:19,2.82,CUST-12955,United Kingdom
+INV-536578,84969,Box Of 6 Assorted Colour Teaspoons,Kitchenware,1,2023-08-27 12:43,4.04,CUST-17108,United Kingdom
+INV-536864,22633,Hand Warmer Union Jack,Accessories,2,2023-08-27 16:39,1.88,CUST-15695,United Kingdom
+INV-536707,84406B,Cream Cupid Hearts Coat Hanger,Home Decor,2,2023-08-27 17:08,3.01,CUST-17722,United Kingdom
+INV-536469,22492,Mini Painter's Set 25 Pieces,Crafts,1,2023-08-27 18:33,0.59,CUST-18391,United Kingdom
+INV-536697,85123A,White Hanging Heart T-Light Holder,Home Decor,10,2023-08-27 18:50,2.36,CUST-13698,United Kingdom
+INV-536703,22616,Pack Of 12 London Tissues,Essentials,10,2023-08-28 08:06,0.27,CUST-17398,United Kingdom
+INV-536800,22630,Dolly Girl Mini Backpack,Bags,6,2023-08-28 10:05,4.02,CUST-16345,United Kingdom
+INV-536398,22197,Small Popcorn Holder,Party Supplies,1,2023-08-28 10:39,0.79,CUST-15227,United Kingdom
+INV-536662,22384,Lunch Bag Pink Polkadot,Kitchenware,6,2023-08-28 12:55,1.6,CUST-16542,EIRE
+INV-536502,84969,Box Of 6 Assorted Colour Teaspoons,Kitchenware,12,2023-08-29 13:58,3.91,CUST-14563,United Kingdom
+INV-536718,22384,Lunch Bag Pink Polkadot,Kitchenware,3,2023-08-29 15:32,1.74,CUST-16701,Netherlands
+INV-536778,22086,Paper Chain Kit 50's Christmas,Seasonal,12,2023-08-29 15:35,2.57,CUST-16150,Spain
+INV-536447,84029E,Red Woolly Hottie White Heart.,Seasonal,10,2023-08-29 15:40,3.35,CUST-14250,United Kingdom
+INV-536556,71053,White Metal Lantern,Home Decor,3,2023-08-30 16:22,3.6,CUST-13906,France
+INV-536376,20725,Lunch Bag Red Retrospot,Kitchenware,12,2023-08-31 14:12,1.57,CUST-17398,United Kingdom
+INV-536739,22616,Pack Of 12 London Tissues,Essentials,6,2023-08-31 15:11,0.32,CUST-12353,United Kingdom
+INV-536650,84406B,Cream Cupid Hearts Coat Hanger,Home Decor,1,2023-08-31 16:03,2.99,CUST-15252,United Kingdom
+INV-536400,84029E,Red Woolly Hottie White Heart.,Seasonal,10,2023-08-31 18:07,3.21,CUST-13785,United Kingdom
+INV-536598,21977,Pack Of 60 Pink Paisley Cake Cases,Bakery,2,2023-08-31 19:42,0.56,CUST-15707,United Kingdom
+INV-536572,21212,Pack Of 72 Retrospot Cake Cases,Bakery,2,2023-09-01 12:57,0.52,CUST-14767,United Kingdom
+INV-536640,22384,Lunch Bag Pink Polkadot,Kitchenware,2,2023-09-01 13:22,1.79,CUST-16699,United Kingdom
+INV-536782,20727,Lunch Bag Black Skull.,Kitchenware,1,2023-09-01 14:13,1.75,CUST-12628,United Kingdom
+INV-536395,22629,Spaceboy Mini Back Pack,Bags,2,2023-09-01 15:16,3.87,CUST-17223,France
+INV-536789,22745,Poppy's Playhouse Bedroom,Toys & Games,1,2023-09-01 18:15,2.12,CUST-18424,Switzerland
+INV-536772,21730,Glass Star Frosted T-Light Holder,Home Decor,1,2023-09-01 18:23,4.55,CUST-17522,United Kingdom
+INV-536790,22630,Dolly Girl Mini Backpack,Bags,2,2023-09-01 19:23,3.86,CUST-12172,EIRE
+INV-536654,21212,Pack Of 72 Retrospot Cake Cases,Bakery,1,2023-09-02 12:00,0.6,CUST-14399,France
+INV-536584,22749,Feltcraft Princess Charlotte Doll,Crafts,3,2023-09-02 14:00,3.7,CUST-13633,United Kingdom
+INV-536643,22383,Lunch Bag Suzi Doodle,Kitchenware,1,2023-09-02 16:02,1.75,CUST-15225,United Kingdom
+INV-536756,21212,Pack Of 72 Retrospot Cake Cases,Bakery,1,2023-09-03 08:08,0.51,CUST-12957,Germany
+INV-536626,20725,Lunch Bag Red Retrospot,Kitchenware,2,2023-09-03 11:37,1.71,CUST-15366,United Kingdom
+INV-536501,22197,Small Popcorn Holder,Party Supplies,10,2023-09-03 11:44,0.78,CUST-13675,United Kingdom
+INV-536619,22086,Paper Chain Kit 50's Christmas,Seasonal,4,2023-09-03 15:28,2.67,CUST-14502,United Kingdom
+INV-536378,22752,Set 7 Babushka Nesting Boxes,Toys & Games,1,2023-09-04 11:55,7.51,CUST-12480,United Kingdom
+INV-536427,22632,Hand Warmer Red Retrospot,Accessories,3,2023-09-04 12:47,2.0,CUST-12943,Spain
+INV-536630,22383,Lunch Bag Suzi Doodle,Kitchenware,12,2023-09-04 14:22,1.63,CUST-18073,United Kingdom
+INV-536813,22616,Pack Of 12 London Tissues,Essentials,4,2023-09-04 18:09,0.26,CUST-15569,United Kingdom
+INV-536633,22748,Poppy's Playhouse Kitchen,Toys & Games,2,2023-09-05 12:19,2.12,CUST-18342,United Kingdom
+INV-536767,84406B,Cream Cupid Hearts Coat Hanger,Home Decor,2,2023-09-05 14:02,2.49,CUST-12268,United Kingdom
+INV-536696,22383,Lunch Bag Suzi Doodle,Kitchenware,1,2023-09-05 19:44,1.81,CUST-18456,United Kingdom
+INV-536374,84406B,Cream Cupid Hearts Coat Hanger,Home Decor,1,2023-09-06 09:48,2.52,CUST-13030,United Kingdom
+INV-536765,22383,Lunch Bag Suzi Doodle,Kitchenware,1,2023-09-06 14:21,1.58,CUST-13335,Belgium
+INV-536814,21212,Pack Of 72 Retrospot Cake Cases,Bakery,2,2023-09-06 15:01,0.54,CUST-16794,Spain
+INV-536812,22197,Small Popcorn Holder,Party Supplies,2,2023-09-07 12:39,0.87,CUST-17052,EIRE
+INV-536618,21730,Glass Star Frosted T-Light Holder,Home Decor,10,2023-09-07 13:22,4.44,CUST-17369,United Kingdom
+INV-536421,21212,Pack Of 72 Retrospot Cake Cases,Bakery,1,2023-09-07 16:02,0.59,CUST-13923,United Kingdom
+INV-536715,22492,Mini Painter's Set 25 Pieces,Crafts,1,2023-09-07 18:27,0.59,CUST-13112,Australia
+INV-536781,22745,Poppy's Playhouse Bedroom,Toys & Games,1,2023-09-08 09:44,2.13,CUST-14752,Germany
+INV-536430,22492,Mini Painter's Set 25 Pieces,Crafts,2,2023-09-08 17:26,0.6,CUST-14291,Belgium
+INV-536503,22745,Poppy's Playhouse Bedroom,Toys & Games,2,2023-09-08 19:41,2.0,CUST-15775,France
+INV-536801,22745,Poppy's Playhouse Bedroom,Toys & Games,6,2023-09-09 10:35,2.2,CUST-17385,Spain
+INV-536466,84879,Assorted Colour Bird Ornament,Gifts,4,2023-09-09 11:07,1.76,CUST-12606,United Kingdom
+INV-536596,22616,Pack Of 12 London Tissues,Essentials,2,2023-09-09 13:15,0.27,CUST-14278,United Kingdom
+INV-536729,85123A,White Hanging Heart T-Light Holder,Home Decor,2,2023-09-09 15:27,2.56,CUST-17961,United Kingdom
+INV-536792,22616,Pack Of 12 London Tissues,Essentials,4,2023-09-09 15:47,0.27,CUST-14725,United Kingdom
+INV-536789,22616,Pack Of 12 London Tissues,Essentials,4,2023-09-09 16:23,0.3,CUST-12925,Germany
+INV-536546,22748,Poppy's Playhouse Kitchen,Toys & Games,3,2023-09-10 11:46,2.14,CUST-18229,Netherlands
+INV-536818,84029G,Knitted Union Flag Hot Water Bottle,Seasonal,10,2023-09-10 12:15,3.59,CUST-12385,United Kingdom
+INV-536745,21213,Pack Of 72 Skull Cake Cases,Bakery,6,2023-09-11 11:05,0.51,CUST-12101,United Kingdom
+INV-536532,22310,Ivory Knitting Mug,Kitchenware,2,2023-09-11 12:20,1.76,CUST-14766,EIRE
+INV-536414,22745,Poppy's Playhouse Bedroom,Toys & Games,3,2023-09-11 12:42,2.06,CUST-18230,Belgium
+INV-536808,21212,Pack Of 72 Retrospot Cake Cases,Bakery,3,2023-09-11 16:40,0.51,CUST-12687,United Kingdom
+INV-536778,71053,White Metal Lantern,Home Decor,1,2023-09-11 17:24,3.32,CUST-14889,United Kingdom
+INV-536553,21213,Pack Of 72 Skull Cake Cases,Bakery,3,2023-09-12 08:24,0.57,CUST-13415,Germany
+INV-536729,21977,Pack Of 60 Pink Paisley Cake Cases,Bakery,3,2023-09-12 10:41,0.54,CUST-12309,United Kingdom
+INV-536751,84029G,Knitted Union Flag Hot Water Bottle,Seasonal,10,2023-09-12 10:55,3.52,CUST-17138,United Kingdom
+INV-536589,84029G,Knitted Union Flag Hot Water Bottle,Seasonal,1,2023-09-12 11:38,3.58,CUST-14154,United Kingdom
+INV-536580,22197,Small Popcorn Holder,Party Supplies,1,2023-09-12 12:16,0.77,CUST-15314,Netherlands
+INV-536425,22630,Dolly Girl Mini Backpack,Bags,1,2023-09-12 12:49,4.24,CUST-16973,France
+INV-536597,22745,Poppy's Playhouse Bedroom,Toys & Games,3,2023-09-12 19:41,1.94,CUST-15304,United Kingdom
+INV-536732,22384,Lunch Bag Pink Polkadot,Kitchenware,10,2023-09-13 16:53,1.7,CUST-12134,EIRE
+INV-536804,22630,Dolly Girl Mini Backpack,Bags,2,2023-09-13 18:06,3.8,CUST-12212,Spain
+INV-536477,20728,Lunch Bag Cars Blue,Kitchenware,6,2023-09-14 08:02,1.65,CUST-17845,United Kingdom
+INV-536847,22616,Pack Of 12 London Tissues,Essentials,1,2023-09-14 15:10,0.28,CUST-17405,United Kingdom
+INV-536680,84406B,Cream Cupid Hearts Coat Hanger,Home Decor,1,2023-09-14 15:35,2.58,CUST-12176,Belgium
+INV-536434,20727,Lunch Bag Black Skull.,Kitchenware,1,2023-09-15 11:39,1.52,CUST-18416,United Kingdom
+INV-536765,84029G,Knitted Union Flag Hot Water Bottle,Seasonal,4,2023-09-15 11:53,3.2,CUST-16576,United Kingdom
+INV-536783,22492,Mini Painter's Set 25 Pieces,Crafts,1,2023-09-16 12:27,0.69,CUST-14566,Germany
+INV-536839,22633,Hand Warmer Union Jack,Accessories,1,2023-09-16 14:07,1.85,CUST-14607,United Kingdom
+INV-536394,22629,Spaceboy Mini Back Pack,Bags,10,2023-09-16 14:53,4.1,CUST-15652,Netherlands
+INV-536366,84406B,Cream Cupid Hearts Coat Hanger,Home Decor,4,2023-09-16 17:01,2.6,CUST-17865,United Kingdom
+INV-536435,22383,Lunch Bag Suzi Doodle,Kitchenware,3,2023-09-16 17:27,1.58,CUST-17748,United Kingdom
+INV-536821,21213,Pack Of 72 Skull Cake Cases,Bakery,10,2023-09-17 09:10,0.56,CUST-13682,United Kingdom
+INV-536447,20727,Lunch Bag Black Skull.,Kitchenware,2,2023-09-17 09:19,1.5,CUST-12308,United Kingdom
+INV-536817,22748,Poppy's Playhouse Kitchen,Toys & Games,6,2023-09-17 11:37,2.07,CUST-14778,Netherlands
+INV-536417,22745,Poppy's Playhouse Bedroom,Toys & Games,4,2023-09-17 12:52,2.28,CUST-17947,United Kingdom
+INV-536459,22383,Lunch Bag Suzi Doodle,Kitchenware,2,2023-09-17 16:01,1.74,CUST-15851,United Kingdom
+INV-536518,20727,Lunch Bag Black Skull.,Kitchenware,1,2023-09-17 19:26,1.62,CUST-18477,United Kingdom
+INV-536380,22752,Set 7 Babushka Nesting Boxes,Toys & Games,3,2023-09-18 09:54,6.97,CUST-16874,United Kingdom
+INV-536601,21213,Pack Of 72 Skull Cake Cases,Bakery,6,2023-09-18 10:44,0.56,CUST-17984,United Kingdom
+INV-536803,22752,Set 7 Babushka Nesting Boxes,Toys & Games,2,2023-09-18 12:36,8.16,CUST-16797,Netherlands
+INV-536597,20728,Lunch Bag Cars Blue,Kitchenware,3,2023-09-18 16:13,1.7,CUST-15737,Germany
+INV-536416,22630,Dolly Girl Mini Backpack,Bags,24,2023-09-18 19:17,4.33,CUST-15952,United Kingdom
+INV-536590,84029E,Red Woolly Hottie White Heart.,Seasonal,1,2023-09-19 09:46,3.69,CUST-14096,Germany
+INV-536391,84969,Box Of 6 Assorted Colour Teaspoons,Kitchenware,1,2023-09-19 15:50,4.4,CUST-18028,Netherlands
+INV-536492,20727,Lunch Bag Black Skull.,Kitchenware,3,2023-09-19 15:51,1.65,CUST-13080,United Kingdom
+INV-536602,22310,Ivory Knitting Mug,Kitchenware,3,2023-09-20 12:53,1.68,CUST-14571,Germany
+INV-536762,21213,Pack Of 72 Skull Cake Cases,Bakery,2,2023-09-20 19:36,0.51,CUST-14126,United Kingdom
+INV-536607,22752,Set 7 Babushka Nesting Boxes,Toys & Games,4,2023-09-21 09:24,8.36,CUST-14286,United Kingdom
+INV-536474,22752,Set 7 Babushka Nesting Boxes,Toys & Games,2,2023-09-21 15:31,7.65,CUST-16074,Spain
+INV-536545,22752,Set 7 Babushka Nesting Boxes,Toys & Games,3,2023-09-22 08:25,7.23,CUST-15810,United Kingdom
+INV-536688,22630,Dolly Girl Mini Backpack,Bags,3,2023-09-22 10:29,3.78,CUST-15700,EIRE
+INV-536640,22310,Ivory Knitting Mug,Kitchenware,2,2023-09-22 16:00,1.8,CUST-14157,Germany
+INV-536794,84029G,Knitted Union Flag Hot Water Bottle,Seasonal,1,2023-09-22 19:49,3.16,CUST-18251,EIRE
+INV-536481,71053,White Metal Lantern,Home Decor,2,2023-09-23 11:35,3.53,CUST-17424,United Kingdom
+INV-536636,22616,Pack Of 12 London Tissues,Essentials,1,2023-09-23 12:12,0.3,CUST-16911,United Kingdom
+INV-536462,21212,Pack Of 72 Retrospot Cake Cases,Bakery,6,2023-09-23 12:51,0.55,CUST-15477,United Kingdom
+INV-536470,22633,Hand Warmer Union Jack,Accessories,3,2023-09-23 12:54,1.79,CUST-13608,United Kingdom
+INV-536477,22745,Poppy's Playhouse Bedroom,Toys & Games,4,2023-09-23 15:09,2.23,CUST-16223,United Kingdom
+INV-536687,22629,Spaceboy Mini Back Pack,Bags,1,2023-09-23 16:25,4.56,CUST-12321,Australia
+INV-536535,84029E,Red Woolly Hottie White Heart.,Seasonal,4,2023-09-23 18:28,3.45,CUST-17698,United Kingdom
+INV-536659,22197,Small Popcorn Holder,Party Supplies,1,2023-09-24 09:16,0.92,CUST-14447,United Kingdom
+INV-536609,22633,Hand Warmer Union Jack,Accessories,3,2023-09-24 09:50,2.02,CUST-15407,United Kingdom
+INV-536824,21212,Pack Of 72 Retrospot Cake Cases,Bakery,2,2023-09-24 12:26,0.58,CUST-17577,United Kingdom
+INV-536434,22630,Dolly Girl Mini Backpack,Bags,3,2023-09-24 12:29,4.45,CUST-12255,United Kingdom
+INV-536548,22630,Dolly Girl Mini Backpack,Bags,4,2023-09-24 14:44,3.93,CUST-15755,Netherlands
+INV-536492,22752,Set 7 Babushka Nesting Boxes,Toys & Games,1,2023-09-24 15:07,7.39,CUST-17872,Germany
+INV-536395,22632,Hand Warmer Red Retrospot,Accessories,1,2023-09-24 15:40,1.95,CUST-15603,United Kingdom
+INV-536570,22745,Poppy's Playhouse Bedroom,Toys & Games,1,2023-09-24 15:58,2.25,CUST-18443,Spain
+INV-536752,22616,Pack Of 12 London Tissues,Essentials,6,2023-09-24 18:21,0.31,CUST-14808,United Kingdom
+INV-536624,84029G,Knitted Union Flag Hot Water Bottle,Seasonal,1,2023-09-24 18:53,3.53,CUST-18077,United Kingdom
+INV-536599,84991,60 Teatime Fairy Cake Cases,Bakery,1,2023-09-25 13:44,0.53,CUST-13344,United Kingdom
+INV-536571,21212,Pack Of 72 Retrospot Cake Cases,Bakery,1,2023-09-25 14:07,0.56,CUST-13214,United Kingdom
+INV-536630,22086,Paper Chain Kit 50's Christmas,Seasonal,6,2023-09-25 14:23,2.63,CUST-17715,Spain
+INV-536733,84991,60 Teatime Fairy Cake Cases,Bakery,48,2023-09-25 15:43,0.57,CUST-16395,Spain
+INV-536402,84029E,Red Woolly Hottie White Heart.,Seasonal,10,2023-09-25 18:17,3.35,CUST-16408,United Kingdom
+INV-536444,22310,Ivory Knitting Mug,Kitchenware,3,2023-09-26 09:25,1.68,CUST-18109,Spain
+INV-536506,84029G,Knitted Union Flag Hot Water Bottle,Seasonal,2,2023-09-26 10:15,3.67,CUST-16312,United Kingdom
+INV-536459,22086,Paper Chain Kit 50's Christmas,Seasonal,2,2023-09-26 13:04,2.64,CUST-16457,Switzerland
+INV-536498,22086,Paper Chain Kit 50's Christmas,Seasonal,1,2023-09-26 13:44,2.49,CUST-13222,United Kingdom
+INV-536574,84029E,Red Woolly Hottie White Heart.,Seasonal,1,2023-09-26 17:01,3.58,CUST-13644,United Kingdom
+INV-536678,20727,Lunch Bag Black Skull.,Kitchenware,3,2023-09-27 08:16,1.78,CUST-14326,United Kingdom
+INV-536555,21730,Glass Star Frosted T-Light Holder,Home Decor,2,2023-09-27 11:40,4.37,CUST-16453,Portugal
+INV-536765,20728,Lunch Bag Cars Blue,Kitchenware,1,2023-09-27 16:45,1.71,CUST-18195,United Kingdom
+INV-536860,22086,Paper Chain Kit 50's Christmas,Seasonal,2,2023-09-27 17:56,2.38,CUST-17824,United Kingdom
+INV-536721,20725,Lunch Bag Red Retrospot,Kitchenware,1,2023-09-28 08:21,1.54,CUST-13188,Australia
+INV-536825,85123A,White Hanging Heart T-Light Holder,Home Decor,1,2023-09-28 17:58,2.72,CUST-15309,United Kingdom
+INV-536491,84406B,Cream Cupid Hearts Coat Hanger,Home Decor,6,2023-09-28 19:23,2.76,CUST-16621,United Kingdom
+INV-536373,21977,Pack Of 60 Pink Paisley Cake Cases,Bakery,2,2023-09-29 08:38,0.51,CUST-12159,United Kingdom
+INV-536680,71053,White Metal Lantern,Home Decor,1,2023-09-29 12:21,3.22,CUST-18098,United Kingdom
+INV-536465,84406B,Cream Cupid Hearts Coat Hanger,Home Decor,2,2023-09-29 13:25,2.79,CUST-14283,United Kingdom
+INV-536723,22749,Feltcraft Princess Charlotte Doll,Crafts,24,2023-09-29 18:02,3.88,CUST-16352,United Kingdom
+INV-536763,71053,White Metal Lantern,Home Decor,6,2023-09-29 18:59,3.25,CUST-13587,United Kingdom
+INV-536629,20728,Lunch Bag Cars Blue,Kitchenware,3,2023-09-30 16:48,1.5,CUST-15950,United Kingdom
+INV-536683,22745,Poppy's Playhouse Bedroom,Toys & Games,2,2023-09-30 19:07,1.92,CUST-13192,United Kingdom
+INV-536656,85123A,White Hanging Heart T-Light Holder,Home Decor,2,2023-10-01 08:11,2.37,CUST-14311,Australia
+INV-536604,22197,Small Popcorn Holder,Party Supplies,6,2023-10-01 12:56,0.92,CUST-12104,EIRE
+INV-536475,22086,Paper Chain Kit 50's Christmas,Seasonal,4,2023-10-02 08:54,2.53,CUST-13097,United Kingdom
+INV-536861,20728,Lunch Bag Cars Blue,Kitchenware,2,2023-10-02 12:50,1.68,CUST-14024,United Kingdom
+INV-536377,22633,Hand Warmer Union Jack,Accessories,1,2023-10-02 15:08,1.74,CUST-14281,United Kingdom
+INV-536518,22748,Poppy's Playhouse Kitchen,Toys & Games,1,2023-10-02 17:40,2.18,CUST-12895,Netherlands
+INV-536813,21213,Pack Of 72 Skull Cake Cases,Bakery,2,2023-10-03 11:05,0.56,CUST-15796,United Kingdom
+INV-536620,22616,Pack Of 12 London Tissues,Essentials,3,2023-10-03 11:16,0.31,CUST-17133,France
+INV-536499,84879,Assorted Colour Bird Ornament,Gifts,10,2023-10-03 15:15,1.65,CUST-14463,EIRE
+INV-536612,22752,Set 7 Babushka Nesting Boxes,Toys & Games,2,2023-10-03 16:00,8.37,CUST-13726,United Kingdom
+INV-536378,84029G,Knitted Union Flag Hot Water Bottle,Seasonal,2,2023-10-04 08:05,3.09,CUST-13936,Belgium
+INV-536705,20728,Lunch Bag Cars Blue,Kitchenware,1,2023-10-04 15:03,1.78,CUST-15856,United Kingdom
+INV-536621,22384,Lunch Bag Pink Polkadot,Kitchenware,2,2023-10-04 15:41,1.78,CUST-14996,France
+INV-536776,22632,Hand Warmer Red Retrospot,Accessories,1,2023-10-04 16:01,1.87,CUST-12258,Switzerland
+INV-536739,20728,Lunch Bag Cars Blue,Kitchenware,12,2023-10-04 16:14,1.6,CUST-17131,United Kingdom
+INV-536374,22310,Ivory Knitting Mug,Kitchenware,3,2023-10-04 19:44,1.8,CUST-14553,United Kingdom
+INV-536855,22748,Poppy's Playhouse Kitchen,Toys & Games,3,2023-10-05 10:09,2.02,CUST-16942,United Kingdom
+INV-536504,22752,Set 7 Babushka Nesting Boxes,Toys & Games,2,2023-10-05 18:03,8.29,CUST-12608,United Kingdom
+INV-536662,84969,Box Of 6 Assorted Colour Teaspoons,Kitchenware,6,2023-10-05 19:31,4.3,CUST-13528,United Kingdom
+INV-536495,84969,Box Of 6 Assorted Colour Teaspoons,Kitchenware,48,2023-10-06 14:34,4.4,CUST-13881,United Kingdom
+INV-536825,84969,Box Of 6 Assorted Colour Teaspoons,Kitchenware,2,2023-10-06 17:50,4.37,CUST-15622,United Kingdom
+INV-536365,22086,Paper Chain Kit 50's Christmas,Seasonal,12,2023-10-07 09:37,2.67,CUST-12244,United Kingdom
+INV-536397,22384,Lunch Bag Pink Polkadot,Kitchenware,2,2023-10-07 17:57,1.73,CUST-13797,United Kingdom
+INV-536709,22633,Hand Warmer Union Jack,Accessories,1,2023-10-08 10:30,1.89,CUST-14791,United Kingdom
+INV-536833,20725,Lunch Bag Red Retrospot,Kitchenware,3,2023-10-08 13:04,1.49,CUST-15420,Spain
+INV-536491,84029G,Knitted Union Flag Hot Water Bottle,Seasonal,1,2023-10-08 16:12,3.09,CUST-13227,United Kingdom
+INV-536793,22748,Poppy's Playhouse Kitchen,Toys & Games,1,2023-10-08 19:20,2.07,CUST-12224,United Kingdom
+INV-536713,71053,White Metal Lantern,Home Decor,10,2023-10-09 08:00,3.3,CUST-14942,Germany
+INV-536597,22310,Ivory Knitting Mug,Kitchenware,1,2023-10-09 08:52,1.5,CUST-16949,United Kingdom
+INV-536374,84029E,Red Woolly Hottie White Heart.,Seasonal,2,2023-10-09 10:16,3.5,CUST-16969,United Kingdom
+INV-536637,84406B,Cream Cupid Hearts Coat Hanger,Home Decor,3,2023-10-09 12:46,2.98,CUST-16775,EIRE
+INV-536490,22748,Poppy's Playhouse Kitchen,Toys & Games,6,2023-10-09 15:48,2.06,CUST-17440,United Kingdom
+INV-536596,71053,White Metal Lantern,Home Decor,1,2023-10-09 18:24,3.39,CUST-13925,United Kingdom
+INV-536606,22086,Paper Chain Kit 50's Christmas,Seasonal,4,2023-10-10 08:00,2.45,CUST-13663,France
+INV-536416,21212,Pack Of 72 Retrospot Cake Cases,Bakery,1,2023-10-10 08:35,0.51,CUST-13840,United Kingdom
+INV-536410,22752,Set 7 Babushka Nesting Boxes,Toys & Games,12,2023-10-10 09:10,7.25,CUST-15690,United Kingdom
+INV-536417,20725,Lunch Bag Red Retrospot,Kitchenware,1,2023-10-10 10:24,1.57,CUST-16910,United Kingdom
+INV-536385,21213,Pack Of 72 Skull Cake Cases,Bakery,2,2023-10-10 10:27,0.54,CUST-14525,United Kingdom
+INV-536501,22749,Feltcraft Princess Charlotte Doll,Crafts,1,2023-10-10 13:49,4.06,CUST-15819,United Kingdom
+INV-536568,21977,Pack Of 60 Pink Paisley Cake Cases,Bakery,3,2023-10-11 08:53,0.56,CUST-16280,United Kingdom
+INV-536511,20725,Lunch Bag Red Retrospot,Kitchenware,6,2023-10-11 14:27,1.56,CUST-16799,United Kingdom
+INV-536602,21212,Pack Of 72 Retrospot Cake Cases,Bakery,2,2023-10-11 18:13,0.58,CUST-17113,United Kingdom
+INV-536565,21730,Glass Star Frosted T-Light Holder,Home Decor,1,2023-10-11 19:59,4.17,CUST-14173,Germany
+INV-536645,22632,Hand Warmer Red Retrospot,Accessories,1,2023-10-12 14:54,1.96,CUST-13194,United Kingdom
+INV-536498,22492,Mini Painter's Set 25 Pieces,Crafts,4,2023-10-12 15:03,0.67,CUST-17270,Australia
+INV-536379,84879,Assorted Colour Bird Ornament,Gifts,1,2023-10-12 18:45,1.66,CUST-13555,United Kingdom
+INV-536394,22383,Lunch Bag Suzi Doodle,Kitchenware,4,2023-10-13 11:58,1.64,CUST-15739,EIRE
+INV-536427,22749,Feltcraft Princess Charlotte Doll,Crafts,3,2023-10-13 13:05,4.1,CUST-12114,France
+INV-536498,84879,Assorted Colour Bird Ornament,Gifts,4,2023-10-13 17:56,1.61,CUST-13434,France
+INV-536852,84029G,Knitted Union Flag Hot Water Bottle,Seasonal,1,2023-10-14 08:18,3.51,CUST-15290,EIRE
+INV-536856,71053,White Metal Lantern,Home Decor,6,2023-10-14 08:27,3.21,CUST-13641,United Kingdom
+INV-536513,21977,Pack Of 60 Pink Paisley Cake Cases,Bakery,6,2023-10-14 11:36,0.5,CUST-17614,United Kingdom
+INV-536386,84029G,Knitted Union Flag Hot Water Bottle,Seasonal,6,2023-10-14 14:39,3.29,CUST-13939,France
+INV-536428,85123A,White Hanging Heart T-Light Holder,Home Decor,1,2023-10-15 13:58,2.61,CUST-17305,United Kingdom
+INV-536646,20725,Lunch Bag Red Retrospot,Kitchenware,12,2023-10-15 17:03,1.58,CUST-17656,United Kingdom
+INV-536439,84991,60 Teatime Fairy Cake Cases,Bakery,3,2023-10-15 17:39,0.54,CUST-16560,Germany
+INV-536492,22383,Lunch Bag Suzi Doodle,Kitchenware,3,2023-10-16 08:35,1.62,CUST-14524,United Kingdom
+INV-536516,22748,Poppy's Playhouse Kitchen,Toys & Games,10,2023-10-16 11:37,1.94,CUST-13473,Portugal
+INV-536546,22748,Poppy's Playhouse Kitchen,Toys & Games,3,2023-10-16 12:47,1.97,CUST-15800,United Kingdom
+INV-536446,20725,Lunch Bag Red Retrospot,Kitchenware,2,2023-10-16 17:28,1.64,CUST-16624,Germany
+INV-536401,20728,Lunch Bag Cars Blue,Kitchenware,1,2023-10-17 08:22,1.75,CUST-17419,United Kingdom
+INV-536432,22633,Hand Warmer Union Jack,Accessories,3,2023-10-17 11:04,2.03,CUST-16540,EIRE
+INV-536632,22616,Pack Of 12 London Tissues,Essentials,3,2023-10-17 13:39,0.29,CUST-17575,United Kingdom
+INV-536532,22384,Lunch Bag Pink Polkadot,Kitchenware,2,2023-10-17 15:50,1.68,CUST-17591,United Kingdom
+INV-536833,20725,Lunch Bag Red Retrospot,Kitchenware,2,2023-10-17 15:57,1.67,CUST-15090,United Kingdom
+INV-536555,20725,Lunch Bag Red Retrospot,Kitchenware,4,2023-10-17 16:20,1.6,CUST-13473,United Kingdom
+INV-536622,84969,Box Of 6 Assorted Colour Teaspoons,Kitchenware,1,2023-10-17 17:42,3.96,CUST-13197,Spain
+INV-536424,22749,Feltcraft Princess Charlotte Doll,Crafts,12,2023-10-17 18:49,3.58,CUST-12401,France
+INV-536422,22633,Hand Warmer Union Jack,Accessories,1,2023-10-17 18:50,1.86,CUST-13434,United Kingdom
+INV-536756,20727,Lunch Bag Black Skull.,Kitchenware,3,2023-10-17 19:58,1.71,CUST-14774,Belgium
+INV-536561,20727,Lunch Bag Black Skull.,Kitchenware,1,2023-10-18 08:11,1.61,CUST-17008,United Kingdom
+INV-536617,22752,Set 7 Babushka Nesting Boxes,Toys & Games,3,2023-10-18 08:54,7.91,CUST-16496,France
+INV-536760,22384,Lunch Bag Pink Polkadot,Kitchenware,12,2023-10-18 10:12,1.64,CUST-15127,United Kingdom
+INV-536543,22748,Poppy's Playhouse Kitchen,Toys & Games,12,2023-10-18 10:23,1.91,CUST-18335,United Kingdom
+INV-536624,22632,Hand Warmer Red Retrospot,Accessories,4,2023-10-19 10:24,1.88,CUST-14992,Germany
+INV-536810,84029G,Knitted Union Flag Hot Water Bottle,Seasonal,24,2023-10-19 12:22,3.37,CUST-12669,United Kingdom
+INV-536411,84879,Assorted Colour Bird Ornament,Gifts,24,2023-10-19 12:28,1.72,CUST-17641,United Kingdom
+INV-536814,22633,Hand Warmer Union Jack,Accessories,24,2023-10-19 14:03,1.74,CUST-12841,United Kingdom
+INV-536545,22632,Hand Warmer Red Retrospot,Accessories,12,2023-10-20 13:07,1.97,CUST-12431,United Kingdom
+INV-536472,22492,Mini Painter's Set 25 Pieces,Crafts,2,2023-10-20 14:39,0.61,CUST-16079,United Kingdom
+INV-536687,22745,Poppy's Playhouse Bedroom,Toys & Games,2,2023-10-20 17:34,2.06,CUST-17768,United Kingdom
+INV-536527,22384,Lunch Bag Pink Polkadot,Kitchenware,1,2023-10-21 09:17,1.65,CUST-15005,France
+INV-536627,22383,Lunch Bag Suzi Doodle,Kitchenware,10,2023-10-21 10:03,1.5,CUST-13474,United Kingdom
+INV-536407,84029G,Knitted Union Flag Hot Water Bottle,Seasonal,6,2023-10-21 12:30,3.64,CUST-14791,United Kingdom
+INV-536596,84406B,Cream Cupid Hearts Coat Hanger,Home Decor,1,2023-10-21 15:05,2.73,CUST-15662,Spain
+INV-536710,22197,Small Popcorn Holder,Party Supplies,2,2023-10-21 15:07,0.92,CUST-15792,United Kingdom
+INV-536694,21212,Pack Of 72 Retrospot Cake Cases,Bakery,2,2023-10-21 16:11,0.57,CUST-18138,Switzerland
+INV-536829,84991,60 Teatime Fairy Cake Cases,Bakery,1,2023-10-21 18:08,0.58,CUST-16257,Germany
+INV-536642,20728,Lunch Bag Cars Blue,Kitchenware,2,2023-10-22 12:31,1.59,CUST-18260,United Kingdom
+INV-536638,22629,Spaceboy Mini Back Pack,Bags,6,2023-10-22 12:44,4.18,CUST-15089,United Kingdom
+INV-536497,21213,Pack Of 72 Skull Cake Cases,Bakery,6,2023-10-22 13:36,0.6,CUST-17509,United Kingdom
+INV-536645,22752,Set 7 Babushka Nesting Boxes,Toys & Games,3,2023-10-22 18:14,7.76,CUST-17904,EIRE
+INV-536413,22086,Paper Chain Kit 50's Christmas,Seasonal,2,2023-10-23 08:48,2.71,CUST-15854,France
+INV-536704,22197,Small Popcorn Holder,Party Supplies,1,2023-10-23 12:40,0.82,CUST-14628,Netherlands
+INV-536543,84406B,Cream Cupid Hearts Coat Hanger,Home Decor,4,2023-10-23 18:04,2.62,CUST-16184,United Kingdom
+INV-536782,22197,Small Popcorn Holder,Party Supplies,2,2023-10-24 09:37,0.93,CUST-12551,United Kingdom
+INV-536718,22086,Paper Chain Kit 50's Christmas,Seasonal,2,2023-10-24 12:39,2.62,CUST-14814,United Kingdom
+INV-536741,22197,Small Popcorn Holder,Party Supplies,2,2023-10-24 13:26,0.84,CUST-17544,United Kingdom
+INV-536764,22748,Poppy's Playhouse Kitchen,Toys & Games,4,2023-10-24 13:52,1.93,CUST-13121,United Kingdom
+INV-536479,84991,60 Teatime Fairy Cake Cases,Bakery,2,2023-10-24 17:14,0.6,CUST-16780,Germany
+INV-536391,21730,Glass Star Frosted T-Light Holder,Home Decor,2,2023-10-24 17:41,4.19,CUST-15619,United Kingdom
+INV-536418,84879,Assorted Colour Bird Ornament,Gifts,1,2023-10-24 18:31,1.8,CUST-15658,Spain
+INV-536800,22629,Spaceboy Mini Back Pack,Bags,4,2023-10-25 10:16,4.2,CUST-16037,United Kingdom
+INV-536774,20725,Lunch Bag Red Retrospot,Kitchenware,2,2023-10-25 17:17,1.58,CUST-17274,France
+INV-536749,20725,Lunch Bag Red Retrospot,Kitchenware,6,2023-10-25 19:13,1.73,CUST-18233,France
+INV-536779,21213,Pack Of 72 Skull Cake Cases,Bakery,4,2023-10-26 08:48,0.54,CUST-14795,Netherlands
+INV-536603,22748,Poppy's Playhouse Kitchen,Toys & Games,10,2023-10-26 17:42,2.13,CUST-17523,Germany
+INV-536580,22749,Feltcraft Princess Charlotte Doll,Crafts,10,2023-10-26 19:36,3.93,CUST-14811,EIRE
+INV-536614,84406B,Cream Cupid Hearts Coat Hanger,Home Decor,2,2023-10-27 08:44,2.89,CUST-14930,EIRE
+INV-536858,84969,Box Of 6 Assorted Colour Teaspoons,Kitchenware,6,2023-10-27 13:02,3.99,CUST-13631,Australia
+INV-536855,71053,White Metal Lantern,Home Decor,4,2023-10-27 14:32,3.14,CUST-18179,Switzerland
+INV-536380,22745,Poppy's Playhouse Bedroom,Toys & Games,1,2023-10-27 15:32,1.91,CUST-16350,Netherlands
+INV-536435,22632,Hand Warmer Red Retrospot,Accessories,2,2023-10-27 16:45,1.9,CUST-16893,United Kingdom
+INV-536396,21213,Pack Of 72 Skull Cake Cases,Bakery,4,2023-10-27 19:01,0.54,CUST-18271,Spain
+INV-536768,22630,Dolly Girl Mini Backpack,Bags,2,2023-10-28 11:11,4.23,CUST-12239,Germany
+INV-536637,22086,Paper Chain Kit 50's Christmas,Seasonal,2,2023-10-28 11:33,2.5,CUST-17764,United Kingdom
+INV-536541,22384,Lunch Bag Pink Polkadot,Kitchenware,1,2023-10-28 18:48,1.59,CUST-17579,EIRE
+INV-536500,21730,Glass Star Frosted T-Light Holder,Home Decor,2,2023-10-28 19:42,4.51,CUST-15927,United Kingdom
+INV-536780,85123A,White Hanging Heart T-Light Holder,Home Decor,1,2023-10-29 08:20,2.65,CUST-15197,United Kingdom
+INV-536830,22086,Paper Chain Kit 50's Christmas,Seasonal,6,2023-10-29 16:33,2.56,CUST-14160,France
+INV-536607,22492,Mini Painter's Set 25 Pieces,Crafts,6,2023-10-29 16:47,0.63,CUST-18358,United Kingdom
+INV-536528,84991,60 Teatime Fairy Cake Cases,Bakery,2,2023-10-29 19:22,0.52,CUST-16999,Spain
+INV-536520,84969,Box Of 6 Assorted Colour Teaspoons,Kitchenware,12,2023-10-29 19:32,4.48,CUST-12201,United Kingdom
+INV-536621,22749,Feltcraft Princess Charlotte Doll,Crafts,6,2023-10-29 19:54,3.54,CUST-15806,United Kingdom
+INV-536557,21212,Pack Of 72 Retrospot Cake Cases,Bakery,10,2023-10-30 08:45,0.53,CUST-16650,Germany
+INV-536734,20728,Lunch Bag Cars Blue,Kitchenware,3,2023-10-30 09:52,1.54,CUST-12935,EIRE
+INV-536621,20727,Lunch Bag Black Skull.,Kitchenware,6,2023-10-30 11:58,1.62,CUST-14134,United Kingdom
+INV-536710,21730,Glass Star Frosted T-Light Holder,Home Decor,1,2023-10-30 14:50,4.52,CUST-16646,Australia
+INV-536768,84991,60 Teatime Fairy Cake Cases,Bakery,1,2023-10-31 08:30,0.57,CUST-14072,United Kingdom
+INV-536732,85123A,White Hanging Heart T-Light Holder,Home Decor,12,2023-10-31 11:31,2.66,CUST-18494,United Kingdom
+INV-536478,22197,Small Popcorn Holder,Party Supplies,1,2023-10-31 13:32,0.91,CUST-16360,EIRE
+INV-536522,22629,Spaceboy Mini Back Pack,Bags,1,2023-10-31 14:24,3.9,CUST-13759,United Kingdom
+INV-536706,22752,Set 7 Babushka Nesting Boxes,Toys & Games,24,2023-10-31 18:53,7.96,CUST-15652,Germany
+INV-536587,22384,Lunch Bag Pink Polkadot,Kitchenware,1,2023-11-01 08:42,1.69,CUST-12161,United Kingdom
+INV-536828,22086,Paper Chain Kit 50's Christmas,Seasonal,1,2023-11-01 11:22,2.57,CUST-17463,United Kingdom
+INV-536676,21730,Glass Star Frosted T-Light Holder,Home Decor,24,2023-11-01 18:01,4.1,CUST-13386,France
+INV-536725,84406B,Cream Cupid Hearts Coat Hanger,Home Decor,1,2023-11-01 18:57,2.51,CUST-16910,EIRE
+INV-536711,20728,Lunch Bag Cars Blue,Kitchenware,1,2023-11-02 14:20,1.52,CUST-17408,United Kingdom
+INV-536616,71053,White Metal Lantern,Home Decor,2,2023-11-02 14:34,3.05,CUST-12697,United Kingdom
+INV-536371,84406B,Cream Cupid Hearts Coat Hanger,Home Decor,1,2023-11-02 15:33,2.69,CUST-16532,United Kingdom
+INV-536759,84029E,Red Woolly Hottie White Heart.,Seasonal,3,2023-11-03 09:09,3.62,CUST-15888,United Kingdom
+INV-536627,22383,Lunch Bag Suzi Doodle,Kitchenware,3,2023-11-03 17:40,1.8,CUST-17894,United Kingdom
+INV-536799,22086,Paper Chain Kit 50's Christmas,Seasonal,1,2023-11-03 19:47,2.79,CUST-12043,EIRE
+INV-536797,22310,Ivory Knitting Mug,Kitchenware,1,2023-11-04 11:52,1.77,CUST-17547,United Kingdom
+INV-536845,21213,Pack Of 72 Skull Cake Cases,Bakery,3,2023-11-04 13:24,0.54,CUST-18291,United Kingdom
+INV-536579,22633,Hand Warmer Union Jack,Accessories,2,2023-11-04 14:42,2.0,CUST-13146,United Kingdom
+INV-536566,21213,Pack Of 72 Skull Cake Cases,Bakery,1,2023-11-04 15:12,0.57,CUST-13695,United Kingdom
+INV-536856,21212,Pack Of 72 Retrospot Cake Cases,Bakery,2,2023-11-04 19:21,0.6,CUST-16637,Spain
+INV-536693,22086,Paper Chain Kit 50's Christmas,Seasonal,2,2023-11-05 12:21,2.59,CUST-12401,Belgium
+INV-536806,22197,Small Popcorn Holder,Party Supplies,6,2023-11-05 14:05,0.78,CUST-13458,United Kingdom
+INV-536832,22630,Dolly Girl Mini Backpack,Bags,1,2023-11-05 14:07,4.53,CUST-16683,United Kingdom
+INV-536630,22086,Paper Chain Kit 50's Christmas,Seasonal,1,2023-11-05 16:52,2.36,CUST-18347,United Kingdom
+INV-536471,20728,Lunch Bag Cars Blue,Kitchenware,1,2023-11-06 13:53,1.72,CUST-12337,Belgium
+INV-536790,22492,Mini Painter's Set 25 Pieces,Crafts,1,2023-11-07 08:53,0.71,CUST-12447,France
+INV-536834,20725,Lunch Bag Red Retrospot,Kitchenware,6,2023-11-07 10:48,1.76,CUST-17213,United Kingdom
+INV-536837,84406B,Cream Cupid Hearts Coat Hanger,Home Decor,12,2023-11-07 13:25,2.92,CUST-16026,United Kingdom
+INV-536441,22086,Paper Chain Kit 50's Christmas,Seasonal,10,2023-11-07 15:26,2.51,CUST-18184,United Kingdom
+INV-536669,21213,Pack Of 72 Skull Cake Cases,Bakery,1,2023-11-08 11:36,0.57,CUST-15072,United Kingdom
+INV-536578,22384,Lunch Bag Pink Polkadot,Kitchenware,1,2023-11-08 12:19,1.7,CUST-15946,Germany
+INV-536537,22384,Lunch Bag Pink Polkadot,Kitchenware,6,2023-11-08 12:49,1.68,CUST-12219,Belgium
+INV-536696,21212,Pack Of 72 Retrospot Cake Cases,Bakery,3,2023-11-08 13:16,0.53,CUST-17105,United Kingdom
+INV-536692,22384,Lunch Bag Pink Polkadot,Kitchenware,4,2023-11-08 15:15,1.75,CUST-17402,United Kingdom
+INV-536464,85123A,White Hanging Heart T-Light Holder,Home Decor,3,2023-11-08 18:50,2.37,CUST-13034,United Kingdom
+INV-536449,84969,Box Of 6 Assorted Colour Teaspoons,Kitchenware,6,2023-11-09 10:23,4.27,CUST-14317,United Kingdom
+INV-536453,22633,Hand Warmer Union Jack,Accessories,4,2023-11-09 12:48,2.02,CUST-15677,France
+INV-536695,21730,Glass Star Frosted T-Light Holder,Home Decor,3,2023-11-10 08:06,4.42,CUST-17152,United Kingdom
+INV-536690,84991,60 Teatime Fairy Cake Cases,Bakery,3,2023-11-10 10:24,0.6,CUST-12359,United Kingdom
+INV-536801,22629,Spaceboy Mini Back Pack,Bags,2,2023-11-10 12:33,4.46,CUST-13351,United Kingdom
+INV-536478,84029E,Red Woolly Hottie White Heart.,Seasonal,2,2023-11-10 13:10,3.27,CUST-17050,United Kingdom
+INV-536481,22310,Ivory Knitting Mug,Kitchenware,1,2023-11-10 15:55,1.65,CUST-17958,EIRE
+INV-536713,84406B,Cream Cupid Hearts Coat Hanger,Home Decor,3,2023-11-10 16:25,2.8,CUST-14409,EIRE
+INV-536558,85123A,White Hanging Heart T-Light Holder,Home Decor,2,2023-11-11 11:51,2.46,CUST-17873,United Kingdom
+INV-536648,22629,Spaceboy Mini Back Pack,Bags,3,2023-11-11 12:29,3.8,CUST-13186,United Kingdom
+INV-536458,84879,Assorted Colour Bird Ornament,Gifts,10,2023-11-11 13:15,1.67,CUST-13534,United Kingdom
+INV-536564,22745,Poppy's Playhouse Bedroom,Toys & Games,1,2023-11-11 15:45,2.14,CUST-17354,United Kingdom
+INV-536524,84991,60 Teatime Fairy Cake Cases,Bakery,3,2023-11-11 17:05,0.53,CUST-14565,Germany
+INV-536610,22633,Hand Warmer Union Jack,Accessories,2,2023-11-11 17:15,2.0,CUST-17591,Switzerland
+INV-536696,22748,Poppy's Playhouse Kitchen,Toys & Games,2,2023-11-11 17:31,2.28,CUST-17176,United Kingdom
+INV-536622,22616,Pack Of 12 London Tissues,Essentials,6,2023-11-11 18:10,0.32,CUST-13149,France
+INV-536846,21730,Glass Star Frosted T-Light Holder,Home Decor,3,2023-11-11 18:19,3.9,CUST-13811,EIRE
+INV-536634,22745,Poppy's Playhouse Bedroom,Toys & Games,10,2023-11-11 19:43,2.23,CUST-13316,Germany
+INV-536529,22492,Mini Painter's Set 25 Pieces,Crafts,3,2023-11-12 10:50,0.64,CUST-13695,United Kingdom
+INV-536735,20725,Lunch Bag Red Retrospot,Kitchenware,1,2023-11-12 11:04,1.68,CUST-15491,EIRE
+INV-536554,71053,White Metal Lantern,Home Decor,2,2023-11-12 11:41,3.47,CUST-15375,United Kingdom
+INV-536505,20728,Lunch Bag Cars Blue,Kitchenware,4,2023-11-12 15:42,1.7,CUST-12054,United Kingdom
+INV-536484,22632,Hand Warmer Red Retrospot,Accessories,3,2023-11-12 19:37,1.72,CUST-12415,United Kingdom
+INV-536734,22492,Mini Painter's Set 25 Pieces,Crafts,2,2023-11-13 08:15,0.59,CUST-13069,Germany
+INV-536441,84029E,Red Woolly Hottie White Heart.,Seasonal,2,2023-11-13 08:43,3.16,CUST-15629,United Kingdom
+INV-536756,84879,Assorted Colour Bird Ornament,Gifts,3,2023-11-13 11:28,1.53,CUST-14673,United Kingdom
+INV-536678,21730,Glass Star Frosted T-Light Holder,Home Decor,1,2023-11-13 12:03,4.5,CUST-12068,United Kingdom
+INV-536511,22086,Paper Chain Kit 50's Christmas,Seasonal,4,2023-11-13 12:51,2.49,CUST-12602,United Kingdom
+INV-536618,22633,Hand Warmer Union Jack,Accessories,4,2023-11-14 09:57,1.7,CUST-15980,United Kingdom
+INV-536677,71053,White Metal Lantern,Home Decor,1,2023-11-14 10:55,3.22,CUST-14356,EIRE
+INV-536663,20728,Lunch Bag Cars Blue,Kitchenware,1,2023-11-14 11:20,1.77,CUST-17392,Germany
+INV-536747,84991,60 Teatime Fairy Cake Cases,Bakery,3,2023-11-14 13:47,0.57,CUST-16216,Belgium
+INV-536854,22748,Poppy's Playhouse Kitchen,Toys & Games,6,2023-11-14 15:11,2.07,CUST-12361,United Kingdom
+INV-536693,22629,Spaceboy Mini Back Pack,Bags,1,2023-11-14 18:35,4.19,CUST-13700,EIRE
+INV-536446,22492,Mini Painter's Set 25 Pieces,Crafts,1,2023-11-16 13:55,0.67,CUST-14589,Australia
+INV-536628,21213,Pack Of 72 Skull Cake Cases,Bakery,12,2023-11-16 18:32,0.58,CUST-17932,United Kingdom
+INV-536665,22086,Paper Chain Kit 50's Christmas,Seasonal,1,2023-11-16 19:37,2.54,CUST-15001,United Kingdom
+INV-536661,22086,Paper Chain Kit 50's Christmas,Seasonal,1,2023-11-17 08:03,2.61,CUST-13260,United Kingdom
+INV-536667,22086,Paper Chain Kit 50's Christmas,Seasonal,6,2023-11-17 10:35,2.42,CUST-15401,France
+INV-536534,22752,Set 7 Babushka Nesting Boxes,Toys & Games,6,2023-11-17 12:46,6.96,CUST-13918,Germany
+INV-536514,22632,Hand Warmer Red Retrospot,Accessories,4,2023-11-17 15:38,2.01,CUST-15750,United Kingdom
+INV-536700,22745,Poppy's Playhouse Bedroom,Toys & Games,3,2023-11-17 16:53,2.3,CUST-16961,United Kingdom
+INV-536608,71053,White Metal Lantern,Home Decor,1,2023-11-17 17:53,3.58,CUST-16018,Germany
+INV-536585,85123A,White Hanging Heart T-Light Holder,Home Decor,2,2023-11-17 19:15,2.64,CUST-14820,United Kingdom
+INV-536371,22616,Pack Of 12 London Tissues,Essentials,2,2023-11-18 10:50,0.27,CUST-16885,Germany
+INV-536570,22310,Ivory Knitting Mug,Kitchenware,6,2023-11-18 10:53,1.55,CUST-14619,United Kingdom
+INV-536367,84406B,Cream Cupid Hearts Coat Hanger,Home Decor,6,2023-11-18 17:56,2.78,CUST-16729,Spain
+INV-536688,22384,Lunch Bag Pink Polkadot,Kitchenware,3,2023-11-19 08:12,1.61,CUST-15260,United Kingdom
+INV-536646,20725,Lunch Bag Red Retrospot,Kitchenware,1,2023-11-19 16:34,1.53,CUST-18433,Germany
+INV-536393,84969,Box Of 6 Assorted Colour Teaspoons,Kitchenware,1,2023-11-19 17:12,4.18,CUST-15145,Germany
+INV-536408,20725,Lunch Bag Red Retrospot,Kitchenware,2,2023-11-19 18:03,1.51,CUST-16610,United Kingdom
+INV-536480,20725,Lunch Bag Red Retrospot,Kitchenware,2,2023-11-19 19:39,1.54,CUST-15114,France
+INV-536717,84406B,Cream Cupid Hearts Coat Hanger,Home Decor,2,2023-11-19 19:42,2.61,CUST-12639,Switzerland
+INV-536458,20728,Lunch Bag Cars Blue,Kitchenware,4,2023-11-20 16:36,1.66,CUST-13176,United Kingdom
+INV-536736,84029G,Knitted Union Flag Hot Water Bottle,Seasonal,3,2023-11-20 17:24,3.59,CUST-12128,France
+INV-536517,22086,Paper Chain Kit 50's Christmas,Seasonal,1,2023-11-21 12:15,2.55,CUST-13262,United Kingdom
+INV-536781,22310,Ivory Knitting Mug,Kitchenware,3,2023-11-22 09:53,1.55,CUST-13753,Spain
+INV-536827,22383,Lunch Bag Suzi Doodle,Kitchenware,2,2023-11-22 10:01,1.6,CUST-16423,United Kingdom
+INV-536369,22492,Mini Painter's Set 25 Pieces,Crafts,12,2023-11-22 10:34,0.59,CUST-13338,Germany
+INV-536425,84991,60 Teatime Fairy Cake Cases,Bakery,2,2023-11-22 11:39,0.53,CUST-18189,United Kingdom
+INV-536761,84879,Assorted Colour Bird Ornament,Gifts,2,2023-11-22 15:07,1.84,CUST-14356,Germany
+INV-536652,20728,Lunch Bag Cars Blue,Kitchenware,2,2023-11-22 17:27,1.64,CUST-17239,United Kingdom
+INV-536507,22384,Lunch Bag Pink Polkadot,Kitchenware,10,2023-11-23 08:44,1.64,CUST-16094,United Kingdom
+INV-536423,84029E,Red Woolly Hottie White Heart.,Seasonal,1,2023-11-23 12:29,3.21,CUST-12076,United Kingdom
+INV-536428,20727,Lunch Bag Black Skull.,Kitchenware,1,2023-11-23 13:06,1.61,CUST-15862,Germany
+INV-536663,22748,Poppy's Playhouse Kitchen,Toys & Games,3,2023-11-23 16:24,2.08,CUST-12153,France
+INV-536667,22197,Small Popcorn Holder,Party Supplies,2,2023-11-23 17:22,0.78,CUST-17755,Germany
+INV-536684,22630,Dolly Girl Mini Backpack,Bags,2,2023-11-23 19:17,4.42,CUST-13539,United Kingdom
+INV-536373,22616,Pack Of 12 London Tissues,Essentials,2,2023-11-24 16:38,0.3,CUST-15063,United Kingdom
+INV-536431,22086,Paper Chain Kit 50's Christmas,Seasonal,4,2023-11-24 17:01,2.4,CUST-14732,United Kingdom
+INV-536369,84969,Box Of 6 Assorted Colour Teaspoons,Kitchenware,6,2023-11-24 19:35,4.15,CUST-14656,United Kingdom
+INV-536562,21213,Pack Of 72 Skull Cake Cases,Bakery,3,2023-11-24 19:56,0.57,CUST-12093,United Kingdom
+INV-536793,21977,Pack Of 60 Pink Paisley Cake Cases,Bakery,2,2023-11-25 10:40,0.5,CUST-17251,United Kingdom
+INV-536824,71053,White Metal Lantern,Home Decor,2,2023-11-25 10:57,3.5,CUST-17174,United Kingdom
+INV-536372,21977,Pack Of 60 Pink Paisley Cake Cases,Bakery,1,2023-11-25 13:07,0.52,CUST-13295,United Kingdom
+INV-536619,84991,60 Teatime Fairy Cake Cases,Bakery,1,2023-11-25 14:17,0.52,CUST-13100,EIRE
+INV-536388,21977,Pack Of 60 Pink Paisley Cake Cases,Bakery,1,2023-11-25 16:25,0.53,CUST-16392,Germany
+INV-536487,84879,Assorted Colour Bird Ornament,Gifts,2,2023-11-25 16:33,1.67,CUST-13099,United Kingdom
+INV-536577,21212,Pack Of 72 Retrospot Cake Cases,Bakery,1,2023-11-26 12:27,0.6,CUST-14856,Netherlands
+INV-536370,22492,Mini Painter's Set 25 Pieces,Crafts,1,2023-11-26 15:09,0.65,CUST-14020,United Kingdom
+INV-536751,22310,Ivory Knitting Mug,Kitchenware,1,2023-11-27 08:18,1.63,CUST-12180,United Kingdom
+INV-536538,22197,Small Popcorn Holder,Party Supplies,1,2023-11-27 08:50,0.83,CUST-13960,Netherlands
+INV-536485,84879,Assorted Colour Bird Ornament,Gifts,3,2023-11-27 08:58,1.63,CUST-17343,France
+INV-536449,21212,Pack Of 72 Retrospot Cake Cases,Bakery,2,2023-11-27 10:02,0.5,CUST-15586,United Kingdom
+INV-536525,22492,Mini Painter's Set 25 Pieces,Crafts,3,2023-11-27 10:35,0.65,CUST-14366,United Kingdom
+INV-536465,84406B,Cream Cupid Hearts Coat Hanger,Home Decor,1,2023-11-27 13:23,2.6,CUST-16646,United Kingdom
+INV-536494,22492,Mini Painter's Set 25 Pieces,Crafts,1,2023-11-27 14:23,0.71,CUST-15133,Portugal
+INV-536862,22752,Set 7 Babushka Nesting Boxes,Toys & Games,2,2023-11-27 16:23,7.66,CUST-15803,United Kingdom
+INV-536451,22630,Dolly Girl Mini Backpack,Bags,1,2023-11-27 18:27,4.17,CUST-12149,United Kingdom
+INV-536461,20725,Lunch Bag Red Retrospot,Kitchenware,3,2023-11-28 11:18,1.57,CUST-18396,United Kingdom
+INV-536779,22633,Hand Warmer Union Jack,Accessories,6,2023-11-28 12:37,1.76,CUST-17636,United Kingdom
+INV-536402,22748,Poppy's Playhouse Kitchen,Toys & Games,1,2023-11-28 13:00,1.92,CUST-16015,EIRE
+INV-536726,22086,Paper Chain Kit 50's Christmas,Seasonal,6,2023-11-28 17:51,2.68,CUST-12908,Switzerland
+INV-536507,22492,Mini Painter's Set 25 Pieces,Crafts,2,2023-11-29 08:05,0.71,CUST-15089,United Kingdom
+INV-536610,22384,Lunch Bag Pink Polkadot,Kitchenware,6,2023-11-29 08:07,1.76,CUST-15650,Germany
+INV-536848,22310,Ivory Knitting Mug,Kitchenware,2,2023-11-29 08:54,1.7,CUST-15543,Belgium
+INV-536536,20727,Lunch Bag Black Skull.,Kitchenware,6,2023-11-29 10:28,1.49,CUST-13745,United Kingdom
+INV-536375,22749,Feltcraft Princess Charlotte Doll,Crafts,1,2023-11-29 13:28,4.12,CUST-15698,Netherlands
+INV-536826,21212,Pack Of 72 Retrospot Cake Cases,Bakery,12,2023-11-29 14:49,0.53,CUST-14470,United Kingdom
+INV-536647,21730,Glass Star Frosted T-Light Holder,Home Decor,48,2023-11-29 18:34,4.32,CUST-18392,United Kingdom
+INV-536419,22749,Feltcraft Princess Charlotte Doll,Crafts,3,2023-11-30 10:31,4.12,CUST-13034,Switzerland
+INV-536611,71053,White Metal Lantern,Home Decor,2,2023-11-30 11:20,3.25,CUST-12786,United Kingdom
+INV-536579,22492,Mini Painter's Set 25 Pieces,Crafts,1,2023-11-30 12:12,0.68,CUST-18270,United Kingdom
+INV-536436,84029G,Knitted Union Flag Hot Water Bottle,Seasonal,3,2023-11-30 16:46,3.63,CUST-15523,Spain
+INV-536675,21730,Glass Star Frosted T-Light Holder,Home Decor,1,2023-11-30 17:12,4.24,CUST-18026,United Kingdom
+INV-536563,84991,60 Teatime Fairy Cake Cases,Bakery,2,2023-11-30 18:14,0.59,CUST-12603,United Kingdom
+INV-536853,20728,Lunch Bag Cars Blue,Kitchenware,1,2023-11-30 18:50,1.52,CUST-16237,United Kingdom
+INV-536841,21213,Pack Of 72 Skull Cake Cases,Bakery,3,2023-12-01 10:00,0.56,CUST-15950,United Kingdom
+INV-536528,84029G,Knitted Union Flag Hot Water Bottle,Seasonal,12,2023-12-01 11:19,3.55,CUST-12264,Spain
+INV-536494,22616,Pack Of 12 London Tissues,Essentials,4,2023-12-01 13:07,0.29,CUST-16401,United Kingdom
+INV-536489,20727,Lunch Bag Black Skull.,Kitchenware,1,2023-12-01 13:44,1.49,CUST-17470,United Kingdom
+INV-536485,22630,Dolly Girl Mini Backpack,Bags,2,2023-12-01 15:30,3.87,CUST-18192,Germany
+INV-536383,84879,Assorted Colour Bird Ornament,Gifts,10,2023-12-01 16:00,1.73,CUST-16543,Germany
+INV-536446,84029E,Red Woolly Hottie White Heart.,Seasonal,10,2023-12-02 09:11,3.57,CUST-17144,Switzerland
+INV-536581,22086,Paper Chain Kit 50's Christmas,Seasonal,2,2023-12-02 09:14,2.75,CUST-18096,United Kingdom
+INV-536812,84029G,Knitted Union Flag Hot Water Bottle,Seasonal,1,2023-12-02 15:29,3.06,CUST-17388,Germany
+INV-536556,22752,Set 7 Babushka Nesting Boxes,Toys & Games,6,2023-12-03 11:17,7.04,CUST-18481,United Kingdom
+INV-536522,22752,Set 7 Babushka Nesting Boxes,Toys & Games,12,2023-12-03 14:25,7.17,CUST-17030,United Kingdom
+INV-536817,22630,Dolly Girl Mini Backpack,Bags,10,2023-12-03 15:08,4.23,CUST-17922,Spain
+INV-536450,22632,Hand Warmer Red Retrospot,Accessories,3,2023-12-03 17:55,1.93,CUST-12667,United Kingdom
+INV-536460,84406B,Cream Cupid Hearts Coat Hanger,Home Decor,3,2023-12-03 18:06,2.66,CUST-18022,France
+INV-536542,84879,Assorted Colour Bird Ornament,Gifts,6,2023-12-03 19:11,1.75,CUST-17799,United Kingdom
+INV-536439,85123A,White Hanging Heart T-Light Holder,Home Decor,1,2023-12-03 19:17,2.61,CUST-14238,United Kingdom
+INV-536598,84029G,Knitted Union Flag Hot Water Bottle,Seasonal,2,2023-12-04 11:00,3.12,CUST-17190,United Kingdom
+INV-536618,84969,Box Of 6 Assorted Colour Teaspoons,Kitchenware,1,2023-12-04 12:44,4.1,CUST-16633,United Kingdom
+INV-536411,84991,60 Teatime Fairy Cake Cases,Bakery,4,2023-12-05 11:27,0.56,CUST-13841,United Kingdom
+INV-536567,22749,Feltcraft Princess Charlotte Doll,Crafts,2,2023-12-05 12:05,3.73,CUST-15174,United Kingdom
+INV-536452,22629,Spaceboy Mini Back Pack,Bags,1,2023-12-05 13:56,4.17,CUST-13073,France
+INV-536496,21977,Pack Of 60 Pink Paisley Cake Cases,Bakery,2,2023-12-05 14:39,0.51,CUST-12128,France
+INV-536595,20728,Lunch Bag Cars Blue,Kitchenware,1,2023-12-05 19:15,1.52,CUST-17437,United Kingdom
+INV-536784,20727,Lunch Bag Black Skull.,Kitchenware,1,2023-12-05 19:29,1.65,CUST-17225,United Kingdom
+INV-536843,84969,Box Of 6 Assorted Colour Teaspoons,Kitchenware,1,2023-12-06 13:21,4.06,CUST-16911,United Kingdom
+INV-536559,22748,Poppy's Playhouse Kitchen,Toys & Games,2,2023-12-06 14:37,2.19,CUST-14472,United Kingdom
+INV-536588,22310,Ivory Knitting Mug,Kitchenware,1,2023-12-06 16:17,1.7,CUST-17740,United Kingdom
+INV-536807,20728,Lunch Bag Cars Blue,Kitchenware,1,2023-12-07 09:53,1.53,CUST-13637,United Kingdom
+INV-536518,21977,Pack Of 60 Pink Paisley Cake Cases,Bakery,1,2023-12-07 13:10,0.52,CUST-12362,United Kingdom
+INV-536390,84029E,Red Woolly Hottie White Heart.,Seasonal,4,2023-12-07 14:43,3.18,CUST-13425,France
+INV-536834,84406B,Cream Cupid Hearts Coat Hanger,Home Decor,3,2023-12-07 17:26,2.91,CUST-15239,United Kingdom
+INV-536788,22630,Dolly Girl Mini Backpack,Bags,3,2023-12-07 17:49,3.84,CUST-14062,Belgium
+INV-536560,84991,60 Teatime Fairy Cake Cases,Bakery,1,2023-12-07 17:52,0.53,CUST-14513,United Kingdom
+INV-536768,71053,White Metal Lantern,Home Decor,48,2023-12-08 08:48,3.1,CUST-13014,United Kingdom
+INV-536754,21213,Pack Of 72 Skull Cake Cases,Bakery,6,2023-12-08 10:10,0.57,CUST-12337,United Kingdom
+INV-536781,20725,Lunch Bag Red Retrospot,Kitchenware,10,2023-12-08 13:10,1.65,CUST-14976,United Kingdom
+INV-536758,22383,Lunch Bag Suzi Doodle,Kitchenware,4,2023-12-08 13:25,1.8,CUST-15503,United Kingdom
+INV-536834,84969,Box Of 6 Assorted Colour Teaspoons,Kitchenware,6,2023-12-08 15:09,4.47,CUST-14664,Spain
+INV-536394,84029E,Red Woolly Hottie White Heart.,Seasonal,3,2023-12-08 16:35,3.59,CUST-18187,United Kingdom
+INV-536774,22749,Feltcraft Princess Charlotte Doll,Crafts,1,2023-12-08 17:25,3.64,CUST-16189,Australia
+INV-536746,84406B,Cream Cupid Hearts Coat Hanger,Home Decor,3,2023-12-09 12:10,2.48,CUST-16672,Germany
+INV-536594,20727,Lunch Bag Black Skull.,Kitchenware,4,2023-12-09 13:33,1.56,CUST-17739,United Kingdom
+INV-536386,84991,60 Teatime Fairy Cake Cases,Bakery,1,2023-12-09 19:51,0.6,CUST-13304,United Kingdom
+INV-536790,21212,Pack Of 72 Retrospot Cake Cases,Bakery,1,2023-12-10 11:16,0.6,CUST-14533,United Kingdom
+INV-536389,22197,Small Popcorn Holder,Party Supplies,6,2023-12-10 11:23,0.92,CUST-17441,United Kingdom
+INV-536835,22745,Poppy's Playhouse Bedroom,Toys & Games,6,2023-12-10 15:47,2.12,CUST-12725,United Kingdom
+INV-536381,22632,Hand Warmer Red Retrospot,Accessories,1,2023-12-10 18:19,1.81,CUST-18159,United Kingdom
+INV-536451,22745,Poppy's Playhouse Bedroom,Toys & Games,3,2023-12-10 19:53,2.23,CUST-17614,Belgium
+INV-536796,22630,Dolly Girl Mini Backpack,Bags,6,2023-12-11 15:07,4.51,CUST-13664,United Kingdom
+INV-536648,84879,Assorted Colour Bird Ornament,Gifts,2,2023-12-11 16:31,1.64,CUST-15661,France
+INV-536500,71053,White Metal Lantern,Home Decor,10,2023-12-11 17:38,3.23,CUST-12596,United Kingdom
+INV-536488,84991,60 Teatime Fairy Cake Cases,Bakery,1,2023-12-12 11:11,0.53,CUST-17232,United Kingdom
+INV-536420,84406B,Cream Cupid Hearts Coat Hanger,Home Decor,2,2023-12-12 16:24,2.94,CUST-17134,Switzerland
+INV-536412,84406B,Cream Cupid Hearts Coat Hanger,Home Decor,2,2023-12-12 17:37,2.6,CUST-18264,Switzerland
+INV-536544,84029G,Knitted Union Flag Hot Water Bottle,Seasonal,6,2023-12-12 19:07,3.66,CUST-16168,United Kingdom
+INV-536605,84029G,Knitted Union Flag Hot Water Bottle,Seasonal,12,2023-12-12 19:35,3.47,CUST-18081,Spain
+INV-536551,22749,Feltcraft Princess Charlotte Doll,Crafts,4,2023-12-13 12:16,3.76,CUST-13424,EIRE
+INV-536519,20727,Lunch Bag Black Skull.,Kitchenware,3,2023-12-13 18:25,1.81,CUST-14716,Switzerland
+INV-536735,22745,Poppy's Playhouse Bedroom,Toys & Games,6,2023-12-14 14:20,2.23,CUST-17604,United Kingdom
+INV-536593,20725,Lunch Bag Red Retrospot,Kitchenware,10,2023-12-14 15:11,1.75,CUST-18382,United Kingdom
+INV-536815,20727,Lunch Bag Black Skull.,Kitchenware,3,2023-12-14 15:14,1.72,CUST-16327,Germany
+INV-536465,71053,White Metal Lantern,Home Decor,1,2023-12-14 15:23,3.46,CUST-18251,United Kingdom
+INV-536594,85123A,White Hanging Heart T-Light Holder,Home Decor,1,2023-12-14 16:49,2.65,CUST-17929,France
+INV-536750,20725,Lunch Bag Red Retrospot,Kitchenware,3,2023-12-14 16:57,1.72,CUST-17086,United Kingdom
+INV-536804,84879,Assorted Colour Bird Ornament,Gifts,4,2023-12-15 09:25,1.75,CUST-12868,United Kingdom
+INV-536425,22197,Small Popcorn Holder,Party Supplies,1,2023-12-15 10:40,0.9,CUST-17140,United Kingdom
+INV-536841,22632,Hand Warmer Red Retrospot,Accessories,6,2023-12-15 14:22,1.89,CUST-13742,EIRE
+INV-536482,22384,Lunch Bag Pink Polkadot,Kitchenware,2,2023-12-15 18:51,1.6,CUST-16997,Germany
+INV-536372,22616,Pack Of 12 London Tissues,Essentials,3,2023-12-15 19:07,0.32,CUST-16398,Germany
+INV-536539,22310,Ivory Knitting Mug,Kitchenware,12,2023-12-16 10:48,1.61,CUST-18310,United Kingdom
+INV-536641,22632,Hand Warmer Red Retrospot,Accessories,2,2023-12-16 11:31,1.73,CUST-13923,France
+INV-536751,85123A,White Hanging Heart T-Light Holder,Home Decor,6,2023-12-16 16:59,2.44,CUST-14840,United Kingdom
+INV-536847,22197,Small Popcorn Holder,Party Supplies,3,2023-12-16 17:36,0.86,CUST-16818,United Kingdom
+INV-536764,22616,Pack Of 12 London Tissues,Essentials,12,2023-12-17 12:17,0.28,CUST-17638,Germany
+INV-536508,71053,White Metal Lantern,Home Decor,1,2023-12-17 12:57,3.68,CUST-17391,United Kingdom
+INV-536680,22752,Set 7 Babushka Nesting Boxes,Toys & Games,1,2023-12-17 13:22,6.91,CUST-13934,United Kingdom
+INV-536460,22752,Set 7 Babushka Nesting Boxes,Toys & Games,2,2023-12-17 15:44,8.16,CUST-13493,United Kingdom
+INV-536593,22748,Poppy's Playhouse Kitchen,Toys & Games,3,2023-12-17 19:57,2.15,CUST-15998,United Kingdom
+INV-536586,22745,Poppy's Playhouse Bedroom,Toys & Games,1,2023-12-18 10:21,2.07,CUST-16015,Portugal
+INV-536550,84406B,Cream Cupid Hearts Coat Hanger,Home Decor,1,2023-12-18 12:52,2.56,CUST-16942,Germany
+INV-536794,84029E,Red Woolly Hottie White Heart.,Seasonal,2,2023-12-18 14:50,3.63,CUST-15698,Belgium
+INV-536568,22310,Ivory Knitting Mug,Kitchenware,1,2023-12-18 15:36,1.8,CUST-15901,Spain
+INV-536580,22197,Small Popcorn Holder,Party Supplies,3,2023-12-18 16:40,0.89,CUST-17503,France
+INV-536686,22616,Pack Of 12 London Tissues,Essentials,2,2023-12-19 13:55,0.3,CUST-14021,United Kingdom
+INV-536519,22383,Lunch Bag Suzi Doodle,Kitchenware,3,2023-12-19 17:14,1.67,CUST-15204,United Kingdom
+INV-536761,22310,Ivory Knitting Mug,Kitchenware,4,2023-12-19 18:15,1.54,CUST-18264,United Kingdom
+INV-536510,21977,Pack Of 60 Pink Paisley Cake Cases,Bakery,1,2023-12-19 19:05,0.58,CUST-14833,United Kingdom
+INV-536717,20727,Lunch Bag Black Skull.,Kitchenware,2,2023-12-20 09:09,1.64,CUST-16312,France
+INV-536724,22383,Lunch Bag Suzi Doodle,Kitchenware,1,2023-12-20 10:20,1.6,CUST-17511,United Kingdom
+INV-536766,20725,Lunch Bag Red Retrospot,Kitchenware,2,2023-12-20 13:08,1.6,CUST-16895,EIRE
+INV-536592,22632,Hand Warmer Red Retrospot,Accessories,1,2023-12-20 15:51,1.97,CUST-13366,United Kingdom
+INV-536812,22748,Poppy's Playhouse Kitchen,Toys & Games,6,2023-12-20 18:25,2.18,CUST-12717,EIRE
+INV-536671,20725,Lunch Bag Red Retrospot,Kitchenware,1,2023-12-20 19:36,1.54,CUST-12781,EIRE
+INV-536750,22748,Poppy's Playhouse Kitchen,Toys & Games,4,2023-12-21 09:12,2.23,CUST-15750,Netherlands
+INV-536562,22632,Hand Warmer Red Retrospot,Accessories,1,2023-12-21 09:22,1.74,CUST-12885,United Kingdom
+INV-536517,84969,Box Of 6 Assorted Colour Teaspoons,Kitchenware,2,2023-12-21 09:52,4.5,CUST-15351,EIRE
+INV-536843,22745,Poppy's Playhouse Bedroom,Toys & Games,1,2023-12-21 10:41,1.9,CUST-16987,Belgium
+INV-536710,84991,60 Teatime Fairy Cake Cases,Bakery,3,2023-12-22 11:11,0.53,CUST-12638,Germany
+INV-536695,20725,Lunch Bag Red Retrospot,Kitchenware,4,2023-12-22 12:21,1.53,CUST-16297,United Kingdom
+INV-536603,22752,Set 7 Babushka Nesting Boxes,Toys & Games,2,2023-12-22 18:20,7.66,CUST-18232,Germany
+INV-536507,84969,Box Of 6 Assorted Colour Teaspoons,Kitchenware,2,2023-12-23 11:19,4.31,CUST-12660,Germany
+INV-536631,22630,Dolly Girl Mini Backpack,Bags,3,2023-12-23 17:06,4.37,CUST-14085,United Kingdom
+INV-536407,71053,White Metal Lantern,Home Decor,6,2023-12-24 10:40,3.43,CUST-16021,Spain
+INV-536674,22383,Lunch Bag Suzi Doodle,Kitchenware,3,2023-12-24 10:48,1.63,CUST-16581,United Kingdom
+INV-536366,21977,Pack Of 60 Pink Paisley Cake Cases,Bakery,1,2023-12-24 14:21,0.58,CUST-13763,United Kingdom
+INV-536541,22492,Mini Painter's Set 25 Pieces,Crafts,1,2023-12-24 14:46,0.59,CUST-13954,Switzerland
+INV-536747,22310,Ivory Knitting Mug,Kitchenware,4,2023-12-24 17:34,1.73,CUST-13696,United Kingdom
+INV-536506,84879,Assorted Colour Bird Ornament,Gifts,1,2023-12-24 18:27,1.53,CUST-13468,EIRE
+INV-536493,71053,White Metal Lantern,Home Decor,4,2023-12-25 09:34,3.34,CUST-12565,Portugal
+INV-536424,22748,Poppy's Playhouse Kitchen,Toys & Games,2,2023-12-25 12:01,2.13,CUST-17392,Australia
+INV-536534,22310,Ivory Knitting Mug,Kitchenware,12,2023-12-27 09:00,1.7,CUST-12638,United Kingdom
+INV-536523,21730,Glass Star Frosted T-Light Holder,Home Decor,10,2023-12-27 09:36,4.06,CUST-16398,United Kingdom
+INV-536771,20725,Lunch Bag Red Retrospot,Kitchenware,3,2023-12-27 12:35,1.74,CUST-12673,Germany
+INV-536831,84969,Box Of 6 Assorted Colour Teaspoons,Kitchenware,3,2023-12-27 16:55,3.93,CUST-17689,United Kingdom
+INV-536820,20728,Lunch Bag Cars Blue,Kitchenware,1,2023-12-28 08:59,1.71,CUST-15744,Belgium
+INV-536755,22383,Lunch Bag Suzi Doodle,Kitchenware,24,2023-12-28 12:30,1.59,CUST-18178,Netherlands
+INV-536457,21212,Pack Of 72 Retrospot Cake Cases,Bakery,2,2023-12-28 15:28,0.59,CUST-12649,United Kingdom
+INV-536560,22492,Mini Painter's Set 25 Pieces,Crafts,1,2023-12-29 16:44,0.63,CUST-17027,Spain
+INV-536521,84879,Assorted Colour Bird Ornament,Gifts,1,2023-12-30 09:01,1.54,CUST-17308,EIRE
+INV-536526,22086,Paper Chain Kit 50's Christmas,Seasonal,3,2023-12-30 15:31,2.55,CUST-16631,United Kingdom
+INV-536802,71053,White Metal Lantern,Home Decor,2,2023-12-30 16:31,3.35,CUST-12921,United Kingdom
+INV-536467,22616,Pack Of 12 London Tissues,Essentials,2,2023-12-30 19:40,0.27,CUST-14961,United Kingdom
+INV-536631,22632,Hand Warmer Red Retrospot,Accessories,10,2023-12-30 19:50,1.73,CUST-16280,United Kingdom
+INV-536716,22616,Pack Of 12 London Tissues,Essentials,4,2023-12-31 16:17,0.3,CUST-16474,United Kingdom
+INV-536753,20728,Lunch Bag Cars Blue,Kitchenware,6,2023-12-31 16:18,1.79,CUST-13436,United Kingdom

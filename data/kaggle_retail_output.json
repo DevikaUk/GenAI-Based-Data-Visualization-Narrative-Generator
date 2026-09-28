@@ -1,0 +1,738 @@
+{
+  "dataset": {
+    "name": "online_retail_kaggle.csv",
+    "domain": "sales",
+    "record_count": 1500,
+    "date_range": {
+      "start": "2023-01-01",
+      "end": "2023-12-31"
+    },
+    "columns": {
+      "numeric": [
+        "quantity",
+        "unit_price",
+        "sales",
+        "profit",
+        "year",
+        "month",
+        "week",
+        "profit_margin",
+        "revenue"
+      ],
+      "categorical": [
+        "product",
+        "category",
+        "region",
+        "quarter",
+        "month_name",
+        "period_label"
+      ],
+      "temporal": [
+        "date"
+      ],
+      "identifier": [
+        "order_id"
+      ]
+    },
+    "column_catalogue": {
+      "order_id": {
+        "type": "identifier",
+        "meaning": "Unique order or transaction identifier",
+        "unit": null,
+        "expected_range": "Unique alphanumeric"
+      },
+      "date": {
+        "type": "temporal",
+        "meaning": "Transaction or order timestamp",
+        "unit": "YYYY-MM-DD",
+        "expected_range": "Temporal dates"
+      },
+      "product": {
+        "type": "categorical",
+        "meaning": "Product, item, or service description",
+        "unit": null,
+        "expected_range": "Distinct products"
+      },
+      "category": {
+        "type": "categorical",
+        "meaning": "High-level department or product category",
+        "unit": null,
+        "expected_range": "Category segments"
+      },
+      "region": {
+        "type": "categorical",
+        "meaning": "Geographic location, market, or zone",
+        "unit": null,
+        "expected_range": "Regional divisions"
+      },
+      "quantity": {
+        "type": "numeric",
+        "meaning": "Number of units purchased",
+        "unit": "units",
+        "expected_range": ">= 0"
+      },
+      "unit_price": {
+        "type": "numeric",
+        "meaning": "Price per unit before discount",
+        "unit": "INR",
+        "expected_range": ">= 0"
+      },
+      "sales": {
+        "type": "numeric",
+        "meaning": "Total transaction revenue (sales)",
+        "unit": "INR",
+        "expected_range": ">= 0"
+      },
+      "profit": {
+        "type": "numeric",
+        "meaning": "Net profit on transaction",
+        "unit": "INR",
+        "expected_range": "Real value (can be negative)"
+      },
+      "year": {
+        "type": "numeric",
+        "meaning": "Calendar year",
+        "unit": null,
+        "expected_range": "e.g. 2024"
+      },
+      "quarter": {
+        "type": "categorical",
+        "meaning": "Calendar quarter",
+        "unit": null,
+        "expected_range": "Q1 - Q4"
+      },
+      "month": {
+        "type": "numeric",
+        "meaning": "Calendar month number",
+        "unit": null,
+        "expected_range": "1 - 12"
+      },
+      "month_name": {
+        "type": "categorical",
+        "meaning": "Abbreviated month name",
+        "unit": null,
+        "expected_range": "Jan - Dec"
+      },
+      "week": {
+        "type": "numeric",
+        "meaning": "ISO calendar week number",
+        "unit": null,
+        "expected_range": "1 - 53"
+      },
+      "profit_margin": {
+        "type": "numeric",
+        "meaning": "Profit margin percentage",
+        "unit": "%",
+        "expected_range": "-100% to +100%"
+      },
+      "revenue": {
+        "type": "numeric",
+        "meaning": "Alias for sales revenue",
+        "unit": "INR",
+        "expected_range": ">= 0"
+      },
+      "period_label": {
+        "type": "categorical",
+        "meaning": "Year-Quarter grouping tag",
+        "unit": null,
+        "expected_range": "e.g. 2024-Q1"
+      }
+    }
+  },
+  "metrics": [
+    {
+      "name": "Total Revenue",
+      "value": 14514.920000000002,
+      "unit": "INR",
+      "description": "Total revenue (sum of sales) across all orders and periods."
+    },
+    {
+      "name": "Total Profit",
+      "value": 2177.238,
+      "unit": "INR",
+      "description": "Total profit across all orders."
+    },
+    {
+      "name": "Total Orders",
+      "value": 1500,
+      "unit": "orders",
+      "description": "Count of individual order records in the dataset."
+    },
+    {
+      "name": "Total Quantity Sold",
+      "value": 6040,
+      "unit": "units",
+      "description": "Sum of quantity sold across all orders."
+    },
+    {
+      "name": "Average Order Value",
+      "value": 9.676613333333334,
+      "unit": "INR",
+      "description": "Mean revenue per order = Total Revenue / Total Orders."
+    },
+    {
+      "name": "Profit Margin",
+      "value": 14.999999999999996,
+      "unit": "percent",
+      "description": "Overall profit as a percentage of revenue = (Total Profit / Total Revenue) \u00d7 100."
+    },
+    {
+      "name": "Best Monthly Revenue Growth",
+      "value": 60.737044995527214,
+      "unit": "percent",
+      "description": "Highest month-over-month revenue growth percentage observed."
+    },
+    {
+      "name": "Worst Monthly Revenue Growth",
+      "value": -38.304218150830856,
+      "unit": "percent",
+      "description": "Lowest (most negative) month-over-month revenue growth percentage observed."
+    }
+  ],
+  "trends": [
+    {
+      "metric": "Revenue",
+      "dimension": "date",
+      "direction": "increasing",
+      "change": 30.21,
+      "unit": "percent",
+      "period": {
+        "start": "2023-01-01",
+        "end": "2023-12-31"
+      },
+      "significance": "high"
+    }
+  ],
+  "comparisons": [
+    {
+      "dimension": "category",
+      "metric": "Revenue",
+      "highest": {
+        "name": "Kitchenware",
+        "value": 2894.62
+      },
+      "lowest": {
+        "name": "Essentials",
+        "value": 73.2
+      },
+      "all_values": [
+        {
+          "name": "Kitchenware",
+          "value": 2894.62
+        },
+        {
+          "name": "Home Decor",
+          "value": 2745.5
+        },
+        {
+          "name": "Toys & Games",
+          "value": 2346.74
+        },
+        {
+          "name": "Seasonal",
+          "value": 2332.33
+        },
+        {
+          "name": "Bags",
+          "value": 1934.23
+        },
+        {
+          "name": "Crafts",
+          "value": 799.75
+        },
+        {
+          "name": "Accessories",
+          "value": 447.14
+        },
+        {
+          "name": "Bakery",
+          "value": 396.86
+        },
+        {
+          "name": "Gifts",
+          "value": 394.48
+        },
+        {
+          "name": "Party Supplies",
+          "value": 150.07
+        },
+        {
+          "name": "Essentials",
+          "value": 73.2
+        }
+      ]
+    },
+    {
+      "dimension": "region",
+      "metric": "Revenue",
+      "highest": {
+        "name": "United Kingdom",
+        "value": 9125.29
+      },
+      "lowest": {
+        "name": "Portugal",
+        "value": 171.1
+      },
+      "all_values": [
+        {
+          "name": "United Kingdom",
+          "value": 9125.29
+        },
+        {
+          "name": "Germany",
+          "value": 1452.8
+        },
+        {
+          "name": "France",
+          "value": 1280.89
+        },
+        {
+          "name": "Spain",
+          "value": 729.13
+        },
+        {
+          "name": "Eire",
+          "value": 614.31
+        },
+        {
+          "name": "Australia",
+          "value": 307.45
+        },
+        {
+          "name": "Switzerland",
+          "value": 305.78
+        },
+        {
+          "name": "Netherlands",
+          "value": 281.14
+        },
+        {
+          "name": "Belgium",
+          "value": 247.03
+        },
+        {
+          "name": "Portugal",
+          "value": 171.1
+        }
+      ]
+    },
+    {
+      "dimension": "product",
+      "metric": "Revenue",
+      "top": [
+        {
+          "rank": 1,
+          "name": "Set 7 Babushka Nesting Boxes",
+          "value": 1545.73
+        },
+        {
+          "rank": 2,
+          "name": "Dolly Girl Mini Backpack",
+          "value": 1131.79
+        },
+        {
+          "rank": 3,
+          "name": "Red Woolly Hottie White Heart.",
+          "value": 921.63
+        },
+        {
+          "rank": 4,
+          "name": "Knitted Union Flag Hot Water Bottle",
+          "value": 919.96
+        },
+        {
+          "rank": 5,
+          "name": "Box Of 6 Assorted Colour Teaspoons",
+          "value": 912.58
+        }
+      ],
+      "bottom": [
+        {
+          "rank": 30,
+          "name": "Pack Of 12 London Tissues",
+          "value": 73.2
+        },
+        {
+          "rank": 29,
+          "name": "Pack Of 72 Retrospot Cake Cases",
+          "value": 83.09
+        },
+        {
+          "rank": 28,
+          "name": "Pack Of 60 Pink Paisley Cake Cases",
+          "value": 83.37
+        },
+        {
+          "rank": 27,
+          "name": "Mini Painter'S Set 25 Pieces",
+          "value": 101.6
+        },
+        {
+          "rank": 26,
+          "name": "60 Teatime Fairy Cake Cases",
+          "value": 114.32
+        }
+      ]
+    },
+    {
+      "largest_positive": {
+        "period_key": "2023-10",
+        "growth_pct": 60.74
+      },
+      "largest_negative": {
+        "period_key": "2023-07",
+        "growth_pct": -38.3
+      }
+    }
+  ],
+  "anomalies": [
+    {
+      "metric": "sales",
+      "dimension": "date",
+      "observation": "2023-01-02",
+      "value": 38.16,
+      "expected_range": {
+        "lower": -9.74,
+        "upper": 21.04
+      },
+      "type": "high",
+      "severity": "high"
+    },
+    {
+      "metric": "sales",
+      "dimension": "date",
+      "observation": "2023-01-06",
+      "value": 23.7,
+      "expected_range": {
+        "lower": -9.74,
+        "upper": 21.04
+      },
+      "type": "high",
+      "severity": "medium"
+    },
+    {
+      "metric": "sales",
+      "dimension": "date",
+      "observation": "2023-01-07",
+      "value": 32.64,
+      "expected_range": {
+        "lower": -9.74,
+        "upper": 21.04
+      },
+      "type": "high",
+      "severity": "high"
+    },
+    {
+      "metric": "sales",
+      "dimension": "date",
+      "observation": "2023-01-14",
+      "value": 35.0,
+      "expected_range": {
+        "lower": -9.74,
+        "upper": 21.04
+      },
+      "type": "high",
+      "severity": "high"
+    },
+    {
+      "metric": "sales",
+      "dimension": "date",
+      "observation": "2023-01-15",
+      "value": 26.8,
+      "expected_range": {
+        "lower": -9.74,
+        "upper": 21.04
+      },
+      "type": "high",
+      "severity": "medium"
+    },
+    {
+      "metric": "sales",
+      "dimension": "date",
+      "observation": "2023-01-20",
+      "value": 30.8,
+      "expected_range": {
+        "lower": -9.74,
+        "upper": 21.04
+      },
+      "type": "high",
+      "severity": "medium"
+    },
+    {
+      "metric": "sales",
+      "dimension": "date",
+      "observation": "2023-01-20",
+      "value": 77.28,
+      "expected_range": {
+        "lower": -9.74,
+        "upper": 21.04
+      },
+      "type": "high",
+      "severity": "high"
+    },
+    {
+      "metric": "sales",
+      "dimension": "date",
+      "observation": "2023-01-24",
+      "value": 72.48,
+      "expected_range": {
+        "lower": -9.74,
+        "upper": 21.04
+      },
+      "type": "high",
+      "severity": "high"
+    },
+    {
+      "metric": "sales",
+      "dimension": "date",
+      "observation": "2023-01-27",
+      "value": 25.74,
+      "expected_range": {
+        "lower": -9.74,
+        "upper": 21.04
+      },
+      "type": "high",
+      "severity": "medium"
+    },
+    {
+      "metric": "sales",
+      "dimension": "date",
+      "observation": "2023-01-28",
+      "value": 22.56,
+      "expected_range": {
+        "lower": -9.74,
+        "upper": 21.04
+      },
+      "type": "high",
+      "severity": "medium"
+    }
+  ],
+  "distributions": [
+    {
+      "metric": "sales",
+      "mean": 9.68,
+      "median": 4.26,
+      "minimum": 0.27,
+      "maximum": 211.2,
+      "std": 18.51,
+      "q1": 1.8,
+      "q3": 9.53
+    },
+    {
+      "metric": "profit",
+      "mean": 1.45,
+      "median": 0.64,
+      "minimum": 0.04,
+      "maximum": 31.68,
+      "std": 2.78,
+      "q1": 0.27,
+      "q3": 1.43
+    },
+    {
+      "metric": "unit_price",
+      "mean": 2.29,
+      "median": 1.86,
+      "minimum": 0.26,
+      "maximum": 8.37,
+      "std": 1.56,
+      "q1": 1.35,
+      "q3": 3.29
+    },
+    {
+      "metric": "quantity",
+      "mean": 4.03,
+      "median": 2.0,
+      "minimum": 1.0,
+      "maximum": 48.0,
+      "std": 5.7,
+      "q1": 1.0,
+      "q3": 4.0
+    }
+  ],
+  "visualizations": [
+    {
+      "title": "Monthly Revenue",
+      "type": "line",
+      "metric": "Revenue",
+      "dimension": "period",
+      "data": [
+        {
+          "period": "2023-01",
+          "value": 990.74
+        },
+        {
+          "period": "2023-02",
+          "value": 914.25
+        },
+        {
+          "period": "2023-03",
+          "value": 1256.34
+        },
+        {
+          "period": "2023-04",
+          "value": 1106.49
+        },
+        {
+          "period": "2023-05",
+          "value": 1320.12
+        },
+        {
+          "period": "2023-06",
+          "value": 1455.14
+        },
+        {
+          "period": "2023-07",
+          "value": 897.76
+        },
+        {
+          "period": "2023-08",
+          "value": 1341.6
+        },
+        {
+          "period": "2023-09",
+          "value": 1084.33
+        },
+        {
+          "period": "2023-10",
+          "value": 1742.92
+        },
+        {
+          "period": "2023-11",
+          "value": 1115.16
+        },
+        {
+          "period": "2023-12",
+          "value": 1290.07
+        }
+      ],
+      "summary": "Revenue trended increasing (+30.2%) over the reporting period."
+    },
+    {
+      "title": "Revenue by Category",
+      "type": "bar",
+      "metric": "Revenue",
+      "dimension": "category",
+      "data": [
+        {
+          "category": "Kitchenware",
+          "value": 2894.62
+        },
+        {
+          "category": "Home Decor",
+          "value": 2745.5
+        },
+        {
+          "category": "Toys & Games",
+          "value": 2346.74
+        },
+        {
+          "category": "Seasonal",
+          "value": 2332.33
+        },
+        {
+          "category": "Bags",
+          "value": 1934.23
+        },
+        {
+          "category": "Crafts",
+          "value": 799.75
+        },
+        {
+          "category": "Accessories",
+          "value": 447.14
+        },
+        {
+          "category": "Bakery",
+          "value": 396.86
+        },
+        {
+          "category": "Gifts",
+          "value": 394.48
+        },
+        {
+          "category": "Party Supplies",
+          "value": 150.07
+        },
+        {
+          "category": "Essentials",
+          "value": 73.2
+        }
+      ],
+      "summary": "Kitchenware generated the highest revenue (INR 2,895)."
+    },
+    {
+      "title": "Revenue by Region",
+      "type": "bar",
+      "metric": "Revenue",
+      "dimension": "region",
+      "data": [
+        {
+          "region": "United Kingdom",
+          "value": 9125.29
+        },
+        {
+          "region": "Germany",
+          "value": 1452.8
+        },
+        {
+          "region": "France",
+          "value": 1280.89
+        },
+        {
+          "region": "Spain",
+          "value": 729.13
+        },
+        {
+          "region": "Eire",
+          "value": 614.31
+        },
+        {
+          "region": "Australia",
+          "value": 307.45
+        },
+        {
+          "region": "Switzerland",
+          "value": 305.78
+        },
+        {
+          "region": "Netherlands",
+          "value": 281.14
+        },
+        {
+          "region": "Belgium",
+          "value": 247.03
+        },
+        {
+          "region": "Portugal",
+          "value": 171.1
+        }
+      ],
+      "summary": "United Kingdom led all regions in revenue."
+    },
+    {
+      "title": "Quarterly Revenue",
+      "type": "bar",
+      "metric": "Revenue",
+      "dimension": "period",
+      "data": [
+        {
+          "period": "2023-Q1",
+          "value": 3161.33
+        },
+        {
+          "period": "2023-Q2",
+          "value": 3881.75
+        },
+        {
+          "period": "2023-Q3",
+          "value": 3323.69
+        },
+        {
+          "period": "2023-Q4",
+          "value": 4148.15
+        }
+      ],
+      "summary": "Quarterly revenue breakdown for the reporting period."
+    }
+  ]
+}
