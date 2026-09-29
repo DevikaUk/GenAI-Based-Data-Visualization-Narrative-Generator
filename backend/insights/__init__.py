@@ -1,5 +1,5 @@
 """
-Insights and Visualization Engine Package (Member 2 Module).
+Insights and Visualization Engine Package.
 """
 
 from .trend_detector import TrendDetector

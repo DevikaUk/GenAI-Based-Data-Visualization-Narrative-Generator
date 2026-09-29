@@ -1,6 +1,6 @@
 """
-preprocessing.py — Member 1 Deliverable
-========================================
+preprocessing.py — Data Preprocessing Pipeline
+=============================================
 Loads, validates, cleans, and transforms the sales CSV into a clean DataFrame
 ready for the KPI and analytics engines.
 

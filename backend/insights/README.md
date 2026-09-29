@@ -1,11 +1,10 @@
-# Member 2: Visualization & Insight Engine
+# Visualization & Insight Engine
 
 This module implements the **Visualization & Insight Engine** for the GenAI-Based Data Visualization Narrative Generator.
 
 ## Responsibilities
-As defined in Section 3 and Section 6 of the project implementation plan:
-- **Consumes:** Cleaned data/analytics (Member 1).
-- **Produces:** Structured Insights JSON contract (consumed by Member 3's LLM prompt builder) and visualization artifacts (consumed by the React dashboard).
+- **Consumes:** Cleaned data and statistical metrics from the Data Analytics Pipeline.
+- **Produces:** Structured Insights JSON contract (consumed by the LLM prompt builder) and visualization artifacts (consumed by dashboards and reports).
 
 ---
 

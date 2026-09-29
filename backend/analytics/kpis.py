@@ -1,6 +1,6 @@
 """
-kpis.py — Member 1 Deliverable
-================================
+kpis.py — Business KPI Engine
+============================
 KPI engine: computes headline business metrics from a clean DataFrame.
 
 Design rules

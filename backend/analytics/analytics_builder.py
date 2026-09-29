@@ -1,6 +1,6 @@
 """
-analytics_builder.py — Member 1 Deliverable
-=============================================
+analytics_builder.py — Analytics Pipeline Orchestrator
+=====================================================
 Orchestrator that combines preprocessing + KPI + trend outputs into the
 shared analytics JSON contract defined in the project specification.
 
@@ -29,7 +29,7 @@ logger = logging.getLogger(__name__)
 
 
 def build_analytics_json(csv_path: str | Path) -> dict:
-    """Run the full Member-1 pipeline and return the analytics JSON dict.
+    """Run the full analytics pipeline and return the analytics JSON dict.
 
     Parameters
     ----------
@@ -81,7 +81,7 @@ def build_analytics_json(csv_path: str | Path) -> dict:
     # ── 4. Trends, comparisons, anomalies, distributions ─────────────────────
     analytics_payload = compute_all_trends_and_comparisons(df)
 
-    # ── 5. Time-series data (for visualization layer / Member 2) ─────────────
+    # ── 5. Time-series data (for visualization layer) ─────────────────────────
     monthly  = monthly_revenue(df)
     quarterly = quarterly_revenue(df)
 

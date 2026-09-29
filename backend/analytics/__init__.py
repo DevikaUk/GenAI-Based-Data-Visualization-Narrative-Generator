@@ -1,1 +1,1 @@
-# analytics package — Member 1
+# analytics package — Data Preprocessing & Analytics Pipeline

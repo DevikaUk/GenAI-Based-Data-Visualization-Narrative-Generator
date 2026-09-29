@@ -2,7 +2,7 @@
 adapt_superstore.py — Adapter for the Kaggle Superstore dataset
 ================================================================
 Converts the raw Superstore CSV column names and structure into the
-format expected by the Member 1 analytics pipeline.
+format expected by the analytics pipeline.
 
 The Superstore dataset has columns like:
   Row ID, Order ID, Order Date, Ship Date, Ship Mode, Customer ID,

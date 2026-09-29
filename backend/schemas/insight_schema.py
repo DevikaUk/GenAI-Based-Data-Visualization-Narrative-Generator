@@ -1,9 +1,9 @@
 """
 Structured Insight Schema Definition.
 
-Defines the common JSON contract agreed upon across team members (Section 4).
-Member 2 produces this schema, which Member 3 consumes for prompt construction
-and numerical validation.
+Defines the common JSON contract agreed upon across pipeline stages.
+The insight engine produces this schema, which the LLM narrative module
+consumes for prompt construction and numerical validation.
 """
 
 from typing import List, Dict, Optional, Any, Union

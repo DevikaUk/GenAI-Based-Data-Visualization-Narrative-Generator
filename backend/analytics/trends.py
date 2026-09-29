@@ -1,6 +1,6 @@
 """
-trends.py — Member 1 Deliverable
-===================================
+trends.py — Trend & Comparison Analytics Engine
+=============================================
 Computes trends, period-over-period comparisons, category/region rankings,
 and anomaly detections.  Produces output conforming to the shared analytics
 JSON schema (trends / comparisons / anomalies / distributions sections).
@@ -354,7 +354,7 @@ def compute_all_trends_and_comparisons(df: pd.DataFrame) -> dict:
     """Build the full trends / comparisons / anomalies / distributions payload.
 
     This is the primary output consumed by the analytics JSON builder and
-    subsequently by Member 2's insight engine.
+    subsequently by the insight engine.
 
     Returns
     -------

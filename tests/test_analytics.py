@@ -1,8 +1,8 @@
 """
-test_member1.py — Unit tests for Member 1 deliverables
-=======================================================
+test_analytics.py — Unit tests for Data & Analytics Pipeline
+===========================================================
 Tests cover preprocessing, KPI calculations, and trend/anomaly detection.
-Run with:  pytest tests/test_member1.py -v
+Run with:  pytest tests/test_analytics.py -v
 """
 
 from __future__ import annotations

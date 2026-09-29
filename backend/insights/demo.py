@@ -1,12 +1,12 @@
 """
-Demo & Integration Script for Member 2 (Visualization & Insight Engine).
+Demo & Integration Script for the Visualization & Insight Engine.
 
 Demonstrates:
 1. Loading the business dataset.
-2. Generating the complete Structured Insights JSON matching Section 4.
+2. Generating the complete Structured Insights JSON matching the schema contract.
 3. Rendering and exporting charts (Time-series, Bar, Distribution).
 4. Generating Plotly-compatible JSON structures.
-5. Verifying interoperability with Member 3's prompt builder and validator.
+5. Verifying interoperability with the downstream prompt builder and validator.
 """
 
 import os
@@ -23,7 +23,7 @@ from backend.llm.validation import extract_source_numbers
 
 def run_demo():
     print("=" * 60)
-    print("MEMBER 2: VISUALIZATION & INSIGHT ENGINE DEMO")
+    print("VISUALIZATION & INSIGHT ENGINE DEMO")
     print("=" * 60)
 
     # 1. Load sample dataset
@@ -100,16 +100,16 @@ def run_demo():
     plotly_line = vis.create_plotly_line_chart(df, date_col="date", metric_col="sales", title="Interactive Sales Trend")
     print(f"    - Plotly Line Spec keys: {list(plotly_line.keys())}, points: {len(plotly_line['data'][0]['x'])}")
 
-    # 6. Verify Interoperability with Member 3's LLM Prompt Builder & Validator
-    print("\n[6] Verifying interoperability with Member 3's LLM Prompt Builder...")
+    # 6. Verify Interoperability with LLM Prompt Builder & Validator
+    print("\n[6] Verifying interoperability with LLM Prompt Builder...")
     prompt = build_prompt(insights_dict)
     print("    - Prompt built successfully! Character length:", len(prompt))
 
     source_numbers = extract_source_numbers(insights_dict)
-    print(f"    - Member 3 validator successfully extracted {len(source_numbers)} ground-truth numbers.")
+    print(f"    - Validator successfully extracted {len(source_numbers)} ground-truth numbers.")
 
     print("\n" + "=" * 60)
-    print("ALL MEMBER 2 PIPELINE STEPS COMPLETED SUCCESSFULLY!")
+    print("ALL PIPELINE STEPS COMPLETED SUCCESSFULLY!")
     print("=" * 60)
 
 

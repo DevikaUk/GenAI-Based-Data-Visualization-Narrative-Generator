@@ -1,9 +1,9 @@
 """
-Structured Insight Generation Pipeline (Member 2 Primary Orchestrator).
+Structured Insight Generation Pipeline (Primary Orchestrator).
 
 Combines trend detection, anomaly detection, categorical comparisons,
 distribution statistics, and chart summaries to generate the canonical
-Structured Insights JSON contract (Section 4) required by Member 3's LLM prompt builder.
+Structured Insights JSON contract required by the LLM prompt builder.
 """
 
 from typing import List, Dict, Any, Optional, Union
