@@ -1,0 +1,27 @@
+# Core Data & Analytics
+pandas>=2.0.0
+numpy>=1.24.0
+scipy>=1.11.0
+statsmodels>=0.14.0
+
+# Visualization
+plotly>=5.18.0
+matplotlib>=3.8.0
+
+# Data Validation & Schema Contract
+pydantic>=2.6.0
+
+# LLM, PEFT & Quantization
+torch>=2.2.0
+transformers>=4.40.0
+accelerate>=0.28.0
+peft>=0.10.0
+bitsandbytes>=0.43.0
+datasets>=2.18.0
+trl>=0.8.0
+
+# Testing & Notebooks
+pytest>=8.0.0
+pytest-cov>=4.1.0
+jupyter>=1.0.0
+ipykernel>=6.29.0
